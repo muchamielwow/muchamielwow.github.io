@@ -4,7 +4,7 @@ const $=id=>document.getElementById(id);
 const select=$('class-select');
 for(const c of DATA.classes){const o=document.createElement('option');o.value=c.key;o.textContent=c.name;select.append(o);}
 let cls=DATA.classes.find(c=>c.slug===new URLSearchParams(location.search).get('class'))?.key||'Warrior';
-let level=30,legacy=5,useLegacy=true,ranks=[{},{},{}],inspection=null;
+let level=60,legacy=5,useLegacy=false,ranks=[{},{},{}],inspection=null;
 const cache={};
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const trees=()=>DATA.talents[cls].trees;
