@@ -1,3 +1,4 @@
+document.addEventListener('click',function(e){var b=e.target.closest('[data-correo]');if(!b)return;e.preventDefault();var EN=document.documentElement.lang==='en',m=b.getAttribute('data-correo').replace('|','@'),h=b.closest('.foot-icons,.actions')||b,v=h.nextElementSibling;if(v&&v.classList.contains('correo-ver')){v.remove();return}v=document.createElement('p');v.className='correo-ver';v.innerHTML='<span>'+(EN?'Email:':'Correo:')+'</span><a href="mailto:'+m+'">'+m+'</a><button type="button">'+(EN?'Copy':'Copiar')+'</button>';h.after(v);v.querySelector('button').onclick=function(){var t=this;(navigator.clipboard?navigator.clipboard.writeText(m):Promise.reject()).then(function(){t.textContent=EN?'Copied':'Copiado'},function(){t.textContent=m})}});
 (function(){
 var CH='muchamiel',KEY='mm-live2',root=document.documentElement,EN=root.lang==='en';
 var URLS={tw:'https://www.twitch.tv/'+CH,kick:'https://kick.com/'+CH},NAMES={tw:'Twitch',kick:'Kick'};
