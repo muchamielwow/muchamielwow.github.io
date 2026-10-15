@@ -4,7 +4,7 @@ const $=id=>document.getElementById(id);
 const select=$('class-select');
 for(const c of DATA.classes){const o=document.createElement('option');o.value=c.key;o.textContent=c.name;select.append(o);}
 let cls=DATA.classes.find(c=>c.slug===new URLSearchParams(location.search).get('class'))?.key||'Warrior';
-let level=60,legacy=5,useLegacy=false,ranks=[{},{},{}],inspection=null;
+let level=60,legacy=0,useLegacy=false,ranks=[{},{},{}],inspection=null;
 const cache={};
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const trees=()=>DATA.talents[cls].trees;
@@ -26,7 +26,7 @@ function valid(a){
     });
   });
 }
-function save(){cache[cls]=ranks;try{localStorage.setItem('forever-talents-v1',JSON.stringify({cache,level,legacy,useLegacy}));}catch{}}
+function save(){cache[cls]=ranks;try{localStorage.setItem('forever-talents-v2',JSON.stringify({cache,level,legacy,useLegacy}));}catch{}}
 function buildUrl(){const u=new URL(location.href);u.search='?class='+DATA.classes.find(c=>c.key===cls).slug;u.hash=encodeURIComponent(JSON.stringify({c:cls,l:level,g:legacy,e:useLegacy,a:ranks}));return u.href;}
 function showInfo(t,i){
   inspection={t,i};const rank=ranks[i][t.name]||0;
@@ -71,6 +71,6 @@ select.addEventListener('change',()=>{save();cls=select.value;ranks=cache[cls]||
 $('reset').addEventListener('click',()=>{ranks=[{},{},{}];inspection=null;save();render();$('message').textContent='Allocation reset.';});
 $('presets').addEventListener('click',e=>{const b=e.target.closest('[data-preset]');if(!b)return;const a=DATA.presets[cls][Number(b.dataset.preset)].allocation;if(!valid(a)){$('message').textContent='La propuesta no coincide con estos datos de beta; contrástala en la guía.';return;}if(used(a)>budget()){$('message').textContent='This suggestion uses 26 points. Increase the maximum level or enable Legacy.';return;}ranks=a.map(t=>({...t}));inspection=null;save();render();$('message').textContent='Propuesta cargada; puedes editarla.';});
 $('share').addEventListener('click',async()=>{const input=$('build-url');try{if(navigator.clipboard&&isSecureContext)await navigator.clipboard.writeText(input.value);else{input.select();if(!document.execCommand('copy'))throw Error();}$('message').textContent='Link copied.';}catch{input.focus();input.select();$('message').textContent='Copy the selected link.';}});
-try{const saved=JSON.parse(localStorage.getItem('forever-talents-v1')||'null');if(saved){Object.assign(cache,saved.cache||{});level=Math.max(10,Math.min(60,Number(saved.level)||30));legacy=Math.max(0,Math.min(5,Number(saved.legacy)||0));useLegacy=!!saved.useLegacy;ranks=cache[cls]||[{},{},{}];}}catch{}
+try{const v2=JSON.parse(localStorage.getItem('forever-talents-v2')||'null'),saved=v2||JSON.parse(localStorage.getItem('forever-talents-v1')||'null');if(saved){Object.assign(cache,saved.cache||{});if(v2){level=Math.max(10,Math.min(60,Number(saved.level)||60));legacy=Math.max(0,Math.min(5,Number(saved.legacy)||0));useLegacy=!!saved.useLegacy;}ranks=cache[cls]||[{},{},{}];}}catch{}
 if(location.hash){try{const b=JSON.parse(decodeURIComponent(location.hash.slice(1)));if(DATA.talents[b.c]&&Number.isInteger(b.l)&&b.l>=10&&b.l<=60&&Number.isInteger(b.g)&&b.g>=0&&b.g<=5){const prev={cls,level,legacy,useLegacy,ranks};cls=b.c;level=b.l;legacy=b.g;useLegacy=!!b.e;ranks=b.a;if(!valid(ranks)||used()>budget())({cls,level,legacy,useLegacy,ranks}=prev);}}catch{$('message').textContent='The link does not contain a valid build.';}}
 if(!valid(ranks)||used()>budget())ranks=[{},{},{}];render();
