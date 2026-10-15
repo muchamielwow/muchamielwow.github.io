@@ -227,6 +227,21 @@ table.keys{border-collapse:collapse;width:100%;margin:10px 0}.keys th,.keys td{p
 .sponsor-box{display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap;margin:0 0 10px;padding:20px 22px;border:1px solid #c99a3c88;border-radius:10px;background:linear-gradient(120deg,#2a2210,#0d1119);text-align:left}
 .sponsor-box h3{margin:0 0 6px;color:var(--gold)}.sponsor-box p{margin:0;color:#dfe5ee;max-width:680px}.sponsor-box .eyebrow{margin:0}.sponsor-box b{color:#ffe7a6}
 @media(max-width:820px){.addons{grid-template-columns:1fr}}
+.beta-cta{display:flex;gap:22px;align-items:center;flex-wrap:wrap;margin:26px 0;padding:24px 26px;border:2px solid #3ddc84;border-radius:12px;background:linear-gradient(120deg,#0d3b22,#0b1410 70%);box-shadow:0 0 30px #3ddc8433;text-align:left}
+.beta-cta>div{flex:1;min-width:240px}.beta-cta h2,.beta-cta h3{margin:4px 0 8px;color:#b6f5cb}.beta-cta h2{font-size:clamp(24px,3.6vw,34px)}.beta-cta .eyebrow{color:#7ee0a0;margin:0}
+.beta-cta p{color:#e6f5ec}.beta-cta .soc-row{flex-basis:100%;justify-content:center;margin:4px 0 0}
+.beta-face{width:96px;height:96px;border-radius:50%;border:3px solid #3ddc84;box-shadow:0 0 0 5px #0b1410;flex:none}
+.mini-pasos{margin:8px 0 14px;padding-left:22px;color:#fff;font-weight:600}.mini-pasos li{margin:4px 0}
+.pasos{list-style:none;counter-reset:paso;margin:0;padding:0;display:grid;gap:10px}
+.pasos li{counter-increment:paso;position:relative;padding:14px 16px 14px 58px;border:1px solid #2c3444;border-radius:8px;background:#0f141d}
+.pasos li:before{content:counter(paso);position:absolute;left:14px;top:12px;width:30px;height:30px;border-radius:50%;background:linear-gradient(#ffd97a,#b8842c);color:#1b1204;font:700 15px "Cinzel",Georgia,serif;display:flex;align-items:center;justify-content:center}
+.pasos strong{display:block;color:var(--gold);font-size:16px}.pasos span{color:#dfe5ee}.pasos a{color:#ffe7a6}
+.facts{display:grid;grid-template-columns:1fr 1fr;gap:14px}.fact{padding:18px;border-radius:10px;border:1px solid #2fae6288;background:#0f1a14}.fact.wait{border-color:#c99a3c88;background:#1b1810}
+.fact h3{margin:0 0 8px;color:#b6f5cb}.fact.wait h3{color:#ffe7a6}.fact ul{margin:0;padding-left:20px}.fact li{margin:6px 0;color:#dfe5ee}
+.news-card{position:relative;display:block;padding:22px 24px;border:2px solid #3ddc84;border-radius:12px;background:linear-gradient(120deg,#0d3b22,#0b1410 70%);text-decoration:none;text-align:left;margin-bottom:10px}
+.news-card:hover{box-shadow:0 0 24px #3ddc8444}.news-card h3{margin:4px 0 6px;font-size:22px;color:#fff}.news-card p{color:#d7f3e2}.news-card .eyebrow{color:#7ee0a0;margin:0}
+.badge-new{position:absolute;top:-11px;right:18px;padding:3px 10px;border-radius:4px;background:#c81e1e;color:#fff;font:700 12px "Segoe UI",sans-serif;letter-spacing:.08em}
+@media(max-width:700px){.facts{grid-template-columns:1fr}.beta-face{width:72px;height:72px}}
 main{overflow-x:clip}
 footer.site-foot{position:relative;margin:64px calc(50% - 50vw) -72px;padding:44px 0 28px;border-top:1px solid var(--gold-line);font-size:14px;color:#aab4c4;
 background:linear-gradient(180deg,#0b0e15f2,#05070bfa),url("../../assets/horde.png") center 30%/cover;box-shadow:inset 0 1px 0 #f3c76a1f}
