@@ -1,0 +1,24 @@
+# Avisos oficiales de Blizzard sobre WoW Forever para la portada y Noticias (Van, 16-10-2026).
+# Cada 20 minutos lee el foro de Blizzard y, si hay algo nuevo, actualiza datos/avisos-blizzard.json (GitHub Pages lo publica solo).
+# El script es copia de wow-forever-torneo/avisos_blizzard.py en el PC de Van.
+name: Avisos de Blizzard
+on:
+  schedule:
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: avisos
+jobs:
+  avisos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 .github/avisos_blizzard.py .
+      - run: |
+          git diff --quiet -- datos/ && exit 0
+          git config user.name "avisos-blizzard"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add datos/avisos-blizzard.json
+          git commit -m "Avisos de Blizzard actualizados"
+          git push

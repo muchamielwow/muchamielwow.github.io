@@ -4,7 +4,7 @@
    - Filas de botones (CHIPS): estrecha la fila lo justo para repartir los botones por igual entre las líneas, centradas. */
 (function () {
   var GRID = {'.spells': 190, '.cf-grid': 340, '.cambios-clases': 300, '.bios': 230, '.profs': 300, '.race-grid': 150, '.tiles': 230,
-    '.addons': 440, '.brands': 190, '.codes': 190, '.vgrid:not(.shorts)': 250, '.vgrid.shorts': 150, '.foot-partners>div': 150, '.apartados': 260};
+    '.addons': 440, '.brands': 190, '.codes': 190, '.vgrid:not(.shorts)': 250, '.vgrid.shorts': 150, '.foot-partners>div': 150, '.apartados': 260, '.avisos': 280};
   var CHIPS = ['.quick', '.race-chips', '.mtags', '.race-classes', '.class-chips', '.fnav', '.soc-row', '.calc-classes', '.foot-icons'];
   function vis(el) { return Array.prototype.filter.call(el.children, function (k) { return k.offsetWidth > 0 && getComputedStyle(k).position !== 'absolute'; }); }
   function rows(kids) { var t = {}, n = 0; kids.forEach(function (k) { var y = Math.round(k.offsetTop / 6); if (!(y in t)) { t[y] = 0; n++; } t[y]++; }); return Object.keys(t).sort(function (a, b) { return a - b; }).map(function (y) { return t[y]; }); }
