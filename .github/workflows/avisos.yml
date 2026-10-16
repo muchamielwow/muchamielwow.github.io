@@ -15,10 +15,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: python3 .github/avisos_blizzard.py .
+      - run: python3 .github/youtube_directo.py .  # 16-10: ¿Muchamiel en directo en YouTube?
       - run: |
           git diff --quiet -- datos/ && exit 0
           git config user.name "avisos-blizzard"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add datos/avisos-blizzard.json
-          git commit -m "Avisos de Blizzard actualizados"
+          git add datos/
+          git commit -m "Avisos de Blizzard y directo de YouTube actualizados"
           git push
