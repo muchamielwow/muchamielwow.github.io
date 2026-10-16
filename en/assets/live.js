@@ -7,8 +7,8 @@ function store(v){try{sessionStorage.setItem(KEY,JSON.stringify({t:Date.now(),v:
 function cached(){try{var c=JSON.parse(sessionStorage.getItem(KEY));if(c&&Date.now()-c.t<90000)return c.v}catch(e){}return null}
 function chips(v){return ['tw','kick'].filter(function(p){return v[p]}).map(function(p){return '<a class="lp '+p+'" href="'+URLS[p]+'" target="_blank" rel="noopener noreferrer">'+NAMES[p]+'</a>'}).join('')}
 function apply(v){var on=!!(v.tw||v.kick);root.classList.toggle('is-live',on);
-document.querySelectorAll('a.live').forEach(function(a){a.textContent=on?'ONLINE':'OFFLINE';a.href=v.tw?URLS.tw:(v.kick?URLS.kick:URLS.tw);
-a.title=on?(EN?'Muchamiel is live':'Muchamiel is live'):(EN?'Muchamiel is offline':'Muchamiel is offline right now')});
+document.querySelectorAll('a.live').forEach(function(a){a.textContent=on?(v.tw?(EN?'LIVE · WATCH ▸':'LIVE · WATCH ▸'):(EN?'LIVE ON KICK · WATCH ▸':'LIVE ON KICK · WATCH ▸')):'OFFLINE';a.href=v.tw?URLS.tw:(v.kick?URLS.kick:URLS.tw);
+a.title=on?(EN?'Muchamiel is live: watch now':'Muchamiel is live: watch now'):(EN?'Muchamiel is offline: go to his Twitch channel':'Muchamiel is offline: go to his Twitch channel')});
 document.querySelectorAll('.live-on').forEach(function(s){s.innerHTML=chips(v)});
 document.querySelectorAll('.live-banner').forEach(function(b){var t=b.querySelector('.t');if(t)t.textContent=v.title||(EN?'Live now':'Live now');var g=b.querySelector('.go');if(g)g.innerHTML=chips(v)})}
 function txt(u){return fetch(u,{cache:'no-store'}).then(function(r){return r.ok?r.text():''}).catch(function(){return ''})}

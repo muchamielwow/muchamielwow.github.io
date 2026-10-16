@@ -7,8 +7,8 @@ function store(v){try{sessionStorage.setItem(KEY,JSON.stringify({t:Date.now(),v:
 function cached(){try{var c=JSON.parse(sessionStorage.getItem(KEY));if(c&&Date.now()-c.t<90000)return c.v}catch(e){}return null}
 function chips(v){return ['tw','kick'].filter(function(p){return v[p]}).map(function(p){return '<a class="lp '+p+'" href="'+URLS[p]+'" target="_blank" rel="noopener noreferrer">'+NAMES[p]+'</a>'}).join('')}
 function apply(v){var on=!!(v.tw||v.kick);root.classList.toggle('is-live',on);
-document.querySelectorAll('a.live').forEach(function(a){a.textContent=on?'ONLINE':'OFFLINE';a.href=v.tw?URLS.tw:(v.kick?URLS.kick:URLS.tw);
-a.title=on?(EN?'Muchamiel is live':'Muchamiel está en directo'):(EN?'Muchamiel is offline':'Muchamiel ahora no está en directo')});
+document.querySelectorAll('a.live').forEach(function(a){a.textContent=on?(v.tw?(EN?'LIVE · WATCH ▸':'EN DIRECTO · VER ▸'):(EN?'LIVE ON KICK · WATCH ▸':'EN DIRECTO EN KICK · VER ▸')):'OFFLINE';a.href=v.tw?URLS.tw:(v.kick?URLS.kick:URLS.tw);
+a.title=on?(EN?'Muchamiel is live: watch now':'Muchamiel está en directo: entra a verlo'):(EN?'Muchamiel is offline: go to his Twitch channel':'Muchamiel ahora no está en directo: ir a su canal de Twitch')});
 document.querySelectorAll('.live-on').forEach(function(s){s.innerHTML=chips(v)});
 document.querySelectorAll('.live-banner').forEach(function(b){var t=b.querySelector('.t');if(t)t.textContent=v.title||(EN?'Live now':'En directo ahora');var g=b.querySelector('.go');if(g)g.innerHTML=chips(v)})}
 function txt(u){return fetch(u,{cache:'no-store'}).then(function(r){return r.ok?r.text():''}).catch(function(){return ''})}
