@@ -3,7 +3,7 @@
      si aun así sobra alguna, queda centrada.
    - Filas de botones (CHIPS): estrecha la fila lo justo para repartir los botones por igual entre las líneas, centradas. */
 (function () {
-  var GRID = {'.spells': 190, '.cf-grid': 340, '.cambios-clases': 300, '.bios': 230, '.profs': 300, '.race-grid': 150, '.tiles': 230,
+  var GRID = {'.spells': 190, '.cf-grid': 340, '.bios': 230, '.profs': 300, '.race-grid': 150, '.tiles': 230,
     '.addons': 440, '.brands': 190, '.codes': 190, '.vgrid:not(.shorts)': 250, '.vgrid.shorts': 150, '.foot-partners>div': 150, '.apartados': 260, '.avisos': 280};
   var CHIPS = ['.quick', '.race-chips', '.mtags', '.race-classes', '.class-chips', '.fnav', '.soc-row', '.calc-classes', '.foot-icons'];
   function vis(el) { return Array.prototype.filter.call(el.children, function (k) { return k.offsetWidth > 0 && getComputedStyle(k).position !== 'absolute'; }); }
