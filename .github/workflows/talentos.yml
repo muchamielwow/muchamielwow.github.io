@@ -1,0 +1,25 @@
+# Talentos de la calculadora al día con talentsforever.com (Van, 16-10-2026: «que se actualice sola siempre»).
+# Cada 6 horas baja su data.json y, si ha cambiado, reescribe los datos de calculadora/ y en/calculadora/ (GitHub Pages lo publica solo).
+# El script es copia de wow-forever-torneo/actualizar_talentos.py en el PC de Van (subir-github.sh la pone al día).
+name: Talentos de la calculadora
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: avisos
+jobs:
+  talentos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 .github/actualizar_talentos.py calculadora/index.html en/calculadora/index.html
+      - run: |
+          git diff --quiet -- calculadora/ en/calculadora/ && exit 0
+          git config user.name "talentos-forever"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add calculadora/ en/calculadora/
+          git commit -m "Talentos de la calculadora actualizados desde talentsforever.com"
+          git pull --rebase -q
+          git push
