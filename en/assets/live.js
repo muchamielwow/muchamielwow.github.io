@@ -5,7 +5,7 @@ var CH='muchamiel',KEY='mm-live2',root=document.documentElement,EN=root.lang==='
 var URLS={tw:'https://www.twitch.tv/'+CH,kick:'https://kick.com/'+CH},NAMES={tw:'Twitch',kick:'Kick'};
 function store(v){try{sessionStorage.setItem(KEY,JSON.stringify({t:Date.now(),v:v}))}catch(e){}}
 function cached(){try{var c=JSON.parse(sessionStorage.getItem(KEY));if(c&&Date.now()-c.t<90000)return c.v}catch(e){}return null}
-function chips(v){return ['tw','kick'].filter(function(p){return v[p]}).map(function(p){return '<a class="lp '+p+'" href="'+URLS[p]+'" target="_blank" rel="noopener noreferrer">'+NAMES[p]+'</a>'}).join('')+((v.tw||v.kick)?'<a class="lp yt" href="https://www.youtube.com/@muchamiel/live" target="_blank" rel="noopener noreferrer">YouTube</a>':'')}
+function chips(v){return ['tw','kick'].map(function(p){return '<a class="lp '+p+(v[p]?'':' off')+'" href="'+URLS[p]+'" target="_blank" rel="noopener noreferrer" title="'+NAMES[p]+(v[p]?(EN?': live':': live'):(EN?': offline':': offline'))+'">'+NAMES[p]+(v[p]?'':' · offline')+'</a>'}).join('')+((v.tw||v.kick)?'<a class="lp yt" href="https://www.youtube.com/@muchamiel/live" target="_blank" rel="noopener noreferrer">YouTube</a>':'')}
 function apply(v){var on=!!(v.tw||v.kick);root.classList.toggle('is-live',on);
 document.querySelectorAll('a.live').forEach(function(a){a.textContent=on?(v.tw?(EN?'LIVE · WATCH ▸':'LIVE · WATCH ▸'):(EN?'LIVE ON KICK · WATCH ▸':'LIVE ON KICK · WATCH ▸')):'OFFLINE';a.href=v.tw?URLS.tw:(v.kick?URLS.kick:URLS.tw);
 a.title=on?(EN?'Muchamiel is live: watch now':'Muchamiel is live: watch now'):(EN?'Muchamiel is offline: go to his Twitch channel':'Muchamiel is offline: go to his Twitch channel')});
