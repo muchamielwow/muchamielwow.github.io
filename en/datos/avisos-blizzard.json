@@ -2,13 +2,31 @@
  "fuente": "https://us.forums.blizzard.com/en/wow/groups/blizzard-tracker/posts",
  "avisos": [
   {
+   "id": 2387945,
+   "titulo": "Claim Your World of Warcraft: Forever Character Names",
+   "url": "https://us.forums.blizzard.com/en/wow/t/claim-your-world-of-warcraft-forever-character-names/2387945",
+   "autor": "BlizzardEntertainment",
+   "fecha": "2026-10-20T21:00:12.897Z",
+   "resumen": "[Claim Your World of Warcraft: Forever Character Names] Get ready to make your mark in Azeroth! World of Warcraft: Forever Early Name reservations will be available from October 27 through November 3, offering an early…",
+   "foro": "Forever"
+  },
+  {
+   "id": 2387920,
+   "titulo": "Heads Up -- WoW Forever Stress Test on October 21",
+   "url": "https://us.forums.blizzard.com/en/wow/t/heads-up-wow-forever-stress-test-on-october-21/2387920",
+   "autor": "Kaivax",
+   "fecha": "2026-10-20T20:30:35.322Z",
+   "resumen": "Tomorrow, October 21, we will take the WoW Forever Beta offline and we will then open WoW Forever on its proper regional hardware. Date Timezone Stress Test Start Time End Time October 21 CEST 19:00 03:00 October 21…",
+   "foro": "Beta"
+  },
+  {
    "id": 2387821,
    "titulo": "World of Warcraft: Forever Raid Overview—Locations, Raid Sizes, and Attunement",
    "url": "https://us.forums.blizzard.com/en/wow/t/world-of-warcraft-forever-raid-overview%E2%80%94locations-raid-sizes-and-attunement/2387821",
    "autor": "BlizzardEntertainment",
    "fecha": "2026-10-20T19:00:16.705Z",
    "resumen": "[World of Warcraft: Forever Raid Overview—Locations, Raid Sizes, and Attunement] Barrow Deeps, Hyjal Summit, and Onyxia’s Lair unlock in World of Warcraft: Forever on December 9. Learn where to find each level 60 raid,…",
-   "foro": "Noticias"
+   "foro": "Forever"
   },
   {
    "id": 2387820,
@@ -17,7 +35,7 @@
    "autor": "BlizzardEntertainment",
    "fecha": "2026-10-20T19:00:15.102Z",
    "resumen": "[World of Warcraft: Forever Raid Overview—Locations, Raid Sizes, and Attunement] Barrow Deeps, Hyjal Summit, and Onyxia’s Lair unlock in World of Warcraft: Forever on December 9. Learn where to find each level 60 raid,…",
-   "foro": "Noticias"
+   "foro": "Forever"
   },
   {
    "id": 2387658,
@@ -26,7 +44,7 @@
    "autor": "BlizzardEntertainment",
    "fecha": "2026-10-20T17:00:14.522Z",
    "resumen": "[Explore the New Dungeons of World of Warcraft: Forever] Explore nine new World of Warcraft: Forever dungeons across the Eastern Kingdoms and Kalimdor, with level ranges from 13 to 60. Venture beneath familiar cities,…",
-   "foro": "Noticias"
+   "foro": "Forever"
   },
   {
    "id": 2385060,
@@ -45,15 +63,6 @@
    "fecha": "2026-10-16T17:00:09.122Z",
    "resumen": "[WoW Weekly Highlights Midnight 12.1.5, Worldcore, WoW: Forever, and More] From new challenges in Midnight and a glimpse of what’s ahead in Echoes of the Worldcore to a deep dive into Paladins and the latest WoW:…",
    "foro": "Noticias"
-  },
-  {
-   "id": 2383617,
-   "titulo": "WoW Forever Stress Test October 21",
-   "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-stress-test-october-21/2383617",
-   "autor": "Kaivax",
-   "fecha": "2026-10-15T21:24:41.150Z",
-   "resumen": "UPDATE – This test is now taking place on October 21 Please join us for the WoW Forever Stress Test on October 21. On that day, we will first take the WoW Forever Beta offline, and we will then open WoW Forever on the…",
-   "foro": "Beta"
   }
  ]
 }
