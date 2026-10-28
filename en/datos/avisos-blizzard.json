@@ -2,6 +2,33 @@
  "fuente": "https://us.forums.blizzard.com/en/wow/groups/blizzard-tracker/posts",
  "avisos": [
   {
+   "id": 2394467,
+   "titulo": "Overly Restrictive Name Check and Fix Incoming - October 27",
+   "url": "https://us.forums.blizzard.com/en/wow/t/overly-restrictive-name-check-and-fix-incoming-october-27/2394467",
+   "autor": "Kaivax",
+   "fecha": "2026-10-28T01:28:41.132Z",
+   "resumen": "In WoW Forever, we’ve been working on the restricted name list, which is a list the game uses to check for non-profane names that we wish to restrict, such as major Warcraft lore characters or names that are blocked for…",
+   "foro": "Forever"
+  },
+  {
+   "id": 2393431,
+   "titulo": "Name Reservation Issue for Oceanic Players",
+   "url": "https://us.forums.blizzard.com/en/wow/t/name-reservation-issue-for-oceanic-players/2393431",
+   "autor": "Kaivax",
+   "fecha": "2026-10-27T20:02:47.505Z",
+   "resumen": "Attention Oceanic players connecting to Australian-based servers! Due to a bug, you must create any characters on Roleplay or Roleplay-PvP rulesets before creating characters on Normal or PvP rulesets. If you first…",
+   "foro": "Forever"
+  },
+  {
+   "id": 2393349,
+   "titulo": "Your Next Adventure in WoW: Forever Starts in the WoW Portal Room",
+   "url": "https://us.forums.blizzard.com/en/wow/t/your-next-adventure-in-wow-forever-starts-in-the-wow-portal-room/2393349",
+   "autor": "BlizzardEntertainment",
+   "fecha": "2026-10-27T19:00:06.426Z",
+   "resumen": "[Your Next Adventure in WoW: Forever Starts in the WoW Portal Room] Whether you’re new to Azeroth, returning after a break, or have made World of Warcraft part of your life for years, the WoW Portal Room is a welcoming…",
+   "foro": "Forever"
+  },
+  {
    "id": 2392363,
    "titulo": "Watch the WoW: Forever Short Story, “Unbowed”",
    "url": "https://us.forums.blizzard.com/en/wow/t/watch-the-wow-forever-short-story-%E2%80%9Cunbowed%E2%80%9D/2392363",
@@ -44,51 +71,6 @@
    "autor": "Kaivax",
    "fecha": "2026-10-23T17:00:41.694Z",
    "resumen": "The WoW Forever Beta is now closed, and we’re incredibly grateful to everyone who joined us over the last five weeks of playtesting, data gathering, bug reporting, and feedback. We’re now quickly moving into a period of…",
-   "foro": "Beta"
-  },
-  {
-   "id": 2389801,
-   "titulo": "Beta Realm Restart Today At 2:00 p.m. PDT",
-   "url": "https://us.forums.blizzard.com/en/wow/t/beta-realm-restart-today-at-200-pm-pdt/2389801",
-   "autor": "Kaivax",
-   "fecha": "2026-10-22T20:19:58.313Z",
-   "resumen": "In about 40 minutes, at 2:00 p.m. PDT (4:00 p.m. CDT, 5:00 p.m. EDT), we will quickly restart the WoW Forever Beta. Players who are currently in game will receive messages from our server team warning them of the…",
-   "foro": "Beta"
-  },
-  {
-   "id": 2389633,
-   "titulo": "The WoW Forever Beta Celebration is Underway",
-   "url": "https://us.forums.blizzard.com/en/wow/t/the-wow-forever-beta-celebration-is-underway/2389633",
-   "autor": "Kaivax",
-   "fecha": "2026-10-22T17:00:00.000Z",
-   "resumen": "The WoW Forever Beta will end 24 hours from now, at 10:00 a.m. PDT on Friday, October 23, and until that fateful moment, we’re celebrating the joy and wonder of WoW Forever with 24 hours of shenanigans and upheaval in…",
-   "foro": "Forever"
-  },
-  {
-   "id": 2389565,
-   "titulo": "The WoW: Forever Podcast: Episode 5 - End of Beta Special",
-   "url": "https://us.forums.blizzard.com/en/wow/t/the-wow-forever-podcast-episode-5-end-of-beta-special/2389565",
-   "autor": "Kaivax",
-   "fecha": "2026-10-22T16:21:16.245Z",
-   "resumen": "[End of Beta Special | Episode 5 - The WoW: Forever Podcast]",
-   "foro": "Forever"
-  },
-  {
-   "id": 2389502,
-   "titulo": "The Roleplay-PvP Ruleset is Coming to WoW Forever",
-   "url": "https://us.forums.blizzard.com/en/wow/t/the-roleplay-pvp-ruleset-is-coming-to-wow-forever/2389502",
-   "autor": "Aggrend",
-   "fecha": "2026-10-22T15:33:08.260Z",
-   "resumen": "Greetings, In a recent episode of the WoW Forever Podcast we discussed some of our concerns with adding a Roleplay-PVP ruleset in WoW Forever, but we also mentioned that we were still discussing the topic internally and…",
-   "foro": "Forever"
-  },
-  {
-   "id": 2389150,
-   "titulo": "Forever Beta Will Return Shortly",
-   "url": "https://us.forums.blizzard.com/en/wow/t/forever-beta-will-return-shortly/2389150",
-   "autor": "Zorbrix-83447",
-   "fecha": "2026-10-22T01:46:44.190Z",
-   "resumen": "Good evening folks, We hit a small snag while turning the WoW Forever Beta back online. We’re working right now to get it back. In the meantime, you can speed this up by fully exiting the Battle.net Desktop App to force…",
    "foro": "Beta"
   }
  ]
