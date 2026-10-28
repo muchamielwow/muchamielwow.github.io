@@ -2,6 +2,15 @@
  "fuente": "https://us.forums.blizzard.com/en/wow/groups/blizzard-tracker/posts",
  "avisos": [
   {
+   "id": 2394467,
+   "titulo": "Overly Restrictive Name Check and Fix Incoming - October 27",
+   "url": "https://us.forums.blizzard.com/en/wow/t/overly-restrictive-name-check-and-fix-incoming-october-27/2394467",
+   "autor": "Kaivax",
+   "fecha": "2026-10-28T01:28:41.132Z",
+   "resumen": "In WoW Forever, we’ve been working on the restricted name list, which is a list the game uses to check for non-profane names that we wish to restrict, such as major Warcraft lore characters or names that are blocked for…",
+   "foro": "Forever"
+  },
+  {
    "id": 2393431,
    "titulo": "Name Reservation Issue for Oceanic Players",
    "url": "https://us.forums.blizzard.com/en/wow/t/name-reservation-issue-for-oceanic-players/2393431",
@@ -99,15 +108,6 @@
    "fecha": "2026-10-22T15:33:08.260Z",
    "resumen": "Greetings, In a recent episode of the WoW Forever Podcast we discussed some of our concerns with adding a Roleplay-PVP ruleset in WoW Forever, but we also mentioned that we were still discussing the topic internally and…",
    "foro": "Forever"
-  },
-  {
-   "id": 2389150,
-   "titulo": "Forever Beta Will Return Shortly",
-   "url": "https://us.forums.blizzard.com/en/wow/t/forever-beta-will-return-shortly/2389150",
-   "autor": "Zorbrix-83447",
-   "fecha": "2026-10-22T01:46:44.190Z",
-   "resumen": "Good evening folks, We hit a small snag while turning the WoW Forever Beta back online. We’re working right now to get it back. In the meantime, you can speed this up by fully exiting the Battle.net Desktop App to force…",
-   "foro": "Beta"
   }
  ]
 }
