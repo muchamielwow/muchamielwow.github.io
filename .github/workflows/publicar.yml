@@ -14,7 +14,7 @@ jobs:
   publicar:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - run: |
           git clone -q --depth 1 https://github.com/Vanflammer/muchamiel-web.git /tmp/fuente || { echo "No se pudo leer la fuente: no se toca nada"; exit 0; }
           test -f /tmp/fuente/web/dist/index.html || { echo "La fuente no tiene web/dist: no se toca nada"; exit 0; }

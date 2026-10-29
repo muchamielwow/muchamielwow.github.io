@@ -13,7 +13,7 @@ jobs:
   radar:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - run: python3 .github/radar.py .
       - run: |
           git diff --quiet -- .github/radar/ && exit 0

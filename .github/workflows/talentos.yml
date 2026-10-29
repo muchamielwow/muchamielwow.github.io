@@ -13,7 +13,7 @@ jobs:
   talentos:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - run: python3 .github/actualizar_talentos.py calculadora/index.html en/calculadora/index.html
       - run: |
           git diff --quiet -- calculadora/ en/calculadora/ && exit 0

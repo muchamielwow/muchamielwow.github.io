@@ -13,7 +13,7 @@ jobs:
   avisos:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - run: python3 .github/avisos_blizzard.py .
       - run: python3 .github/youtube_directo.py .  # 16-10: ¿Muchamiel en directo en YouTube?
       - run: |
