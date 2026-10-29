@@ -1,0 +1,16 @@
+{
+ "como_se_usa": "Cada fuente: nombre, tipo (rss o foro-blizzard), url, idioma (es/en), fiabilidad (oficial, web, creador o comunidad) y, si la fuente habla de más cosas que Forever, un filtro con palabras. Para quitar una sin borrarla: \"activa\": false. Los canales de YouTube se añaden con https://www.youtube.com/feeds/videos.xml?channel_id=EL_ID_DEL_CANAL",
+ "fuentes": [
+  {"nombre": "Blizzard (mensajes del equipo)", "tipo": "foro-blizzard", "url": "https://us.forums.blizzard.com/en/wow/groups/blizzard-tracker/posts", "idioma": "en", "fiabilidad": "oficial", "filtro": ["forever"]},
+  {"nombre": "World of Warcraft (YouTube oficial)", "tipo": "rss", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbLj9QP9FAaHs_647QckGtg", "idioma": "en", "fiabilidad": "oficial", "filtro": ["forever"]},
+  {"nombre": "Wowhead (noticias de Forever)", "tipo": "rss", "url": "https://www.wowhead.com/news/rss/forever", "idioma": "en", "fiabilidad": "web"},
+  {"nombre": "Wowhead (YouTube)", "tipo": "rss", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hLeDz9mD4dUrkvXjH9rjw", "idioma": "en", "fiabilidad": "web", "filtro": ["forever"]},
+  {"nombre": "MrGM", "tipo": "rss", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjZfZo5bI5-ITtRPBPZkIhw", "idioma": "en", "fiabilidad": "creador", "filtro": ["forever"]},
+  {"nombre": "Quissy", "tipo": "rss", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCebCUefmJrV_r5lGleRhUCw", "idioma": "en", "fiabilidad": "creador", "filtro": ["forever"]},
+  {"nombre": "Jokerd", "tipo": "rss", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf-5nkCm0Mldj5xwq8wca_g", "idioma": "en", "fiabilidad": "creador", "filtro": ["forever"]},
+  {"nombre": "Reddit r/wowforever (lo más votado del día)", "tipo": "rss", "url": "https://www.reddit.com/r/wowforever/top/.rss?t=day", "idioma": "en", "fiabilidad": "comunidad"},
+  {"nombre": "AlterTime (web)", "tipo": "rss", "url": "https://altertime.es/feed/", "idioma": "es", "fiabilidad": "web", "filtro": ["forever"]},
+  {"nombre": "AlterTime WoW Forever (YouTube)", "tipo": "rss", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaCl8qwVxoeHDK90ld9WZFw", "idioma": "es", "fiabilidad": "creador"},
+  {"nombre": "Kodda (lore)", "tipo": "rss", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsB19Yb3VXuOSstHhcuQw7A", "idioma": "es", "fiabilidad": "creador"}
+ ]
+}

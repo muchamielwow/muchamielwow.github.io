@@ -23,8 +23,17 @@ En la carpeta `.github/workflows/` hay dos tareas automáticas de GitHub:
 |---|---|---|
 | Avisos de Blizzard | cada 20 minutos | Lee los avisos oficiales y el estado del directo y actualiza `datos/` |
 | Talentos de la calculadora | cada 6 horas | Actualiza los talentos de la calculadora |
+| Radar de novedades | cada hora | Junta las novedades de Forever de las fuentes en `.github/radar/RADAR.md`, para tu IA |
 
 Se ven en la pestaña **Actions** del repositorio. Si una falla, GitHub te avisa por correo; normalmente basta con esperar a la siguiente.
+
+## El radar de novedades (para tu IA)
+
+- La lista está en `.github/radar/RADAR.md`. Para pegársela a una IA, este enlace da el texto limpio:
+  https://raw.githubusercontent.com/muchamielwow/muchamielwow.github.io/main/.github/radar/RADAR.md
+- Las fuentes están en `.github/radar/fuentes.json`. Son tuyas: añade o quita las que quieras con el lápiz ✏️ (copia una línea y cambia nombre y dirección). Para un canal de YouTube: `https://www.youtube.com/feeds/videos.xml?channel_id=` + el identificador del canal (empieza por UC).
+- Si una fuente falla, sale al final de RADAR.md y las demás siguen funcionando.
+- Las instrucciones para tu IA (el texto para pegarle) están en tu zona privada: https://muchamiel-privado.pages.dev → «Tu IA».
 
 ## Cómo cambiar algo a mano
 

@@ -1,0 +1,24 @@
+# Radar de novedades de WoW Forever para la IA de Muchamiel (Van, 29-10-2026).
+# Cada hora lee las fuentes de .github/radar/fuentes.json y deja la lista en .github/radar/RADAR.md.
+# El script es copia de wow-forever-torneo/radar.py en el PC de Van; las fuentes son de Muchamiel (no se pisan al subir la web).
+name: Radar de novedades
+on:
+  schedule:
+    - cron: '7 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: radar
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 .github/radar.py .
+      - run: |
+          git diff --quiet -- .github/radar/ && exit 0
+          git config user.name "radar-forever"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/radar/
+          git commit -m "Radar de novedades actualizado"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && exit 0; sleep 10; done; exit 1
