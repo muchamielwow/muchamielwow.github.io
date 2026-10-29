@@ -16,6 +16,9 @@ jobs:
       - uses: actions/checkout@v5
       - run: python3 .github/avisos_blizzard.py .
       - run: python3 .github/youtube_directo.py .  # 16-10: ¿Muchamiel en directo en YouTube?
+      - run: |  # 29-10: los vídeos de su YouTube para la web, sin depender del Cloudflare de Van
+          curl -sfL --max-time 30 "https://www.youtube.com/feeds/videos.xml?channel_id=UCLKDtwQj4YDatBOQPkOlDlA" -o /tmp/feed.xml || exit 0
+          grep -q "<entry>" /tmp/feed.xml && mkdir -p datos && cp /tmp/feed.xml datos/youtube-feed.xml || true
       - run: |
           git diff --quiet -- datos/ && exit 0
           git config user.name "avisos-blizzard"

@@ -66,17 +66,21 @@
   } catch { /* Private browsing and corrupt cache must not hide the static cards. */ }
 
   async function refresh() {
+    // 29-10: primero el RSS que guarda la tarea de GitHub en la propia web (datos/); lo demás, solo de reserva.
+    const propio = new URL('../datos/youtube-feed.xml', new URL(document.currentScript?.src || scriptUrl));
     const local = new URL('../api/youtube-feed', new URL(document.currentScript?.src || scriptUrl));
     const remote = 'https://wow-forever-guia.pages.dev/api/youtube-feed';
-    const endpoints = [...new Set([local.href, remote])];
+    const endpoints = [...new Set([propio.href, local.href, remote])];
     for (const endpoint of endpoints) {
       try {
         const result = await fetch(endpoint, {signal: AbortSignal.timeout(12000), credentials: 'omit'});
         if (!result.ok) throw new Error('Feed unavailable');
         const xml = await result.text();
         const items = entries(xml);
-        const updated = result.headers.get('X-Feed-Updated') || '';
-        render(items, updated, result.headers.get('X-Feed-State') !== 'fresh');
+        if (!items.length) throw new Error('Empty feed');
+        const esPropio = endpoint === propio.href;
+        const updated = result.headers.get('X-Feed-Updated') || (esPropio ? result.headers.get('Last-Modified') || '' : '');
+        render(items, updated, !esPropio && result.headers.get('X-Feed-State') !== 'fresh');
         try { localStorage.setItem(cacheName, JSON.stringify({xml, updated, savedAt: Date.now()})); } catch {}
         return;
       } catch { /* The home server can use the public Pages feed when it has no endpoint. */ }

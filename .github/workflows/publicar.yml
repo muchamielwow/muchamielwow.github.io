@@ -19,7 +19,7 @@ jobs:
           git clone -q --depth 1 https://github.com/Vanflammer/muchamiel-web.git /tmp/fuente || { echo "No se pudo leer la fuente: no se toca nada"; exit 0; }
           test -f /tmp/fuente/web/dist/index.html || { echo "La fuente no tiene web/dist: no se toca nada"; exit 0; }
           rsync -a --delete --exclude .git --exclude .github --exclude marcas --exclude .nojekyll \
-            --exclude datos/avisos-blizzard.json --exclude datos/directo.json /tmp/fuente/web/dist/ ./
+            --exclude datos/avisos-blizzard.json --exclude datos/directo.json --exclude datos/youtube-feed.xml /tmp/fuente/web/dist/ ./
           rm -f _worker.js _routes.json _fuentes.html
           for f in avisos_blizzard.py youtube_directo.py actualizar_talentos.py radar.py; do cp /tmp/fuente/$f .github/$f; done
           cp /tmp/fuente/MANUAL-WEB-github.md .github/README.md
