@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 29-10-2026 23:42 (hora de España)
+# Radar de WoW Forever · actualizado el 30-10-2026 00:38 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -6,6 +6,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 ## 29-10-2026
 
 - **22:20 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [„We will stay in Azeroth forever”](https://www.reddit.com/r/wowforever/comments/1xiwlcn/we_will_stay_in_azeroth_forever/) — submitted by /u/Decent-Meaning-5594 [link] [comments]
+- **22:17 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Instant panic](https://www.reddit.com/r/wowforever/comments/1xiwj25/instant_panic/) — submitted by /u/ASZHanazaki [link] [comments]
 - **22:09 · Wowhead (noticias de Forever)** (en, Web especializada): [Everything You Need to Know for WoW: Forever's Global Launch](https://www.wowhead.com/news=383656/everything-you-need-to-know-for-wow-forevers-global-launch) — Blizzard has summarized everything you need to know for WoW: Forever's Global launch on November 4th. Continue reading »
 - **22:05 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [RESPONSE TO AGGREND: The sudden shift when joining a different party is fine BUT The day/Night cycle issue goes beyond OCE. Please consider something else.](https://www.reddit.com/r/wowforever/comments/1xiw7mv/response_to_aggrend_the_sudden_shift_when_joining/) — As an OCE player I wouldn't mind the sudden shift if I was to join an NA players party. I will mostly be playing with OCE friends and as much as it would be a jarring immersion breaking change in the lighting, i think it's a reasonable 'fix' to the issue. But. The post I made is almost the highest…
 - **22:00 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [World of Warcraft: Forever Goes Live Globally November 4!](https://us.forums.blizzard.com/en/wow/t/world-of-warcraft-forever-goes-live-globally-november-4/2396008/1) — [World of Warcraft: Forever Goes Live Globally November 4!] Begin your first adventure or return to a new and reimagined Azeroth in World of Warcraft: Forever, launching worldwide November 4 at 3:00 pm PST. Adventure to level 60 across the original continents, discover new stories, and meet fellow…
@@ -120,10 +121,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 
 ## Fuentes que han fallado esta vez
 
-- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
-- Wowhead (YouTube): HTTP Error 404: Not Found
-- MrGM: HTTP Error 500: Internal Server Error
+- MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
-- Kodda (lore): HTTP Error 404: Not Found
