@@ -2,6 +2,33 @@
  "fuente": "https://us.forums.blizzard.com/en/wow/groups/blizzard-tracker/posts",
  "avisos": [
   {
+   "id": 2395922,
+   "titulo": "Return to Azeroth in World of Warcraft: Forever",
+   "url": "https://us.forums.blizzard.com/en/wow/t/return-to-azeroth-in-world-of-warcraft-forever/2395922",
+   "autor": "BlizzardEntertainment",
+   "fecha": "2026-10-29T19:02:50.481Z",
+   "resumen": "[Return to Azeroth in World of Warcraft: Forever] Welcome back to Azeroth. Whether it has been a few years, or many— familiar roads, old friends, and new adventures are waiting for you in World of Warcraft: Forever. To…",
+   "foro": "Forever"
+  },
+  {
+   "id": 2395799,
+   "titulo": "The WoW: Forever Podcast: Episode 6 - All About Tech ft. ‪@Shobek",
+   "url": "https://us.forums.blizzard.com/en/wow/t/the-wow-forever-podcast-episode-6-all-about-tech-ft-%E2%80%AAshobek/2395799",
+   "autor": "Kaivax",
+   "fecha": "2026-10-29T16:17:57.194Z",
+   "resumen": "[All About Tech ft. @Shobek | Episode 6 - The WoW: Forever Podcast]",
+   "foro": "Forever"
+  },
+  {
+   "id": 2394974,
+   "titulo": "New Player’s Starter Guide: Welcome to World of Warcraft: Forever",
+   "url": "https://us.forums.blizzard.com/en/wow/t/new-player%E2%80%99s-starter-guide-welcome-to-world-of-warcraft-forever/2394974",
+   "autor": "BlizzardEntertainment",
+   "fecha": "2026-10-28T17:00:10.883Z",
+   "resumen": "[New Player’s Starter Guide: Welcome to World of Warcraft: Forever] World of Warcraft: Forever invites players into a reimagined original Azeroth where exploration, community, and the journey itself take center stage.…",
+   "foro": "Noticias"
+  },
+  {
    "id": 2394467,
    "titulo": "Overly Restrictive Name Check and Fix Incoming - October 27",
    "url": "https://us.forums.blizzard.com/en/wow/t/overly-restrictive-name-check-and-fix-incoming-october-27/2394467",
@@ -45,33 +72,6 @@
    "fecha": "2026-10-23T17:06:49.307Z",
    "resumen": "[Dive Into WoW: Forever, the Gods of Zul’Aman, Hallow’s End, and More in WoW Weekly] From the latest news in World of Warcraft: Forever to the launch of the Gods of Zul'Aman content update in Burning Crusade Classic…",
    "foro": "Noticias"
-  },
-  {
-   "id": 2390480,
-   "titulo": "Dive Into WoW: Forever, the Gods of Zul’Aman, Hallow’s End, and More in WoW Weekly",
-   "url": "https://us.forums.blizzard.com/en/wow/t/dive-into-wow-forever-the-gods-of-zul%E2%80%99aman-hallow%E2%80%99s-end-and-more-in-wow-weekly/2390480",
-   "autor": "BlizzardEntertainment",
-   "fecha": "2026-10-23T17:06:48.692Z",
-   "resumen": "[Dive Into WoW: Forever, the Gods of Zul’Aman, Hallow’s End, and More in WoW Weekly] From the latest news in World of Warcraft: Forever to the launch of the Gods of Zul'Aman content update in Burning Crusade Classic…",
-   "foro": "Noticias"
-  },
-  {
-   "id": 2390466,
-   "titulo": "Thank You For Testing the WoW Forever Beta",
-   "url": "https://us.forums.blizzard.com/en/wow/t/thank-you-for-testing-the-wow-forever-beta/2390466",
-   "autor": "Kaivax",
-   "fecha": "2026-10-23T17:01:12.659Z",
-   "resumen": "The WoW Forever Beta is now closed, and we’re incredibly grateful to everyone who joined us over the last five weeks of playtesting, data gathering, bug reporting, and feedback. We’re now quickly moving into a period of…",
-   "foro": "Forever"
-  },
-  {
-   "id": 2390465,
-   "titulo": "Thank You For Testing the WoW Forever Beta",
-   "url": "https://us.forums.blizzard.com/en/wow/t/thank-you-for-testing-the-wow-forever-beta/2390465",
-   "autor": "Kaivax",
-   "fecha": "2026-10-23T17:00:41.694Z",
-   "resumen": "The WoW Forever Beta is now closed, and we’re incredibly grateful to everyone who joined us over the last five weeks of playtesting, data gathering, bug reporting, and feedback. We’re now quickly moving into a period of…",
-   "foro": "Beta"
   }
  ]
 }
