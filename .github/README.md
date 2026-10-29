@@ -17,7 +17,7 @@ Este manual existe para que la web siga funcionando pase lo que pase, aunque Van
 
 ## Lo que se actualiza solo (sin nadie)
 
-En la carpeta `.github/workflows/` hay dos tareas automáticas de GitHub:
+En la carpeta `.github/workflows/` hay tres tareas automáticas de GitHub:
 
 | Tarea | Cada cuánto | Qué hace |
 |---|---|---|
