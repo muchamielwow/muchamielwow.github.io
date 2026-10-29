@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 29-10-2026 23:28 (hora de España)
+# Radar de WoW Forever · actualizado el 29-10-2026 23:42 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -117,3 +117,13 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **17:00 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [BLIZZARD OCULTA ESTOS SECRETOS EN EL MAPA DE WOW FOREVER](https://www.youtube.com/watch?v=NxFkNJUChlY) — Conoce cómo se ven a día de hoy los próximos proyectos en desarrollo por el equipo de Blizzard para WoW Forever. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
 - **16:00 · Wowhead (noticias de Forever)** (en, Web especializada): [Who is WoW: Forever Meant For? Blizzard Discusses on Forever Podcast](https://www.wowhead.com/news=383547/who-is-wow-forever-meant-for-blizzard-discusses-on-forever-podcast) — In the latest podcast episode, Associate Production Director Clay Stone breaks down who World of Warcraft: Forever is meant for. Continue reading »
 - **13:30 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [LA ZONA PROHIBIDA QUE NO PODRÁS LLEGAR EN WOW FOREVER](https://www.youtube.com/shorts/aPFheblRfik) — La isla de los GM se encuentra visible en World of Warcraft Forever desde el horizonte. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas: https://instant-gaming.com/es/?igr=altertime Web:…
+
+## Fuentes que han fallado esta vez
+
+- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
+- Wowhead (YouTube): HTTP Error 404: Not Found
+- MrGM: HTTP Error 500: Internal Server Error
+- Quissy: HTTP Error 404: Not Found
+- Jokerd: HTTP Error 404: Not Found
+- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
+- Kodda (lore): HTTP Error 404: Not Found
