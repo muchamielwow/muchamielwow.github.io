@@ -1,0 +1,31 @@
+# Publica la web de Muchamiel desde el repositorio del generador (Van, 29-10-2026).
+# Cada 30 minutos copia web/dist de github.com/Vanflammer/muchamiel-web (público) a esta web. Así la actualización diaria
+# (una tarea de Claude en la nube que trabaja en ese repositorio) se publica sin el PC de Van y sin claves.
+# Nunca toca marcas/ (de Muchamiel), .github/ ni los datos que actualizan las otras tareas.
+name: Publicar la web
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: publicar
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          git clone -q --depth 1 https://github.com/Vanflammer/muchamiel-web.git /tmp/fuente || { echo "No se pudo leer la fuente: no se toca nada"; exit 0; }
+          test -f /tmp/fuente/web/dist/index.html || { echo "La fuente no tiene web/dist: no se toca nada"; exit 0; }
+          rsync -a --delete --exclude .git --exclude .github --exclude marcas --exclude .nojekyll \
+            --exclude datos/avisos-blizzard.json --exclude datos/directo.json /tmp/fuente/web/dist/ ./
+          rm -f _worker.js _routes.json _fuentes.html
+          for f in avisos_blizzard.py youtube_directo.py actualizar_talentos.py radar.py; do cp /tmp/fuente/$f .github/$f; done
+          cp /tmp/fuente/MANUAL-WEB-github.md .github/README.md
+          git add -A
+          git diff --cached --quiet && exit 0
+          git config user.name "publicar-web"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "Web publicada desde muchamiel-web ($(git -C /tmp/fuente log -1 --format=%h))"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && exit 0; sleep 10; done; exit 1
