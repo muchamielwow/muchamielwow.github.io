@@ -1,10 +1,11 @@
-# Radar de WoW Forever · actualizado el 30-10-2026 13:53 (hora de España)
+# Radar de WoW Forever · actualizado el 30-10-2026 14:59 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 30-10-2026
 
+- **14:13 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [WoW Forever should display Paladin Aura's](https://www.reddit.com/r/wowforever/comments/1xjf19r/wow_forever_should_display_paladin_auras/) — For too long (since vanilla) Paladin aura's become hidden after activation. Since other classes like Shamans can display their totems, why doesn't Forever take the opportunity to finally display Paladin aura's underneath their own feet? Make it togglable for all I care, via a spell like…
 - **07:35 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [What could blizzard add to YOUR wow forever main that won’t really affect class but would be a fun feature.](https://www.reddit.com/r/wowforever/comments/1xj81gm/what_could_blizzard_add_to_your_wow_forever_main/) — I play a shaman, the one cool little feature I think could be added is giving the ability for fire totems to work as camp fires, only in terms of being able to cook while fire totems is up. What are similar little features you think could be added to your class? submitted by /u/Few-Firefighter-2406…
 - **05:01 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Putting this here for when the non-Tauren start buying mounts.](https://www.reddit.com/r/wowforever/comments/1xj5fhl/putting_this_here_for_when_the_nontauren_start/) — submitted by /u/Sec_Chief_Ingersol [link] [comments]
 - **02:53 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Anyone else down to autoreport tradechat edgelords?](https://www.reddit.com/r/wowforever/comments/1xj2uto/anyone_else_down_to_autoreport_tradechat_edgelords/) — I think the biggest problem i had in beta** was going to stormwind on the pvp realm and this guy named Welfare something or other was there everyday talking about politics and controversial news stories just spamming edgy takes thinking hes funny. Idc about all that crap in general chat but when…
