@@ -20,9 +20,9 @@ jobs:
           curl -sfL --max-time 30 "https://www.youtube.com/feeds/videos.xml?channel_id=UCLKDtwQj4YDatBOQPkOlDlA" -o /tmp/feed.xml || exit 0
           grep -q "<entry>" /tmp/feed.xml && mkdir -p datos && cp /tmp/feed.xml datos/youtube-feed.xml || true
       - run: |
-          git diff --quiet -- datos/ && exit 0
+          git add datos/  # 30-10: también los ficheros nuevos (antes solo veía cambios en los que ya existían)
+          git diff --cached --quiet && exit 0
           git config user.name "avisos-blizzard"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add datos/
           git commit -m "Avisos de Blizzard y directo de YouTube actualizados"
           git push

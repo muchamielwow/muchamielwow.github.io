@@ -38,5 +38,35 @@ def run(web):
     print('directo: youtube', d['youtube'])
 
 
+def suscriptores():
+    """30-10: suscriptores del canal («83,1 K suscriptores» en la página del canal; YouTube los redondea)."""
+    req = urllib.request.Request('https://www.youtube.com/@muchamiel', headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+                                 'Accept-Language': 'es-ES,es;q=0.9', 'Cookie': 'CONSENT=YES+1; SOCS=CAI'})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        h = r.read().decode('utf-8', 'replace')
+    m = re.search(r'"content":"([\d.,]+)\s*(K|M|mil)?\s*suscriptores"', h)
+    if not m:
+        return 0
+    n = float(m[1].replace('.', '').replace(',', '.')) if m[2] else float(m[1].replace('.', '').replace(',', ''))
+    return int(round(n * {'K': 1000, 'mil': 1000, 'M': 1000000}.get(m[2], 1)))
+
+
+def run_subs(web):
+    f = Path(web) / 'datos' / 'youtube.json'
+    try:
+        n = suscriptores()
+    except Exception as e:
+        print('youtube: no se pudieron leer los suscriptores:', e)
+        return
+    if n < 1000:   # no lo ha encontrado (YouTube cambió la página): se queda lo que había
+        print('youtube: suscriptores no encontrados')
+        return
+    nuevo = json.dumps({'subs': n}) + '\n'
+    if not f.exists() or f.read_text(encoding='utf-8') != nuevo:
+        f.write_text(nuevo, encoding='utf-8')
+    print('youtube: suscriptores', n)
+
+
 if __name__ == '__main__':
     run(sys.argv[1] if len(sys.argv) > 1 else '.')
+    run_subs(sys.argv[1] if len(sys.argv) > 1 else '.')
