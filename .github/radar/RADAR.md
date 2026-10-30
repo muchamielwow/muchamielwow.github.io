@@ -1,10 +1,11 @@
-# Radar de WoW Forever · actualizado el 30-10-2026 09:53 (hora de España)
+# Radar de WoW Forever · actualizado el 30-10-2026 10:51 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 30-10-2026
 
+- **05:01 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Putting this here for when the non-Tauren start buying mounts.](https://www.reddit.com/r/wowforever/comments/1xj5fhl/putting_this_here_for_when_the_nontauren_start/) — submitted by /u/Sec_Chief_Ingersol [link] [comments]
 - **02:50 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [What the 60% racial looks like (no skateboarding)](https://www.reddit.com/r/wowforever/comments/1xj2swb/what_the_60_racial_looks_like_no_skateboarding/) — It took precisely 2:30 minutes to scale submitted by /u/Sustainable_Gaming [link] [comments]
 - **01:19 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [BLIZZARD PERMITIRÁ CREAR GRUPOS DE *120 JUGADORES* EN WOW FOREVER](https://www.youtube.com/watch?v=D3RKntM9byY) — Repasamos todas las novedades que ha mencionado Blizzard sobre World of Warcraft Forever en un reciente podcast. Resumen del podcast: https://altertime.es/article/resumen-del-6-podcast-sobre-world-of-warcraft-forever Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial:…
 
