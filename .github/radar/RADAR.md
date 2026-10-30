@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 30-10-2026 04:47 (hora de España)
+# Radar de WoW Forever · actualizado el 30-10-2026 05:46 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
