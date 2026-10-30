@@ -1,5 +1,23 @@
 [
  {
+  "url": "https://www.youtube.com/watch?v=KPoVFt5Q00I",
+  "titulo": "La ESTÚPIDA Decisión de GILNEAS",
+  "resumen": "Gilneas fue uno de los reinos que fundaron la Alianza de Lordaeron… y acabó amurallándose contra ella. La piedra que debía dejar fuera los problemas de los demás terminó dejando dentro la maldición huargen. Esta es la historia de la Muralla de Cringrís en World of Warcraft. 🎙️ Estrenamos nuevo…",
+  "fecha": "2026-10-30T15:08:26+00:00",
+  "fuente": "Kodda (lore)",
+  "idioma": "es",
+  "fiabilidad": "creador"
+ },
+ {
+  "url": "https://www.wowhead.com/news=383652/blizzard-addresses-day-and-night-cycle-issues-for-oceanic-players-in-wow-forever",
+  "titulo": "Blizzard Addresses Day and Night Cycle Issues for Oceanic Players in WoW: Forever",
+  "resumen": "In the latest episode of the WoW: Forever Podcast, Blizzard has addressed Day and Night cycle issues for Oceanic Players in WoW: Forever. Continue reading »",
+  "fecha": "2026-10-30T15:00:00+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
   "url": "https://www.youtube.com/shorts/fJj0oDn3Kcs",
   "titulo": "EL CAMINO SECRETO QUE BLIZZARD HA AÑADIDO A WOW FOREVER",
   "resumen": "Conoce un nuevo camino que ha añadido Blizzard a Reinos del Este para conectar algunas de las zonas. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…",
@@ -31,6 +49,15 @@
   "titulo": "One note I'd like to leave for Tauren plainsrunning, at top speed they should switch to the Sprint animation.",
   "resumen": "submitted by /u/Specific_Frame8537 [link] [comments]",
   "fecha": "2026-10-30T12:00:09+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xjc2fh/i_gave_up_im_going_pvp/",
+  "titulo": "I gave up. I’m going PVP",
+  "resumen": "I was torn apart about where should I go PVE or PVP? But today I finally decided after I saw a comment from someone here on Reddit. \"If you're not sure if you want to go PvE or PvP, you should go PvP\" And this quote really made me choose PVP not because I'm trying to romanticize the past But…",
+  "fecha": "2026-10-30T10:49:11+00:00",
   "fuente": "Reddit r/wowforever (lo más votado del día)",
   "idioma": "en",
   "fiabilidad": "comunidad"
@@ -1123,14 +1150,5 @@
   "fuente": "Wowhead (noticias de Forever)",
   "idioma": "en",
   "fiabilidad": "web"
- },
- {
-  "url": "https://www.youtube.com/watch?v=NxFkNJUChlY",
-  "titulo": "BLIZZARD OCULTA ESTOS SECRETOS EN EL MAPA DE WOW FOREVER",
-  "resumen": "Conoce cómo se ven a día de hoy los próximos proyectos en desarrollo por el equipo de Blizzard para WoW Forever. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…",
-  "fecha": "2026-10-23T15:00:26+00:00",
-  "fuente": "AlterTime WoW Forever (YouTube)",
-  "idioma": "es",
-  "fiabilidad": "creador"
  }
 ]
