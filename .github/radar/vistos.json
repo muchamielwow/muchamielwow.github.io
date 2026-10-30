@@ -1,5 +1,14 @@
 [
  {
+  "url": "https://www.wowhead.com/news=383664/wow-weekly-recap-wow-forever-talebound-demo-new-shop-decor-packs",
+  "titulo": "WoW Weekly Recap - WoW: Forever, Talebound Demo, New Shop Decor Packs",
+  "resumen": "Blizzard has posted this week's WoW weekly recap, which includes WoW: Forever launching next week, the Talebound Demo starting today, and new shop decor packs. Continue reading »",
+  "fecha": "2026-10-30T17:20:18+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
   "url": "https://www.youtube.com/watch?v=Vt2aUPunmgY",
   "titulo": "LAS ARENAS Y MONTURAS VOLADORAS NO LLEGARÁN A WOW FOREVER",
   "resumen": "Repasa todas las novedades que ha anunciado Blizzard en una reciente entrevista sobtre WoW Forever. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…",
@@ -90,6 +99,15 @@
   "fiabilidad": "comunidad"
  },
  {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xj66ot/getting_rid_of_multiple_version/",
+  "titulo": "Getting rid of Multiple Version",
+  "resumen": "Per the screenshot, When I go to play WoW, under versions for some reason it has multiple US versions. I can not figure out how to get rid of the other versions. Anyone know? submitted by /u/sanemaniak [link] [comments]",
+  "fecha": "2026-10-30T04:42:52+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
+ },
+ {
   "url": "https://www.reddit.com/r/wowforever/comments/1xj5fhl/putting_this_here_for_when_the_nontauren_start/",
   "titulo": "Putting this here for when the non-Tauren start buying mounts.",
   "resumen": "submitted by /u/Sec_Chief_Ingersol [link] [comments]",
@@ -112,6 +130,15 @@
   "titulo": "What the 60% racial looks like (no skateboarding)",
   "resumen": "It took precisely 2:30 minutes to scale submitted by /u/Sustainable_Gaming [link] [comments]",
   "fecha": "2026-10-30T01:50:16+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xj2hmi/i_need_this_artwork_as_a_wallpaper/",
+  "titulo": "i need this artwork as a wallpaper",
+  "resumen": "submitted by /u/bubbabse [link] [comments]",
+  "fecha": "2026-10-30T01:35:13+00:00",
   "fuente": "Reddit r/wowforever (lo más votado del día)",
   "idioma": "en",
   "fiabilidad": "comunidad"
@@ -1141,23 +1168,5 @@
   "fuente": "World of Warcraft (YouTube oficial)",
   "idioma": "en",
   "fiabilidad": "oficial"
- },
- {
-  "url": "https://www.wowhead.com/news=383561/this-weeks-wow-recap-wow-forever-hallows-end-fall-savings",
-  "titulo": "This Week's WoW Recap - WoW: Forever, Hallow's End, Fall Savings",
-  "resumen": "Blizzard has released a recap of the major events across World of Warcraft in the last week, which includes many new details in WoW: Forever, Hallow's End starting and a Fall Saving sale! Continue reading »",
-  "fecha": "2026-10-23T17:25:01+00:00",
-  "fuente": "Wowhead (noticias de Forever)",
-  "idioma": "en",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://www.wowhead.com/news=383560/blizzard-thanks-players-for-testing-the-wow-forever-beta",
-  "titulo": "Blizzard Thanks Players for Testing the WoW Forever Beta",
-  "resumen": "Blizzard has released a message thanking players for playing the WoW: Forever Beta and sharing details about what's to come before the November 4th release. Continue reading »",
-  "fecha": "2026-10-23T17:12:50+00:00",
-  "fuente": "Wowhead (noticias de Forever)",
-  "idioma": "en",
-  "fiabilidad": "web"
  }
 ]
