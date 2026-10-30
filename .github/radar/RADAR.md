@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 30-10-2026 01:54 (hora de España)
+# Radar de WoW Forever · actualizado el 30-10-2026 02:56 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -13,6 +13,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **22:05 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [RESPONSE TO AGGREND: The sudden shift when joining a different party is fine BUT The day/Night cycle issue goes beyond OCE. Please consider something else.](https://www.reddit.com/r/wowforever/comments/1xiw7mv/response_to_aggrend_the_sudden_shift_when_joining/) — As an OCE player I wouldn't mind the sudden shift if I was to join an NA players party. I will mostly be playing with OCE friends and as much as it would be a jarring immersion breaking change in the lighting, i think it's a reasonable 'fix' to the issue. But. The post I made is almost the highest…
 - **22:00 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [World of Warcraft: Forever Goes Live Globally November 4!](https://us.forums.blizzard.com/en/wow/t/world-of-warcraft-forever-goes-live-globally-november-4/2396008/1) — [World of Warcraft: Forever Goes Live Globally November 4!] Begin your first adventure or return to a new and reimagined Azeroth in World of Warcraft: Forever, launching worldwide November 4 at 3:00 pm PST. Adventure to level 60 across the original continents, discover new stories, and meet fellow…
 - **21:34 · AlterTime (web)** (es, Web especializada): [Guía de iniciación para nuevos jugadores: te damos la bienvenida a World of Warcraft: Forever](https://altertime.es/article/guia-de-iniciacion-para-nuevos-jugadores-te-damos-la-bienvenida-a-world-of-warcraft-forever) — World of Warcraft: Forever invita a los jugadores a una Azeroth original reimaginada, donde la exploración, la comunidad y la propia aventura son las protagonistas. Empieza en el nivel uno, crea un personaje a tu medida y aprende lo esencial para hacerte un hueco en un mundo diseñado para seguir…
+- **21:00 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [The main thing I understood from Blizzcon](https://www.reddit.com/r/wowforever/comments/1xiuhhk/the_main_thing_i_understood_from_blizzcon/) — submitted by /u/tmk_lmsd [link] [comments]
 - **20:44 · Wowhead (noticias de Forever)** (en, Web especializada): [Forced World Refreshes Will Be Significantly Reduced for WoW: Forever](https://www.wowhead.com/news=383649/forced-world-refreshes-will-be-significantly-reduced-for-wow-forever) — On WoW: Forever's launch, joining a group won't automatically phase you anymore, and forced layer refreshes shouldn't happen as often. Continue reading »
 - **20:13 · Wowhead (noticias de Forever)** (en, Web especializada): [Return to Azeroth Recap for World of Warcraft: Forever](https://www.wowhead.com/news=383653/return-to-azeroth-recap-for-world-of-warcraft-forever) — Blizzard reminds players about what awaits them when they return to Azeroth on November 4th for World of Warcraft: Forever. Continue reading »
 - **20:09 · AlterTime (web)** (es, Web especializada): [Vuelve a Azeroth con World of Warcraft: Forever](https://altertime.es/article/vuelve-a-azeroth-con-world-of-warcraft-forever) — Te damos la bienvenida de nuevo a Azeroth. Tanto si han pasado un par de años o un montón, en World of Warcraft: Forever te esperan caminos conocidos, viejos amigos y nuevas aventuras. Para ayudarte a retomar el rumbo y comenzar de nuevo tu andadura por Azeroth, hemos reunido información que te…
@@ -142,6 +143,6 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - Wowhead (YouTube): HTTP Error 404: Not Found
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
-- Jokerd: HTTP Error 404: Not Found
-- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
+- Jokerd: HTTP Error 500: Internal Server Error
+- AlterTime WoW Forever (YouTube): HTTP Error 500: Internal Server Error
 - Kodda (lore): HTTP Error 404: Not Found
