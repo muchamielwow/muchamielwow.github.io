@@ -1,5 +1,14 @@
 [
  {
+  "url": "https://www.wowhead.com/news=383669/over-8-million-characters-were-created-in-the-wow-forever-beta",
+  "titulo": "Over 8 Million Characters Were Created in the WoW: Forever Beta",
+  "resumen": "Blizzard has released some statistics about the WoW: Forever Beta, and over 8 million characters were created! Continue reading »",
+  "fecha": "2026-10-30T19:37:04+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
   "url": "https://www.reddit.com/r/wowforever/comments/1xjm5gi/where_are_my_fellow_floridamans_at/",
   "titulo": "Where are my fellow Floridamans at?",
   "resumen": "submitted by /u/shuckoRed [link] [comments]",
@@ -79,6 +88,15 @@
   "fuente": "Wowhead (noticias de Forever)",
   "idioma": "en",
   "fiabilidad": "web"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xjh8l1/horde_druid_players_what_race_are_you_going_and/",
+  "titulo": "Horde Druid players, what Race are you going and why?",
+  "resumen": "Skyborne or Tauren, is Plainsrunning amaazing in travel form? submitted by /u/travisrd [link] [comments]",
+  "fecha": "2026-10-30T14:42:28+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
  },
  {
   "url": "https://www.youtube.com/shorts/fJj0oDn3Kcs",
@@ -1186,23 +1204,5 @@
   "fuente": "Wowhead (noticias de Forever)",
   "idioma": "en",
   "fiabilidad": "web"
- },
- {
-  "url": "https://www.youtube.com/watch?v=ZKbat_DlXeA",
-  "titulo": "TODA la HISTORIA de WOTLK de PRINCIPIO a FIN",
-  "resumen": "El Rey Exánime despertó con un ejército de muertos… y lo primero que mandó a las capitales fueron cajas de grano. ¿Por qué esperó en su trono mientras la Alianza y la Horda cruzaban el mar a por él? ▶ Antes de Rasganorte: https://youtu.be/iXn-wC36q5c?si=jXFNmGesSo_PabPU ⚡ Este vídeo está…",
-  "fecha": "2026-10-23T19:22:19+00:00",
-  "fuente": "Kodda (lore)",
-  "idioma": "es",
-  "fiabilidad": "creador"
- },
- {
-  "url": "https://www.youtube.com/shorts/GOkGo2CmVnU",
-  "titulo": "Add your favorite WoW: Forever Beta moments & stories in the replies ➕",
-  "resumen": "",
-  "fecha": "2026-10-23T19:11:01+00:00",
-  "fuente": "World of Warcraft (YouTube oficial)",
-  "idioma": "en",
-  "fiabilidad": "oficial"
  }
 ]
