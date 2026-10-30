@@ -1,10 +1,15 @@
-# Radar de WoW Forever · actualizado el 30-10-2026 02:56 (hora de España)
+# Radar de WoW Forever · actualizado el 30-10-2026 03:47 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
+## 30-10-2026
+
+- **02:50 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [What the 60% racial looks like (no skateboarding)](https://www.reddit.com/r/wowforever/comments/1xj2swb/what_the_60_racial_looks_like_no_skateboarding/) — It took precisely 2:30 minutes to scale submitted by /u/Sustainable_Gaming [link] [comments]
+
 ## 29-10-2026
 
+- **23:54 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [What zone are you guys most excited / nostalgic for?](https://www.reddit.com/r/wowforever/comments/1xiyx65/what_zone_are_you_guys_most_excited_nostalgic_for/) — no i don't mean the chat... submitted by /u/Haunterz [link] [comments]
 - **23:08 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Tinfoil hat theory: You can become a worgen and death knight in wow forever](https://www.reddit.com/r/wowforever/comments/1xixsnp/tinfoil_hat_theory_you_can_become_a_worgen_and/) — Alright! Tinfoil hats on! Making a huge leap, haha 😄 In episode 6 of the Forever Podcast there's a couple of words behind Aggrend. Some of those translate to "The truth is a guiding light". That's a line from "Curse of the Worgen". Now. Leap time! 😄 Recently we've seen characters in wow:f clips…
 - **22:20 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [„We will stay in Azeroth forever”](https://www.reddit.com/r/wowforever/comments/1xiwlcn/we_will_stay_in_azeroth_forever/) — submitted by /u/Decent-Meaning-5594 [link] [comments]
 - **22:17 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Instant panic](https://www.reddit.com/r/wowforever/comments/1xiwj25/instant_panic/) — submitted by /u/ASZHanazaki [link] [comments]
@@ -143,6 +148,6 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - Wowhead (YouTube): HTTP Error 404: Not Found
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
-- Jokerd: HTTP Error 500: Internal Server Error
-- AlterTime WoW Forever (YouTube): HTTP Error 500: Internal Server Error
+- Jokerd: HTTP Error 404: Not Found
+- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
 - Kodda (lore): HTTP Error 404: Not Found
