@@ -1,10 +1,16 @@
-# Radar de WoW Forever · actualizado el 30-10-2026 23:39 (hora de España)
+# Radar de WoW Forever · actualizado el 31-10-2026 00:36 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
+## 31-10-2026
+
+- **00:22 · Wowhead (noticias de Forever)** (en, Web especializada): [Massive Talent Tree Changes to Druids and Paladins - Class Tuning for WoW: Forever](https://www.wowhead.com/news=383670/massive-talent-tree-changes-to-druids-and-paladins-class-tuning-for-wow-forever) — Druids and Paladins have some massive talent tree changes, with many others getting class tuning changes ahead of WoW: Forever's launch on November 4th! Continue reading »
+
 ## 30-10-2026
 
+- **23:15 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Any people around that were there at 04 launch?](https://www.reddit.com/r/wowforever/comments/1xjt2gj/any_people_around_that_were_there_at_04_launch/) — Curious how many people from 04 are playing WoWF. If so what server did you start on. Sargeras(H) here. Edit: Seems there's a decent amount...cool. submitted by /u/ImpossibleReason7555 [link] [comments]
+- **21:19 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Skyborne would've worked greatly with a more Nightborne oriented rig](https://www.reddit.com/r/wowforever/comments/1xjq8ie/skyborne_wouldve_worked_greatly_with_a_more/) — submitted by /u/ex0ll [link] [comments]
 - **20:46 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Over 8 Million Characters Were Created in the WoW: Forever Beta](https://www.reddit.com/r/wowforever/comments/1xjpci8/over_8_million_characters_were_created_in_the_wow/) — The stats include: Characters Created: 8,862,354 Deadliest Dungeon: The Hall of Thanes PvP Kills: 9,959,014 Skyborne: 1,889,084 Deadliest Creature: Kobold Miner Duels Fought: 1,248,125 Forsaken Paladins: 612,096 Deaths from Falling: 1,157,204 Zone with the Most PvP: Hillsbrad Foothills submitted by…
 - **20:37 · Wowhead (noticias de Forever)** (en, Web especializada): [Over 8 Million Characters Were Created in the WoW: Forever Beta](https://www.wowhead.com/news=383669/over-8-million-characters-were-created-in-the-wow-forever-beta) — Blizzard has released some statistics about the WoW: Forever Beta, and over 8 million characters were created! Continue reading »
 - **18:44 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Where are my fellow Floridamans at?](https://www.reddit.com/r/wowforever/comments/1xjm5gi/where_are_my_fellow_floridamans_at/) — submitted by /u/shuckoRed [link] [comments]
