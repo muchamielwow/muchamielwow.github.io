@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 30-10-2026 06:44 (hora de España)
+# Radar de WoW Forever · actualizado el 30-10-2026 07:53 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -145,7 +145,6 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 
 ## Fuentes que han fallado esta vez
 
-- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
 - Wowhead (YouTube): HTTP Error 404: Not Found
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
