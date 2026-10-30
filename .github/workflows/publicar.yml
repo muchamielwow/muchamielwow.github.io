@@ -21,7 +21,7 @@ jobs:
           rsync -a --delete --exclude .git --exclude .github --exclude marcas --exclude .nojekyll \
             --exclude datos/avisos-blizzard.json --exclude datos/directo.json --exclude datos/youtube-feed.xml --exclude datos/youtube.json /tmp/fuente/web/dist/ ./
           rm -f _worker.js _routes.json _fuentes.html
-          for f in avisos_blizzard.py youtube_directo.py actualizar_talentos.py radar.py; do cp /tmp/fuente/$f .github/$f; done
+          for f in avisos_blizzard.py youtube_directo.py actualizar_talentos.py radar.py momentos.py; do cp /tmp/fuente/$f .github/$f; done
           cp /tmp/fuente/MANUAL-WEB-github.md .github/README.md
           git add -A
           git diff --cached --quiet && exit 0

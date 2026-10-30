@@ -1,0 +1,26 @@
+# Mejores momentos de cada directo (Van, 30-10-2026).
+# Cada 15 minutos mira si Muchamiel está en directo; si lo está, escucha el chat de Twitch (anónimo, solo lectura)
+# hasta que acaba y deja la lista en .github/momentos/ (un .md por directo, para su IA). Script: .github/momentos.py
+# (copia de wow-forever-torneo/momentos.py en el PC de Van). Si un directo dura más de 5 h 45, la siguiente ejecución sigue.
+name: Mejores momentos
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: momentos
+jobs:
+  momentos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 358
+    steps:
+      - uses: actions/checkout@v5
+      - run: python3 .github/momentos.py .
+      - run: |
+          git add .github/momentos/ 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git config user.name "momentos-directo"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Mejores momentos del directo"
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && exit 0; sleep 15; done; exit 1

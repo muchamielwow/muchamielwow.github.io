@@ -24,8 +24,16 @@ En la carpeta `.github/workflows/` hay tres tareas automáticas de GitHub:
 | Avisos de Blizzard | cada 20 minutos | Lee los avisos oficiales y el estado del directo y actualiza `datos/` |
 | Talentos de la calculadora | cada 6 horas | Actualiza los talentos de la calculadora |
 | Radar de novedades | cada hora | Junta las novedades de Forever de las fuentes en `.github/radar/RADAR.md`, para tu IA |
+| Mejores momentos | cada 15 min | Si estás en directo, escucha el chat de Twitch y al acabar deja la lista de mejores momentos en `.github/momentos/` |
 
 Se ven en la pestaña **Actions** del repositorio. Si una falla, GitHub te avisa por correo; normalmente basta con esperar a la siguiente.
+
+## Mejores momentos de cada directo (para tus vídeos largos)
+
+- Cuando estás en directo, la tarea escucha el chat de Twitch (solo lee; no escribe nada ni guarda nombres ni mensajes de la gente) y cuenta los mensajes por minuto.
+- Al acabar deja un archivo por directo en `.github/momentos/` con los picos del chat (risas, sorpresa, efes, gente pidiendo clip), los raids, las subs regaladas y las marcas: si tú o un moderador escribís `!momento` en el chat (con una nota si queréis: `!momento pull de Hogger`), sale en la lista.
+- Cada momento trae el minuto y un enlace que abre tu directo de YouTube justo ahí.
+- Para tu IA, el índice en texto limpio: https://raw.githubusercontent.com/muchamielwow/muchamielwow.github.io/main/.github/momentos/README.md (cada lista se abre cambiando README.md por el nombre del archivo).
 
 ## El radar de novedades (para tu IA)
 
