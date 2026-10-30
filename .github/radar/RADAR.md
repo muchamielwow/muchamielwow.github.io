@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 30-10-2026 07:53 (hora de España)
+# Radar de WoW Forever · actualizado el 30-10-2026 09:00 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -6,11 +6,13 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 ## 30-10-2026
 
 - **02:50 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [What the 60% racial looks like (no skateboarding)](https://www.reddit.com/r/wowforever/comments/1xj2swb/what_the_60_racial_looks_like_no_skateboarding/) — It took precisely 2:30 minutes to scale submitted by /u/Sustainable_Gaming [link] [comments]
+- **01:19 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [BLIZZARD PERMITIRÁ CREAR GRUPOS DE *120 JUGADORES* EN WOW FOREVER](https://www.youtube.com/watch?v=D3RKntM9byY) — Repasamos todas las novedades que ha mencionado Blizzard sobre World of Warcraft Forever en un reciente podcast. Resumen del podcast: https://altertime.es/article/resumen-del-6-podcast-sobre-world-of-warcraft-forever Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial:…
 
 ## 29-10-2026
 
 - **23:54 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [What zone are you guys most excited / nostalgic for?](https://www.reddit.com/r/wowforever/comments/1xiyx65/what_zone_are_you_guys_most_excited_nostalgic_for/) — no i don't mean the chat... submitted by /u/Haunterz [link] [comments]
 - **23:08 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Tinfoil hat theory: You can become a worgen and death knight in wow forever](https://www.reddit.com/r/wowforever/comments/1xixsnp/tinfoil_hat_theory_you_can_become_a_worgen_and/) — Alright! Tinfoil hats on! Making a huge leap, haha 😄 In episode 6 of the Forever Podcast there's a couple of words behind Aggrend. Some of those translate to "The truth is a guiding light". That's a line from "Curse of the Worgen". Now. Leap time! 😄 Recently we've seen characters in wow:f clips…
+- **23:01 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [WOW Forever Map 2004 vs Azeroth](https://www.reddit.com/r/wowforever/comments/1xixmm7/wow_forever_map_2004_vs_azeroth/) — Made some comments on another post about the map. My question is are you all wanting to Explore Azeroth or 2004? A lot of the images I share here are from the late 1980's-1990's . They come from Metzen and the orginal creators of this world. I see a lot of people talking about it staying just the…
 - **22:20 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [„We will stay in Azeroth forever”](https://www.reddit.com/r/wowforever/comments/1xiwlcn/we_will_stay_in_azeroth_forever/) — submitted by /u/Decent-Meaning-5594 [link] [comments]
 - **22:17 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Instant panic](https://www.reddit.com/r/wowforever/comments/1xiwj25/instant_panic/) — submitted by /u/ASZHanazaki [link] [comments]
 - **22:09 · Wowhead (noticias de Forever)** (en, Web especializada): [Everything You Need to Know for WoW: Forever's Global Launch](https://www.wowhead.com/news=383656/everything-you-need-to-know-for-wow-forevers-global-launch) — Blizzard has summarized everything you need to know for WoW: Forever's Global launch on November 4th. Continue reading »
@@ -26,6 +28,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **20:02 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [Return to Azeroth in World of Warcraft: Forever](https://us.forums.blizzard.com/en/wow/t/return-to-azeroth-in-world-of-warcraft-forever/2395922/1) — [Return to Azeroth in World of Warcraft: Forever] Welcome back to Azeroth. Whether it has been a few years, or many— familiar roads, old friends, and new adventures are waiting for you in World of Warcraft: Forever. To help you get your feet on the ground and begin your adventures in Azeroth once…
 - **19:55 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I’ve played myself](https://www.reddit.com/r/wowforever/comments/1xisrll/ive_played_myself/) — I moved to London, UK, and have been unemployed since March 2026. I’ve been job hunting ever since. With the announcement of WoW forever closing in I knew I’d be happy either way: either unemployed, and able to devote a decent amount of hours in to WoW or finally employed but not able to play WoW…
 - **19:39 · Kodda (lore)** (es, Creador de contenido): [TODA la historia de VANILLA hasta LICH KING EXPLICADA](https://www.youtube.com/watch?v=LutgBK8qkz0) — En el monte Hyjal, la Horda y la Alianza salvaron el mundo juntas. Cuatro años después volvían a apuntarse con las armas… y durante tres expansiones de World of Warcraft, cada guerra tuvo a alguien empujando desde la sombra. ▶ Las tres partes por separado: El mundo de Classic [link] · El mundo de…
+- **19:36 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Anyone Catch This?](https://www.reddit.com/r/wowforever/comments/1xis9bc/anyone_catch_this/) — Going through dungeon loot tables and caught this. So needless and funny. I’m so hyped for next week 😆. submitted by /u/RaejMD [link] [comments]
 - **19:18 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Rise my fellow Dwarf Paladin's!](https://www.reddit.com/r/wowforever/comments/1xirs0b/rise_my_fellow_dwarf_paladins/) — We can't let them forget us when the Undead's get their own Mount! submitted by /u/MW1105 [link] [comments]
 - **19:12 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I can't decide](https://www.reddit.com/r/wowforever/comments/1xirmfd/i_cant_decide/) — submitted by /u/ASZHanazaki [link] [comments]
 - **19:12 · Wowhead (noticias de Forever)** (en, Web especializada): [Blizzard Working on Top Layering Issues in WoW: Forever](https://www.wowhead.com/news=383650/blizzard-working-on-top-layering-issues-in-wow-forever) — In the latest episode of the WoW: Forever Podcast, Blizzard has addressed that they are working on the most noticeable layer issues players saw on the Beta. Continue reading »
@@ -142,12 +145,3 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **17:00 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [BLIZZARD OCULTA ESTOS SECRETOS EN EL MAPA DE WOW FOREVER](https://www.youtube.com/watch?v=NxFkNJUChlY) — Conoce cómo se ven a día de hoy los próximos proyectos en desarrollo por el equipo de Blizzard para WoW Forever. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
 - **16:00 · Wowhead (noticias de Forever)** (en, Web especializada): [Who is WoW: Forever Meant For? Blizzard Discusses on Forever Podcast](https://www.wowhead.com/news=383547/who-is-wow-forever-meant-for-blizzard-discusses-on-forever-podcast) — In the latest podcast episode, Associate Production Director Clay Stone breaks down who World of Warcraft: Forever is meant for. Continue reading »
 - **13:30 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [LA ZONA PROHIBIDA QUE NO PODRÁS LLEGAR EN WOW FOREVER](https://www.youtube.com/shorts/aPFheblRfik) — La isla de los GM se encuentra visible en World of Warcraft Forever desde el horizonte. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas: https://instant-gaming.com/es/?igr=altertime Web:…
-
-## Fuentes que han fallado esta vez
-
-- Wowhead (YouTube): HTTP Error 404: Not Found
-- MrGM: HTTP Error 404: Not Found
-- Quissy: HTTP Error 404: Not Found
-- Jokerd: HTTP Error 404: Not Found
-- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
-- Kodda (lore): HTTP Error 404: Not Found
