@@ -1,10 +1,11 @@
-# Radar de WoW Forever · actualizado el 31-10-2026 17:37 (hora de España)
+# Radar de WoW Forever · actualizado el 31-10-2026 18:33 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 31-10-2026
 
+- **17:21 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Hillsbrad gonna lit](https://www.reddit.com/r/wowforever/comments/1xkefjw/hillsbrad_gonna_lit/) — submitted by /u/Constant_Duck4490 [link] [comments]
 - **17:00 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [BLIZZARD ANUNCIA CAMBIOS A LAS CLASES ANTES DE QUE LLEGUE WOW FOREVER](https://www.youtube.com/watch?v=hPuAgAehjyQ) — Conoce los primeros cambios a las clases que se han datamineado recientemente en el último parche aplicado a World of Warcraft. https://www.wowhead.com/forever/es/news/massive-talent-tree-changes-to-druids-and-paladins-class-tuning-for-wow-forever-383670 Recuerda que puedes seguirnos en nuestras…
 - **16:45 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Just 5 more days, and I still couldnt make a decision...](https://www.reddit.com/r/wowforever/comments/1xkdjm7/just_5_more_days_and_i_still_couldnt_make_a/) — submitted by /u/Raoul97533 [link] [comments]
 - **16:00 · World of Warcraft (YouTube oficial)** (en, Oficial de Blizzard): [WoW: Forever Journey EP.2 | Denmark (ft. Guzu, Zibartas and GingiTV)](https://www.youtube.com/watch?v=i7v1FTr5Da4) — Sandstorms are rising over Råbjerg Mile... Episode 2 of WoW: Forever Journey is here ♾️ New quests await as Guzu, Zibartas and GingiTV head into the Danish dunes for the next leg of their journey! ► Latest WoW news: http://worldofwarcraft.com/news ► Subscribe to WoW: http://blizz.ly/WoWYTSub ►…
