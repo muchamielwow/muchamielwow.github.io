@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 31-10-2026 10:39 (hora de España)
+# Radar de WoW Forever · actualizado el 31-10-2026 11:37 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -6,6 +6,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 ## 31-10-2026
 
 - **09:23 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [A love letter to Gamer Dads, from a Gamer Mum](https://www.reddit.com/r/wowforever/comments/1xk4ra3/a_love_letter_to_gamer_dads_from_a_gamer_mum/) — Hello all you Dads out there! Can I tell you a little story, from a gamer mum? And an even bigger hello to all you gamer mums/moms, and gamer girls in general! We are here my sisters, we exist! You see, there’s been a lot of focus on dads lately. A lot of you were young when you first played WoW,…
+- **08:25 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [My WoW Forever dilemma..](https://www.reddit.com/r/wowforever/comments/1xk3uuv/my_wow_forever_dilemma/) — submitted by /u/Rektzyqq [link] [comments]
 - **04:29 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [WoW Forever subreddit mascot discovered](https://www.reddit.com/r/wowforever/comments/1xjztbp/wow_forever_subreddit_mascot_discovered/) — Its this guy. We embody his commitment to making up problems that we don't have any proof exist yet. Praise be to Andy, may we all feel his completely fabricated anxiety every patch. submitted by /u/NextReflection3098 [link] [comments]
 - **04:06 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Happy Forever Launch!](https://www.reddit.com/r/wowforever/comments/1xjzd58/happy_forever_launch/) — submitted by /u/MoteOfLust [link] [comments]
 - **03:59 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [So close now](https://www.reddit.com/r/wowforever/comments/1xjz8ek/so_close_now/) — submitted by /u/picklechips232 [link] [comments]
