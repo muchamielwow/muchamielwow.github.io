@@ -1,10 +1,12 @@
-# Radar de WoW Forever · actualizado el 31-10-2026 15:36 (hora de España)
+# Radar de WoW Forever · actualizado el 31-10-2026 16:36 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 31-10-2026
 
+- **16:00 · World of Warcraft (YouTube oficial)** (en, Oficial de Blizzard): [WoW: Forever Journey EP.2 | Denmark (ft. Guzu, Zibartas and GingiTV)](https://www.youtube.com/watch?v=i7v1FTr5Da4) — Sandstorms are rising over Råbjerg Mile... Episode 2 of WoW: Forever Journey is here ♾️ New quests await as Guzu, Zibartas and GingiTV head into the Danish dunes for the next leg of their journey! ► Latest WoW news: http://worldofwarcraft.com/news ► Subscribe to WoW: http://blizz.ly/WoWYTSub ►…
+- **15:43 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Some of you need to chill.](https://www.reddit.com/r/wowforever/comments/1xkc0nz/some_of_you_need_to_chill/) — It's day 1, there's gonna be notes every week changing class abilities and tweaking talents. You can say "that's what beta was for" cool bro, guess never played wow before be cause class changes are a wheel, sometimes you're on bottom, sometimes you're on top. Just play what you like and be happy.…
 - **13:50 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [EL GRAN CAMBIO A ESTA ZONA MÍTICA EN WOW FOREVER](https://www.youtube.com/shorts/d4TphdKan_M) — Conoce cómo se ve una de las zonas con cambios de Vanilla a World of Warcraft Forever. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas: https://instant-gaming.com/es/?igr=altertime Web:…
 - **13:14 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [WoW Forever launches November 4th. Real life has been cancelled.](https://www.reddit.com/r/wowforever/comments/1xk8o0g/wow_forever_launches_november_4th_real_life_has/) — submitted by /u/Rektzyqq [link] [comments]
 - **12:29 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [The button looms over us...](https://www.reddit.com/r/wowforever/comments/1xk7tww/the_button_looms_over_us/) — submitted by /u/grudgeSC [link] [comments]
@@ -193,5 +195,3 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 ## 24-10-2026
 
 - **21:30 · Kodda (lore)** (es, Creador de contenido): [¿Por qué la CRUZADA ESCARLATA odia al ALBA ARGENTA?](https://www.youtube.com/watch?v=xBMQ9pgmhGk) — La Cruzada Escarlata y el Alba Argenta nacieron de la misma orden, en la misma sala y el mismo día. Entonces, ¿por qué una acabó odiando a la otra más que a la propia Plaga en World of Warcraft? Seguimos a los supervivientes de la Mano de Plata desde Vega del Amparo hasta el cisma: Alexandros…
-- **17:00 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [BLIZZARD QUIERE AÑADIR UN BANCO LIGADO A TODA LA CUENTA EN WOW FOREVER](https://www.youtube.com/watch?v=TZn-lVcScTU) — Conoce todo lo que ha mencionado Blizzard en una reciente entrevista sobre WoW Forever y su futuro. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
-- **17:00 · World of Warcraft (YouTube oficial)** (en, Oficial de Blizzard): [WoW: Forever Journey EP.1 | Norway (ft. Guzu, Snupy & Stian Blipp)](https://www.youtube.com/watch?v=Yi4pwfhVW7g) — Engines roaring. Battle cries echoing across the fjords. The Forever Journey has begun ♾️ Join Guzu, Snupy and Stian Blipp as they take World of Warcraft beyond the screen, one spectacular location and unforgettable moment at a time. Learn more at: https://worldofwarcraft.blizzard.com/forever ►…
