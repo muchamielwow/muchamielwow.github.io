@@ -1,14 +1,17 @@
-# Radar de WoW Forever · actualizado el 31-10-2026 00:36 (hora de España)
+# Radar de WoW Forever · actualizado el 31-10-2026 01:56 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 31-10-2026
 
+- **00:28 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Feral Druid+Engineer Wombo Combo](https://www.reddit.com/r/wowforever/comments/1xjur2e/feral_druidengineer_wombo_combo/) — submitted by /u/1oddfish [link] [comments]
+- **00:25 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Massive Talent Tree Changes to Druids and Paladins - Class Tuning for WoW: Forever](https://www.reddit.com/r/wowforever/comments/1xjuoyj/massive_talent_tree_changes_to_druids_and/) — submitted by /u/orcofmordor [link] [comments]
 - **00:22 · Wowhead (noticias de Forever)** (en, Web especializada): [Massive Talent Tree Changes to Druids and Paladins - Class Tuning for WoW: Forever](https://www.wowhead.com/news=383670/massive-talent-tree-changes-to-druids-and-paladins-class-tuning-for-wow-forever) — Druids and Paladins have some massive talent tree changes, with many others getting class tuning changes ahead of WoW: Forever's launch on November 4th! Continue reading »
 
 ## 30-10-2026
 
+- **23:54 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Huge paladin, druid, mage, priest changes](https://www.reddit.com/r/wowforever/comments/1xjtzj5/huge_paladin_druid_mage_priest_changes/) — Link of the changes : https://wowforevertalents.com/patch-notes/ I'll be honest, no matter how certain things may be nerfs or whatever, those kind of big changes give me hope that Blizzard is willing to do the right thing. I'm curious to see such big changes done to shaman and rogue as well. #hope…
 - **23:15 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Any people around that were there at 04 launch?](https://www.reddit.com/r/wowforever/comments/1xjt2gj/any_people_around_that_were_there_at_04_launch/) — Curious how many people from 04 are playing WoWF. If so what server did you start on. Sargeras(H) here. Edit: Seems there's a decent amount...cool. submitted by /u/ImpossibleReason7555 [link] [comments]
 - **21:19 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Skyborne would've worked greatly with a more Nightborne oriented rig](https://www.reddit.com/r/wowforever/comments/1xjq8ie/skyborne_wouldve_worked_greatly_with_a_more/) — submitted by /u/ex0ll [link] [comments]
 - **20:46 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Over 8 Million Characters Were Created in the WoW: Forever Beta](https://www.reddit.com/r/wowforever/comments/1xjpci8/over_8_million_characters_were_created_in_the_wow/) — The stats include: Characters Created: 8,862,354 Deadliest Dungeon: The Hall of Thanes PvP Kills: 9,959,014 Skyborne: 1,889,084 Deadliest Creature: Kobold Miner Duels Fought: 1,248,125 Forsaken Paladins: 612,096 Deaths from Falling: 1,157,204 Zone with the Most PvP: Hillsbrad Foothills submitted by…
@@ -170,3 +173,13 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **17:00 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [BLIZZARD QUIERE AÑADIR UN BANCO LIGADO A TODA LA CUENTA EN WOW FOREVER](https://www.youtube.com/watch?v=TZn-lVcScTU) — Conoce todo lo que ha mencionado Blizzard en una reciente entrevista sobre WoW Forever y su futuro. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
 - **17:00 · World of Warcraft (YouTube oficial)** (en, Oficial de Blizzard): [WoW: Forever Journey EP.1 | Norway (ft. Guzu, Snupy & Stian Blipp)](https://www.youtube.com/watch?v=Yi4pwfhVW7g) — Engines roaring. Battle cries echoing across the fjords. The Forever Journey has begun ♾️ Join Guzu, Snupy and Stian Blipp as they take World of Warcraft beyond the screen, one spectacular location and unforgettable moment at a time. Learn more at: https://worldofwarcraft.blizzard.com/forever ►…
 - **13:30 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [NUEVO ACCESO SECRETO EN WOW FOREVER](https://www.youtube.com/shorts/1__rLuJqvQo) — Conoce un nuevo camino secreto añadido en WoW Forever que conecta dos zonas míticas del juego. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
+
+## Fuentes que han fallado esta vez
+
+- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
+- Wowhead (YouTube): HTTP Error 404: Not Found
+- MrGM: HTTP Error 404: Not Found
+- Quissy: HTTP Error 404: Not Found
+- Jokerd: HTTP Error 404: Not Found
+- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
+- Kodda (lore): HTTP Error 404: Not Found
