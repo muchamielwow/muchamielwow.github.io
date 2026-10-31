@@ -1,10 +1,11 @@
-# Radar de WoW Forever · actualizado el 31-10-2026 22:36 (hora de España)
+# Radar de WoW Forever · actualizado el 31-10-2026 23:35 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 31-10-2026
 
+- **21:53 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Hearing a lot of people debating whether to roll with friends or pick the side they actually prefer….](https://www.reddit.com/r/wowforever/comments/1xkl3je/hearing_a_lot_of_people_debating_whether_to_roll/) — submitted by /u/missing_Palantir [link] [comments]
 - **20:18 · Kodda (lore)** (es, Creador de contenido): [El día que Thrall se fue… y Alamuerte ROMPIÓ el mundo](https://www.youtube.com/watch?v=9k0UAfdM1oY) — Alamuerte quemó Ventormenta y se marchó sin destruirla. Y Thrall dejó la Horda justo cuando el mundo empezaba a romperse. ¿Qué tenía que pasar para que Azeroth sobreviviera al Cataclismo de World of Warcraft? En este vídeo recorremos toda la historia de Cataclysm como un viaje guiado: de…
 - **19:00 · Wowhead (noticias de Forever)** (en, Web especializada): [Could the WoW: Forever Podcast be Teasing a Secret New Weapon?](https://www.wowhead.com/news=383657/could-the-wow-forever-podcast-be-teasing-a-secret-new-weapon) — A mysterious message on the latest WoW: Forever podcast board has players decoding Darnassian and speculating about what Blizzard could be hinting at. Continue reading »
 - **19:00 · Wowhead (noticias de Forever)** (en, Web especializada): [Repeatable Quest Experience Exploit Fixed for WoW: Forever Launch](https://www.wowhead.com/news=383574/repeatable-quest-experience-exploit-fixed-for-wow-forever-launch) — Players discovered a repeatable Alliance-only quest that continuously gave XP, but Blizzard has fixed the quest for Forever's launch - don't plan to level with it! Continue reading »
