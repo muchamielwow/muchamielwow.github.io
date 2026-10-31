@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 31-10-2026 07:50 (hora de España)
+# Radar de WoW Forever · actualizado el 31-10-2026 08:51 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -13,6 +13,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **01:57 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Devs, I know this is what your commute looked like today. Can we have updated skyboxes?](https://www.reddit.com/r/wowforever/comments/1xjwrj1/devs_i_know_this_is_what_your_commute_looked_like/) — Please :) submitted by /u/ggTraumend [link] [comments]
 - **01:39 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Who is starting this journey with your kid? (father 44, son 12)](https://www.reddit.com/r/wowforever/comments/1xjwd7v/who_is_starting_this_journey_with_your_kid_father/) — Dad has been a nasty Orc back in the vanilla days. Looking forward what we can do as a couple. Warrior & Hunter. Europe PvR realm. submitted by /u/Der_Apfeldieb [link] [comments]
 - **01:27 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [My girlfriend made this for me](https://www.reddit.com/r/wowforever/comments/1xjw2wq/my_girlfriend_made_this_for_me/) — WARCRAFT FOREVER. ZUG ZUG submitted by /u/IsItItIs [link] [comments]
+- **01:02 · World of Warcraft (YouTube oficial)** (en, Oficial de Blizzard): [Love learning about the tech that powers games?](https://www.youtube.com/shorts/l9GwCosk91o) — For more on the tech behind WoW: Forever, catch the full episode on our channel!
 - **00:28 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Feral Druid+Engineer Wombo Combo](https://www.reddit.com/r/wowforever/comments/1xjur2e/feral_druidengineer_wombo_combo/) — submitted by /u/1oddfish [link] [comments]
 - **00:25 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Massive Talent Tree Changes to Druids and Paladins - Class Tuning for WoW: Forever](https://www.reddit.com/r/wowforever/comments/1xjuoyj/massive_talent_tree_changes_to_druids_and/) — submitted by /u/orcofmordor [link] [comments]
 - **00:22 · Wowhead (noticias de Forever)** (en, Web especializada): [Massive Talent Tree Changes to Druids and Paladins - Class Tuning for WoW: Forever](https://www.wowhead.com/news=383670/massive-talent-tree-changes-to-druids-and-paladins-class-tuning-for-wow-forever) — Druids and Paladins have some massive talent tree changes, with many others getting class tuning changes ahead of WoW: Forever's launch on November 4th! Continue reading »
@@ -187,13 +188,3 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **17:00 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [BLIZZARD QUIERE AÑADIR UN BANCO LIGADO A TODA LA CUENTA EN WOW FOREVER](https://www.youtube.com/watch?v=TZn-lVcScTU) — Conoce todo lo que ha mencionado Blizzard en una reciente entrevista sobre WoW Forever y su futuro. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
 - **17:00 · World of Warcraft (YouTube oficial)** (en, Oficial de Blizzard): [WoW: Forever Journey EP.1 | Norway (ft. Guzu, Snupy & Stian Blipp)](https://www.youtube.com/watch?v=Yi4pwfhVW7g) — Engines roaring. Battle cries echoing across the fjords. The Forever Journey has begun ♾️ Join Guzu, Snupy and Stian Blipp as they take World of Warcraft beyond the screen, one spectacular location and unforgettable moment at a time. Learn more at: https://worldofwarcraft.blizzard.com/forever ►…
 - **13:30 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [NUEVO ACCESO SECRETO EN WOW FOREVER](https://www.youtube.com/shorts/1__rLuJqvQo) — Conoce un nuevo camino secreto añadido en WoW Forever que conecta dos zonas míticas del juego. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
-
-## Fuentes que han fallado esta vez
-
-- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
-- Wowhead (YouTube): HTTP Error 404: Not Found
-- MrGM: HTTP Error 404: Not Found
-- Quissy: HTTP Error 404: Not Found
-- Jokerd: HTTP Error 404: Not Found
-- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
-- Kodda (lore): HTTP Error 404: Not Found
