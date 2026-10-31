@@ -1,10 +1,11 @@
-# Radar de WoW Forever · actualizado el 31-10-2026 03:46 (hora de España)
+# Radar de WoW Forever · actualizado el 31-10-2026 04:43 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 31-10-2026
 
+- **03:59 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [So close now](https://www.reddit.com/r/wowforever/comments/1xjz8ek/so_close_now/) — submitted by /u/picklechips232 [link] [comments]
 - **01:39 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Who is starting this journey with your kid? (father 44, son 12)](https://www.reddit.com/r/wowforever/comments/1xjwd7v/who_is_starting_this_journey_with_your_kid_father/) — Dad has been a nasty Orc back in the vanilla days. Looking forward what we can do as a couple. Warrior & Hunter. Europe PvR realm. submitted by /u/Der_Apfeldieb [link] [comments]
 - **01:27 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [My girlfriend made this for me](https://www.reddit.com/r/wowforever/comments/1xjw2wq/my_girlfriend_made_this_for_me/) — WARCRAFT FOREVER. ZUG ZUG submitted by /u/IsItItIs [link] [comments]
 - **00:28 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Feral Druid+Engineer Wombo Combo](https://www.reddit.com/r/wowforever/comments/1xjur2e/feral_druidengineer_wombo_combo/) — submitted by /u/1oddfish [link] [comments]
@@ -183,9 +184,9 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 ## Fuentes que han fallado esta vez
 
 - World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
-- Wowhead (YouTube): HTTP Error 500: Internal Server Error
-- MrGM: HTTP Error 500: Internal Server Error
+- Wowhead (YouTube): HTTP Error 404: Not Found
+- MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
-- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
-- Kodda (lore): HTTP Error 500: Internal Server Error
+- AlterTime WoW Forever (YouTube): HTTP Error 500: Internal Server Error
+- Kodda (lore): HTTP Error 404: Not Found
