@@ -1,10 +1,11 @@
-# Radar de WoW Forever · actualizado el 31-10-2026 01:56 (hora de España)
+# Radar de WoW Forever · actualizado el 31-10-2026 02:55 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 31-10-2026
 
+- **01:39 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Who is starting this journey with your kid? (father 44, son 12)](https://www.reddit.com/r/wowforever/comments/1xjwd7v/who_is_starting_this_journey_with_your_kid_father/) — Dad has been a nasty Orc back in the vanilla days. Looking forward what we can do as a couple. Warrior & Hunter. Europe PvR realm. submitted by /u/Der_Apfeldieb [link] [comments]
 - **00:28 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Feral Druid+Engineer Wombo Combo](https://www.reddit.com/r/wowforever/comments/1xjur2e/feral_druidengineer_wombo_combo/) — submitted by /u/1oddfish [link] [comments]
 - **00:25 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Massive Talent Tree Changes to Druids and Paladins - Class Tuning for WoW: Forever](https://www.reddit.com/r/wowforever/comments/1xjuoyj/massive_talent_tree_changes_to_druids_and/) — submitted by /u/orcofmordor [link] [comments]
 - **00:22 · Wowhead (noticias de Forever)** (en, Web especializada): [Massive Talent Tree Changes to Druids and Paladins - Class Tuning for WoW: Forever](https://www.wowhead.com/news=383670/massive-talent-tree-changes-to-druids-and-paladins-class-tuning-for-wow-forever) — Druids and Paladins have some massive talent tree changes, with many others getting class tuning changes ahead of WoW: Forever's launch on November 4th! Continue reading »
@@ -182,4 +183,4 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
-- Kodda (lore): HTTP Error 404: Not Found
+- Kodda (lore): HTTP Error 500: Internal Server Error
