@@ -1,10 +1,11 @@
-# Radar de WoW Forever · actualizado el 31-10-2026 19:42 (hora de España)
+# Radar de WoW Forever · actualizado el 31-10-2026 20:38 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 31-10-2026
 
+- **20:18 · Kodda (lore)** (es, Creador de contenido): [El día que Thrall se fue… y Alamuerte ROMPIÓ el mundo](https://www.youtube.com/watch?v=9k0UAfdM1oY) — Alamuerte quemó Ventormenta y se marchó sin destruirla. Y Thrall dejó la Horda justo cuando el mundo empezaba a romperse. ¿Qué tenía que pasar para que Azeroth sobreviviera al Cataclismo de World of Warcraft? En este vídeo recorremos toda la historia de Cataclysm como un viaje guiado: de…
 - **19:00 · Wowhead (noticias de Forever)** (en, Web especializada): [Could the WoW: Forever Podcast be Teasing a Secret New Weapon?](https://www.wowhead.com/news=383657/could-the-wow-forever-podcast-be-teasing-a-secret-new-weapon) — A mysterious message on the latest WoW: Forever podcast board has players decoding Darnassian and speculating about what Blizzard could be hinting at. Continue reading »
 - **19:00 · Wowhead (noticias de Forever)** (en, Web especializada): [Repeatable Quest Experience Exploit Fixed for WoW: Forever Launch](https://www.wowhead.com/news=383574/repeatable-quest-experience-exploit-fixed-for-wow-forever-launch) — Players discovered a repeatable Alliance-only quest that continuously gave XP, but Blizzard has fixed the quest for Forever's launch - don't plan to level with it! Continue reading »
 - **18:13 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Wish you could have been around to see WoW Forever. Rest in peace my Warlock friend of 18 +years. You would have loved this one.](https://www.reddit.com/r/wowforever/comments/1xkfq7x/wish_you_could_have_been_around_to_see_wow/) — submitted by /u/Glittering_Opinion_4 [link] [comments]
@@ -201,7 +202,3 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **17:00 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [ESTA ZONA OCULTA LLEGARÁ POR FIN CON WOW FOREVER](https://www.youtube.com/watch?v=HF8f8qgTxyI) — El cráter de Azshara es uno de los mapas que tendremos seguramente disponible en WoW Forever. No te pierdas todos los detalles de la mano de AlterTime explorando una zona mítica del juego. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE…
 - **16:00 · World of Warcraft (YouTube oficial)** (en, Oficial de Blizzard): [WoW: Forever presents Escape Together](https://www.youtube.com/watch?v=lqd6vFv36pU) — Watch some of your favorite creators test their brains, brawn, and bonds before taking on the Scarlet Monastery, an escape room inspired by the iconic dungeon. Which faction will claim victory? #wowescapetogether ► Latest WoW news: http://worldofwarcraft.com/news ► Subscribe to WoW:…
 - **13:30 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [ASÍ PUEDES CONSEGUIR EL EXCLUSIVO SECRETO DE ENTRAÑAS EN WOW FOREVER](https://www.youtube.com/shorts/NkF2jkgluzM) — Conoce todos los detalles sobre cómo puedes conseguir la mascota "Cieno Excitable" en WoW Forever. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
-
-## 24-10-2026
-
-- **21:30 · Kodda (lore)** (es, Creador de contenido): [¿Por qué la CRUZADA ESCARLATA odia al ALBA ARGENTA?](https://www.youtube.com/watch?v=xBMQ9pgmhGk) — La Cruzada Escarlata y el Alba Argenta nacieron de la misma orden, en la misma sala y el mismo día. Entonces, ¿por qué una acabó odiando a la otra más que a la propia Plaga en World of Warcraft? Seguimos a los supervivientes de la Mano de Plata desde Vega del Amparo hasta el cisma: Alexandros…
