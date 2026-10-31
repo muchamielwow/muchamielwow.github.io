@@ -1,10 +1,12 @@
-# Radar de WoW Forever · actualizado el 31-10-2026 05:43 (hora de España)
+# Radar de WoW Forever · actualizado el 31-10-2026 06:39 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 31-10-2026
 
+- **04:29 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [WoW Forever subreddit mascot discovered](https://www.reddit.com/r/wowforever/comments/1xjztbp/wow_forever_subreddit_mascot_discovered/) — Its this guy. We embody his commitment to making up problems that we don't have any proof exist yet. Praise be to Andy, may we all feel his completely fabricated anxiety every patch. submitted by /u/NextReflection3098 [link] [comments]
+- **04:06 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Happy Forever Launch!](https://www.reddit.com/r/wowforever/comments/1xjzd58/happy_forever_launch/) — submitted by /u/MoteOfLust [link] [comments]
 - **03:59 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [So close now](https://www.reddit.com/r/wowforever/comments/1xjz8ek/so_close_now/) — submitted by /u/picklechips232 [link] [comments]
 - **02:13 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Paladin Tank Fantasy is them being anti casters.](https://www.reddit.com/r/wowforever/comments/1xjx3mz/paladin_tank_fantasy_is_them_being_anti_casters/) — a couple weeks ago i saw people posting how Paladin "fantasy" was being AoE gods but to me that was never their fantasy, at least not for the majority of classic/tbc/wotlk... it was them being "anti spellcasters." especially due to the class having avenger's shield, i remember going into so many…
 - **01:39 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Who is starting this journey with your kid? (father 44, son 12)](https://www.reddit.com/r/wowforever/comments/1xjwd7v/who_is_starting_this_journey_with_your_kid_father/) — Dad has been a nasty Orc back in the vanilla days. Looking forward what we can do as a couple. Warrior & Hunter. Europe PvR realm. submitted by /u/Der_Apfeldieb [link] [comments]
@@ -192,3 +194,4 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
+- Kodda (lore): HTTP Error 404: Not Found
