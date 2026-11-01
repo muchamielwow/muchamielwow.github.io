@@ -1,10 +1,11 @@
-# Radar de WoW Forever · actualizado el 01-11-2026 22:36 (hora de España)
+# Radar de WoW Forever · actualizado el 01-11-2026 23:37 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 01-11-2026
 
+- **22:30 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [After 20 Years, I'll see you soon Archimonde.](https://www.reddit.com/r/wowforever/comments/1xlf111/after_20_years_ill_see_you_soon_archimonde/) — submitted by /u/Faent93 [link] [comments]
 - **21:25 · MrGM** (en, Creador de contenido): [NEW Steamwheedle Cartel Reputation Levelling Gear & Cosmetics in WoW Forever!](https://www.youtube.com/watch?v=QiAE9N4GnKg) — Twitter (https://twitter.com/MrGMYT) Twitch (https://www.twitch.tv/mrgm) TikTok (https://www.tiktok.com/@mrgmyt) Instagram (https://www.instagram.com/mrgm_wow/) Patreon (https://www.patreon.com/mrgm) Discord (https://discord.gg/MrGM) Second YouTube Channel https://www.youtube.com/c/MoreMrGM) Music…
 - **21:22 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [The characters in the forever credits are the same as in the recent warpath AMV](https://www.reddit.com/r/wowforever/comments/1xlddlc/the_characters_in_the_forever_credits_are_the/) — submitted by /u/3365CDQ [link] [comments]
 - **21:11 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Is WoW Forever a good starting point for someone who's basically new to World of Warcraft?](https://www.reddit.com/r/wowforever/comments/1xld3u9/is_wow_forever_a_good_starting_point_for_someone/) — Hey everyone! I'm pretty much a newcomer to WoW. I've tried Retail before, but I've only really scratched the surface and never got particularly far into the game. Recently, WoW Forever caught my attention, and I'm considering making it my main introduction to the Warcraft universe. I'm wondering…
