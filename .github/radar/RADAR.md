@@ -1,7 +1,11 @@
-# Radar de WoW Forever · actualizado el 01-11-2026 04:50 (hora de España)
+# Radar de WoW Forever · actualizado el 01-11-2026 05:51 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
+
+## 01-11-2026
+
+- **00:59 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I am so sick of these blue elves! They ruin the game!](https://www.reddit.com/r/wowforever/comments/1xkp1uk/i_am_so_sick_of_these_blue_elves_they_ruin_the/) — submitted by /u/CampoDango [link] [comments]
 
 ## 31-10-2026
 
@@ -217,10 +221,10 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 
 ## Fuentes que han fallado esta vez
 
-- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
+- World of Warcraft (YouTube oficial): HTTP Error 500: Internal Server Error
 - Wowhead (YouTube): HTTP Error 404: Not Found
 - MrGM: HTTP Error 404: Not Found
-- Quissy: HTTP Error 404: Not Found
+- Quissy: HTTP Error 500: Internal Server Error
 - Jokerd: HTTP Error 404: Not Found
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
 - Kodda (lore): HTTP Error 404: Not Found
