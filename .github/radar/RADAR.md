@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 01-11-2026 05:51 (hora de España)
+# Radar de WoW Forever · actualizado el 01-11-2026 06:45 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -10,6 +10,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 ## 31-10-2026
 
 - **23:36 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Can we have a discussion about how this community responses to genuine questions and discussion?](https://www.reddit.com/r/wowforever/comments/1xkncdw/can_we_have_a_discussion_about_how_this_community/) — I made a post yesterday asking whether there was any real benefit to having Alchemy on your main character while leveling, as opposed to another profession and using an alt for alchemy. I explained my reasoning in the post around herb prices, potion prices and market abitrage. I was genuinely…
+- **22:35 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [This wont be the last time Blizzard make big class changes.](https://www.reddit.com/r/wowforever/comments/1xkm1qa/this_wont_be_the_last_time_blizzard_make_big/) — I see so many videos from content creators and posts reddit about how they are mad Blizzard are making so many changes, big and small, to classes and races after the Beta. We played a Beta. We tested the game. That is what a Beta is for. It allowed the Devs to see how classes play and hear player…
 - **21:53 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Hearing a lot of people debating whether to roll with friends or pick the side they actually prefer….](https://www.reddit.com/r/wowforever/comments/1xkl3je/hearing_a_lot_of_people_debating_whether_to_roll/) — submitted by /u/missing_Palantir [link] [comments]
 - **21:26 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I’m just excited to play](https://www.reddit.com/r/wowforever/comments/1xkki29/im_just_excited_to_play/) — I can’t wait! I’m gonna play a Skyborne Shaman (forgive me horde brothers, I just like their silhouette and hair) What’re you guys gonna do? Gonna read the quests? Anyone planning to what professions are you gonna level? See you guys around the campfire! submitted by /u/A_Fitting_End [link]…
 - **20:31 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I am a weak, pathetic man](https://www.reddit.com/r/wowforever/comments/1xkj69g/i_am_a_weak_pathetic_man/) — I told myself I wouldn’t spend money on a preorder because I’m not really interested in the elves, and I didn’t want to play the beta so I could go in fresh on launch. So I did the responsible thing and went out and bought my first real gaming PC specifically to play WoW forever. Questionable life…
@@ -221,10 +222,10 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 
 ## Fuentes que han fallado esta vez
 
-- World of Warcraft (YouTube oficial): HTTP Error 500: Internal Server Error
+- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
 - Wowhead (YouTube): HTTP Error 404: Not Found
 - MrGM: HTTP Error 404: Not Found
-- Quissy: HTTP Error 500: Internal Server Error
+- Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
-- Kodda (lore): HTTP Error 404: Not Found
+- Kodda (lore): HTTP Error 500: Internal Server Error
