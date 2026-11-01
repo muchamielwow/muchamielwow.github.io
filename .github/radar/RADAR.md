@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 01-11-2026 02:01 (hora de España)
+# Radar de WoW Forever · actualizado el 01-11-2026 03:00 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -7,6 +7,8 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 
 - **23:36 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Can we have a discussion about how this community responses to genuine questions and discussion?](https://www.reddit.com/r/wowforever/comments/1xkncdw/can_we_have_a_discussion_about_how_this_community/) — I made a post yesterday asking whether there was any real benefit to having Alchemy on your main character while leveling, as opposed to another profession and using an alt for alchemy. I explained my reasoning in the post around herb prices, potion prices and market abitrage. I was genuinely…
 - **21:53 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Hearing a lot of people debating whether to roll with friends or pick the side they actually prefer….](https://www.reddit.com/r/wowforever/comments/1xkl3je/hearing_a_lot_of_people_debating_whether_to_roll/) — submitted by /u/missing_Palantir [link] [comments]
+- **21:26 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I’m just excited to play](https://www.reddit.com/r/wowforever/comments/1xkki29/im_just_excited_to_play/) — I can’t wait! I’m gonna play a Skyborne Shaman (forgive me horde brothers, I just like their silhouette and hair) What’re you guys gonna do? Gonna read the quests? Anyone planning to what professions are you gonna level? See you guys around the campfire! submitted by /u/A_Fitting_End [link]…
+- **20:31 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I am a weak, pathetic man](https://www.reddit.com/r/wowforever/comments/1xkj69g/i_am_a_weak_pathetic_man/) — I told myself I wouldn’t spend money on a preorder because I’m not really interested in the elves, and I didn’t want to play the beta so I could go in fresh on launch. So I did the responsible thing and went out and bought my first real gaming PC specifically to play WoW forever. Questionable life…
 - **20:18 · Kodda (lore)** (es, Creador de contenido): [El día que Thrall se fue… y Alamuerte ROMPIÓ el mundo](https://www.youtube.com/watch?v=9k0UAfdM1oY) — Alamuerte quemó Ventormenta y se marchó sin destruirla. Y Thrall dejó la Horda justo cuando el mundo empezaba a romperse. ¿Qué tenía que pasar para que Azeroth sobreviviera al Cataclismo de World of Warcraft? En este vídeo recorremos toda la historia de Cataclysm como un viaje guiado: de…
 - **19:39 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I never would have expected to be this excited about a video game again at 35.](https://www.reddit.com/r/wowforever/comments/1xkhvtp/i_never_would_have_expected_to_be_this_excited/) — Can't wait. Please Blizzard dont fuck up the start once in history of wow. I extra took time off work and family to play that stupid game. Thanks, thats all. Have good weekend! submitted by /u/gr4n_master1337 [link] [comments]
 - **19:11 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Protection Paladins after Shieldsworn was added](https://www.reddit.com/r/wowforever/comments/1xkh6pr/protection_paladins_after_shieldsworn_was_added/) — Source: @Ironlilyart on Twitter submitted by /u/Asthma_Queen [link] [comments]
@@ -217,4 +219,5 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
+- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
 - Kodda (lore): HTTP Error 404: Not Found
