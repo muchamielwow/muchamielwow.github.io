@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 01-11-2026 07:54 (hora de España)
+# Radar de WoW Forever · actualizado el 01-11-2026 08:57 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -10,6 +10,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 ## 31-10-2026
 
 - **23:36 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Can we have a discussion about how this community responses to genuine questions and discussion?](https://www.reddit.com/r/wowforever/comments/1xkncdw/can_we_have_a_discussion_about_how_this_community/) — I made a post yesterday asking whether there was any real benefit to having Alchemy on your main character while leveling, as opposed to another profession and using an alt for alchemy. I explained my reasoning in the post around herb prices, potion prices and market abitrage. I was genuinely…
+- **22:44 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I heard there was a WoW forever version of the game that was coming out this week?](https://www.reddit.com/r/wowforever/comments/1xkm8rk/i_heard_there_was_a_wow_forever_version_of_the/) — i took no chance to make sure i was ready submitted by /u/Accurate_Bug_2237 [link] [comments]
 - **22:35 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [This wont be the last time Blizzard make big class changes.](https://www.reddit.com/r/wowforever/comments/1xkm1qa/this_wont_be_the_last_time_blizzard_make_big/) — I see so many videos from content creators and posts reddit about how they are mad Blizzard are making so many changes, big and small, to classes and races after the Beta. We played a Beta. We tested the game. That is what a Beta is for. It allowed the Devs to see how classes play and hear player…
 - **21:53 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Hearing a lot of people debating whether to roll with friends or pick the side they actually prefer….](https://www.reddit.com/r/wowforever/comments/1xkl3je/hearing_a_lot_of_people_debating_whether_to_roll/) — submitted by /u/missing_Palantir [link] [comments]
 - **21:26 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I’m just excited to play](https://www.reddit.com/r/wowforever/comments/1xkki29/im_just_excited_to_play/) — I can’t wait! I’m gonna play a Skyborne Shaman (forgive me horde brothers, I just like their silhouette and hair) What’re you guys gonna do? Gonna read the quests? Anyone planning to what professions are you gonna level? See you guys around the campfire! submitted by /u/A_Fitting_End [link]…
@@ -219,13 +220,3 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **17:00 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [ESTA ZONA OCULTA LLEGARÁ POR FIN CON WOW FOREVER](https://www.youtube.com/watch?v=HF8f8qgTxyI) — El cráter de Azshara es uno de los mapas que tendremos seguramente disponible en WoW Forever. No te pierdas todos los detalles de la mano de AlterTime explorando una zona mítica del juego. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE…
 - **16:00 · World of Warcraft (YouTube oficial)** (en, Oficial de Blizzard): [WoW: Forever presents Escape Together](https://www.youtube.com/watch?v=lqd6vFv36pU) — Watch some of your favorite creators test their brains, brawn, and bonds before taking on the Scarlet Monastery, an escape room inspired by the iconic dungeon. Which faction will claim victory? #wowescapetogether ► Latest WoW news: http://worldofwarcraft.com/news ► Subscribe to WoW:…
 - **13:30 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [ASÍ PUEDES CONSEGUIR EL EXCLUSIVO SECRETO DE ENTRAÑAS EN WOW FOREVER](https://www.youtube.com/shorts/NkF2jkgluzM) — Conoce todos los detalles sobre cómo puedes conseguir la mascota "Cieno Excitable" en WoW Forever. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
-
-## Fuentes que han fallado esta vez
-
-- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
-- Wowhead (YouTube): HTTP Error 404: Not Found
-- MrGM: HTTP Error 500: Internal Server Error
-- Quissy: HTTP Error 404: Not Found
-- Jokerd: HTTP Error 404: Not Found
-- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
-- Kodda (lore): HTTP Error 404: Not Found
