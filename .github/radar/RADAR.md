@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 01-11-2026 13:48 (hora de España)
+# Radar de WoW Forever · actualizado el 01-11-2026 14:47 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -6,6 +6,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 ## 01-11-2026
 
 - **13:43 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [EL GRAN CAMBIO QUE SUFRIRÁ ESTA ZONA CON LA LLEGADA DE WOW FOREVER](https://www.youtube.com/shorts/xqUs1Z3295g) — Conoce el cambio que sufrirá esta nueva zona en World of Warcraft Forever de la mano de AlterTime y en castellano. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
+- **13:21 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Who is guilty?](https://www.reddit.com/r/wowforever/comments/1xl1pkj/who_is_guilty/) — submitted by /u/ASZHanazaki [link] [comments]
 - **09:42 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Streamer VanityProjects using motion capture to play World of Warcraft](https://www.reddit.com/r/wowforever/comments/1xky33f/streamer_vanityprojects_using_motion_capture_to/) — submitted by /u/lolimaginewtf [link] [comments]
 - **04:49 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [New Druid Talents Reaction](https://www.reddit.com/r/wowforever/comments/1xktcno/new_druid_talents_reaction/) — submitted by /u/Adventrium [link] [comments]
 - **01:44 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Zones I Would've Wanted to See in WoW: Forever that Haven't Been Mentioned](https://www.reddit.com/r/wowforever/comments/1xkpz4c/zones_i_wouldve_wanted_to_see_in_wow_forever_that/) — After seeing everything that has been mentioned/new in WoW: Forever, this is a 'wish-list' of things that I have yet to see mentioned that I would love to see in Forever. The Troll islands as a starting zone (Echo Isles and Darkspear Isle) Gnomes in a different starting zone than Dwarves Eversong…
