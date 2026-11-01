@@ -1,7 +1,12 @@
-# Radar de WoW Forever · actualizado el 01-11-2026 23:37 (hora de España)
+# Radar de WoW Forever · actualizado el 02-11-2026 00:35 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
+
+## 02-11-2026
+
+- **00:19 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [PRIMERA FILTRACIÓN! LOS HUARGEN Y ELFOS CAÍDOS OSCUROS LLEGAN A WOW FOREVER](https://www.youtube.com/watch?v=w3xhjAiATh0) — Conoce todos los detalles sobre la posible filtración sobre el contenido que podría llegar a WoW Forever próximamente. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
+- **00:00 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [How To Fix Wow Forever](https://www.reddit.com/r/wowforever/comments/1xlh3wu/how_to_fix_wow_forever/) — Just kidding. Exactly 3 days left! Wohoo! submitted by /u/EluneServant [link] [comments]
 
 ## 01-11-2026
 
