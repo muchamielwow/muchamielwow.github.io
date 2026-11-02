@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 02-11-2026 22:41 (hora de España)
+# Radar de WoW Forever · actualizado el 02-11-2026 23:41 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -278,7 +278,3 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **13:57 · MrGM** (en, Creador de contenido): [NEW Mounts & Riding System Explained in WoW Forever](https://www.youtube.com/watch?v=s0UgqWRk-mM) — Twitter (https://twitter.com/MrGMYT) Twitch (https://www.twitch.tv/mrgm) TikTok (https://www.tiktok.com/@mrgmyt) Instagram (https://www.instagram.com/mrgm_wow/) Patreon (https://www.patreon.com/mrgm) Discord (https://discord.gg/MrGM) Second YouTube Channel https://www.youtube.com/c/MoreMrGM) Music…
 - **13:30 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [CÓMO CONSEGUIR LA ANTORCHA EN WOW FOREVER](https://www.youtube.com/shorts/ayVC62FDJ4I) — Conoce todos los detalles sobre cómo conseguir la Antorcha de vigilante nocturno con tu personaje de la Horda y Alianza. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
 - **11:00 · AlterTime (web)** (es, Web especializada): [Un jugador ha preparado un video con todas las animaciones de cada raza de WoW Forever](https://altertime.es/article/un-jugador-ha-preparado-un-video-con-todas-las-animaciones-de-cada-raza-de-wo-w-forever) — ¡No te lo pierdas!
-
-## 26-10-2026
-
-- **23:21 · World of Warcraft (YouTube oficial)** (en, Oficial de Blizzard): [There are some very well-buried secrets waiting for players to discover in WoW: Forever 👀](https://www.youtube.com/shorts/_kVQsGX5VRs) — Catch the full episode on our YouTube Channel!
