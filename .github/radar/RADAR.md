@@ -1,11 +1,14 @@
-# Radar de WoW Forever · actualizado el 02-11-2026 21:44 (hora de España)
+# Radar de WoW Forever · actualizado el 02-11-2026 22:41 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 02-11-2026
 
+- **21:52 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [The Wow Forever reaction](https://www.reddit.com/r/wowforever/comments/1xm95qw/the_wow_forever_reaction/) — Gorak is a legendary animator link here https://youtu.be/9CjN4hxOA6o?si=SxkM6AdaFTU0eGHm submitted by /u/hihohe3 [link] [comments]
 - **21:38 · Wowhead (noticias de Forever)** (en, Web especializada): [Xbox UK Confirms WoW: Forever Not Coming to Xbox in November](https://www.wowhead.com/news=383696/xbox-uk-confirms-wow-forever-not-coming-to-xbox-in-november) — Xbox UK recently posted on their social media that WoW: Forever was coming to Xbox in November. This has been removed, and they’ve now confirmed that Forever is not available on Xbox. Continue reading »
+- **21:01 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [To all the doomers out there](https://www.reddit.com/r/wowforever/comments/1xm7t7q/to_all_the_doomers_out_there/) — submitted by /u/Necessary_Search_978 [link] [comments]
+- **20:41 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Worgen should be a class, not a race. The team has a great opportunity with WoW Forever.](https://www.reddit.com/r/wowforever/comments/1xm79ai/worgen_should_be_a_class_not_a_race_the_team_has/) — From a lore standpoint, Humans from Gilneas, Night Elves, and potentially other races could be affected by the Worgen curse and learn to weaponize it. I think a hybrid class built around this concept would be perfectly viable, with three specializations: tank, melee DPS, and ranged DPS (with a…
 - **20:26 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Sam Altman watching me play a 20 year old game with 64GB Ram.](https://www.reddit.com/r/wowforever/comments/1xm6uav/sam_altman_watching_me_play_a_20_year_old_game/) — submitted by /u/Teatimefrog [link] [comments]
 - **19:25 · Wowhead (noticias de Forever)** (en, Web especializada): [Long Maintenance Planned Ahead of WoW: Forever Launch](https://www.wowhead.com/news=383695/long-maintenance-planned-ahead-of-wow-forever-launch) — Blizzard has announced a long maintenance ahead of WoW: Forever's launch on November 4th. Continue reading »
 - **18:03 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Hope You Picked The Right RP Server...](https://www.reddit.com/r/wowforever/comments/1xm2tm6/hope_you_picked_the_right_rp_server/) — submitted by /u/sambalaya [link] [comments]
