@@ -1,10 +1,11 @@
-# Radar de WoW Forever · actualizado el 02-11-2026 18:56 (hora de España)
+# Radar de WoW Forever · actualizado el 02-11-2026 19:55 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 02-11-2026
 
+- **19:25 · Wowhead (noticias de Forever)** (en, Web especializada): [Long Maintenance Planned Ahead of WoW: Forever Launch](https://www.wowhead.com/news=383695/long-maintenance-planned-ahead-of-wow-forever-launch) — Blizzard has announced a long maintenance ahead of WoW: Forever's launch on November 4th. Continue reading »
 - **17:27 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [World of Warcraft: Forever launches in just 2 days. What are you most excited about?](https://www.reddit.com/r/wowforever/comments/1xm1tjp/world_of_warcraft_forever_launches_in_just_2_days/) — For me, the most interesting part is exploring Azeroth with new content while keeping the spirit of Classic alive. New zones, new dungeons, new adventures… What are you planning to do first when the servers go live? Let’s hear your plans! submitted by /u/No_Bluebird_91 [link] [comments]
 - **17:21 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [For the YouTubers: How to pronounce "Reagent"](https://www.reddit.com/r/wowforever/comments/1xm1nge/for_the_youtubers_how_to_pronounce_reagent/) — Maybe you say it differently in other parts of the world? Or is it different in gaming? I haven't heard anyone say it the way I learned it for real world applications. I gotta stop watching Forever videos... I have a problem. submitted by /u/NadirInferno [link] [comments]
 - **16:59 · Kodda (lore)** (es, Creador de contenido): [POR QUÉ el Titán que Protegía AZEROTH Creó la LEGION ARDIENTE?](https://www.youtube.com/watch?v=IYaNWu1yViM) — Era el campeón del Panteón, el titán al que eligieron para defender cada mundo vivo del universo. Y fue él quien levantó el ejército que los quema. Sargeras en World of Warcraft, contado desde el principio. De Mardum al mundo negro de los señores del Vacío, de la caída del Panteón en Nihilam a los…
