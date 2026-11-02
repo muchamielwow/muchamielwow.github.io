@@ -1,14 +1,16 @@
-# Radar de WoW Forever · actualizado el 02-11-2026 03:52 (hora de España)
+# Radar de WoW Forever · actualizado el 02-11-2026 04:55 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 02-11-2026
 
+- **02:13 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Regular Rulesets vs RP Rulesets](https://www.reddit.com/r/wowforever/comments/1xljz2n/regular_rulesets_vs_rp_rulesets/) — submitted by /u/missing_Palantir [link] [comments]
 - **01:29 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I get to go full gremlin mode for WoW Forever release](https://www.reddit.com/r/wowforever/comments/1xlj26i/i_get_to_go_full_gremlin_mode_for_wow_forever/) — I'm 36 years old, so when I tried wow in 2006, I was in high school. Once my friend got me to try it, I was Immediately addicted. I got to no life that game as much as I wanted. By college with my best friend/wow recruiter, all we did was play wow. Wotlk was 80+ hrs a week, easy. Not long though,…
 - **00:45 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Patient Buu](https://www.reddit.com/r/wowforever/comments/1xli46g/patient_buu/) — submitted by /u/ASZHanazaki [link] [comments]
 - **00:40 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Where my retired peeps at?](https://www.reddit.com/r/wowforever/comments/1xlhzpl/where_my_retired_peeps_at/) — I remember my first time in WOW, was in 2006 a few months before TBC launched. Me and my buddy (room-mate) had our PC's hooked up together, front and back in my room. I was 26 at that time. I played horde on Darkspear as a hunter. He played a Orc Warrior. I remember constantly trying to get off…
 - **00:19 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [PRIMERA FILTRACIÓN! LOS HUARGEN Y ELFOS CAÍDOS OSCUROS LLEGAN A WOW FOREVER](https://www.youtube.com/watch?v=w3xhjAiATh0) — Conoce todos los detalles sobre la posible filtración sobre el contenido que podría llegar a WoW Forever próximamente. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
+- **00:14 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Here it comes!](https://www.reddit.com/r/wowforever/comments/1xlhfx1/here_it_comes/) — submitted by /u/JayAre95 [link] [comments]
 - **00:00 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [How To Fix Wow Forever](https://www.reddit.com/r/wowforever/comments/1xlh3wu/how_to_fix_wow_forever/) — Just kidding. Exactly 3 days left! Wohoo! submitted by /u/EluneServant [link] [comments]
 
 ## 01-11-2026
@@ -265,7 +267,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 ## Fuentes que han fallado esta vez
 
 - World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
-- Wowhead (YouTube): HTTP Error 404: Not Found
+- Wowhead (YouTube): HTTP Error 500: Internal Server Error
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
