@@ -1,5 +1,23 @@
 [
  {
+  "url": "https://www.wowhead.com/news=383696/xbox-uk-confirms-wow-forever-not-coming-to-xbox-in-november",
+  "titulo": "Xbox UK Confirms WoW: Forever Not Coming to Xbox in November",
+  "resumen": "Xbox UK recently posted on their social media that WoW: Forever was coming to Xbox in November. This has been removed, and they’ve now confirmed that Forever is not available on Xbox. Continue reading »",
+  "fecha": "2026-11-02T20:38:53+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xm6uav/sam_altman_watching_me_play_a_20_year_old_game/",
+  "titulo": "Sam Altman watching me play a 20 year old game with 64GB Ram.",
+  "resumen": "submitted by /u/Teatimefrog [link] [comments]",
+  "fecha": "2026-11-02T19:26:33+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
+ },
+ {
   "url": "https://www.wowhead.com/news=383695/long-maintenance-planned-ahead-of-wow-forever-launch",
   "titulo": "Long Maintenance Planned Ahead of WoW: Forever Launch",
   "resumen": "Blizzard has announced a long maintenance ahead of WoW: Forever's launch on November 4th. Continue reading »",
@@ -112,6 +130,15 @@
   "titulo": "Wed 4th Nov",
   "resumen": "submitted by /u/OhMy-Really [link] [comments]",
   "fecha": "2026-11-02T12:01:20+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xlufqn/preload_is_availble/",
+  "titulo": "Preload is Availble",
+  "resumen": "For anyone who didn't want to spend 30 dollars on blue elves or do the console command trick to preload, the game is now available to install via bnet submitted by /u/GristleGobbler [link] [comments]",
+  "fecha": "2026-11-02T11:12:56+00:00",
   "fuente": "Reddit r/wowforever (lo más votado del día)",
   "idioma": "en",
   "fiabilidad": "comunidad"
@@ -2246,24 +2273,6 @@
   "resumen": "Catch the full episode on our YouTube Channel!",
   "fecha": "2026-10-26T22:21:19+00:00",
   "fuente": "World of Warcraft (YouTube oficial)",
-  "idioma": "en",
-  "fiabilidad": "oficial"
- },
- {
-  "url": "https://www.wowhead.com/news=383597/racial-ability-tuning-pass-for-wow-forever",
-  "titulo": "Racial Ability Tuning Pass for WoW: Forever",
-  "resumen": "Blizzard has announced upcoming racial ability tuning for the launch of WoW: Forever! Continue reading »",
-  "fecha": "2026-10-26T20:38:14+00:00",
-  "fuente": "Wowhead (noticias de Forever)",
-  "idioma": "en",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-october-26/2360696/7",
-  "titulo": "WoW Forever Beta Development Notes – Updated October 26",
-  "resumen": "As we approach the launch of WoW Forever, we’ve been reflecting on feedback we’ve heard on racial abilities and passive traits: Some players have expressed that some of the new racial traits feel too generic, while others have raised concerns that some are objectively stronger than others. In takin…",
-  "fecha": "2026-10-26T20:35:27.223000+00:00",
-  "fuente": "Blizzard (mensajes del equipo)",
   "idioma": "en",
   "fiabilidad": "oficial"
  }
