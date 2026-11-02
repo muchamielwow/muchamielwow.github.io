@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 02-11-2026 08:22 (hora de España)
+# Radar de WoW Forever · actualizado el 02-11-2026 10:01 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -6,9 +6,11 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 ## 02-11-2026
 
 - **04:48 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [come on...](https://www.reddit.com/r/wowforever/comments/1xln1ta/come_on/) — submitted by /u/wanderinbear [link] [comments]
+- **04:33 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Forsaken Paladins are starting to grow on me...](https://www.reddit.com/r/wowforever/comments/1xlms0y/forsaken_paladins_are_starting_to_grow_on_me/) — "What do you bring to the Horde besides a plagued ruin in the eastern kingdoms?" "<grins> The Light " I don't play horde, and I already have my character planned (Druid! Not paladin for the third time!), but after Forsaken Kingdom and then Warpath, I'm really digging how these guys look more and…
 - **03:01 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [All these years, and they still can't just translate reference times to local in the client.](https://www.reddit.com/r/wowforever/comments/1xlky8p/all_these_years_and_they_still_cant_just/) — That's the post. Thanks, OCE player. submitted by /u/rwmtinkywinky [link] [comments]
 - **02:49 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Realized the GOAT Was Missing From the WoW Forever Launch](https://www.reddit.com/r/wowforever/comments/1xlkpnj/realized_the_goat_was_missing_from_the_wow/) — Can we get the OG game fuel spun up before Wednesday? I feel like to really feel the nostalgia I need a fridge full of these bad boys and pizza pockets ready to go. submitted by /u/Kartopery [link] [comments]
 - **02:13 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Regular Rulesets vs RP Rulesets](https://www.reddit.com/r/wowforever/comments/1xljz2n/regular_rulesets_vs_rp_rulesets/) — submitted by /u/missing_Palantir [link] [comments]
+- **01:37 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Character creation and cosmetics - What would you want?](https://www.reddit.com/r/wowforever/comments/1xlj8d0/character_creation_and_cosmetics_what_would_you/) — Racials, Raids, EXP rates, Class reworks; Forget that Nerd shit let's ask the important questions; What are some character customization options or flair you would want personally added to WoW Forever? Purely cosmetic, no gameplay alterations. Justified in Lore or not. What would you Add to player…
 - **01:29 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I get to go full gremlin mode for WoW Forever release](https://www.reddit.com/r/wowforever/comments/1xlj26i/i_get_to_go_full_gremlin_mode_for_wow_forever/) — I'm 36 years old, so when I tried wow in 2006, I was in high school. Once my friend got me to try it, I was Immediately addicted. I got to no life that game as much as I wanted. By college with my best friend/wow recruiter, all we did was play wow. Wotlk was 80+ hrs a week, easy. Not long though,…
 - **00:45 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Patient Buu](https://www.reddit.com/r/wowforever/comments/1xli46g/patient_buu/) — submitted by /u/ASZHanazaki [link] [comments]
 - **00:40 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Where my retired peeps at?](https://www.reddit.com/r/wowforever/comments/1xlhzpl/where_my_retired_peeps_at/) — I remember my first time in WOW, was in 2006 a few months before TBC launched. Me and my buddy (room-mate) had our PC's hooked up together, front and back in my room. I was 26 at that time. I played horde on Darkspear as a hunter. He played a Orc Warrior. I remember constantly trying to get off…
@@ -266,13 +268,3 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **16:00 · Wowhead (noticias de Forever)** (en, Web especializada): [Blizzard Hints The WoW: Forever Podcast Will Continue](https://www.wowhead.com/news=383573/blizzard-hints-the-wow-forever-podcast-will-continue) — In Blizzard's latest episode of the WoW Forever Podcast, they have strongly hinted that it will continue through WoW: Forever's launch! Continue reading »
 - **14:00 · Wowhead (noticias de Forever)** (en, Web especializada): [The WoW: Forever Beta PvP Tournament: Results, Winners, Statistics](https://www.wowhead.com/news=383571/the-wow-forever-beta-pvp-tournament-results-winners-statistics) — The WoW Forever Beta Tournament had a huge turnout, and with a $100,000 prize pool, players from all over the world prepared for this lucrative competition - but which classes came out on top? Continue reading »
 - **13:30 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [EL EMOTIVO MEMORIAL QUE PODEMOS ENCONTRAR EN WOW FOREVER](https://www.youtube.com/shorts/o3HoLXdQx9c) — Conoce un poco mejor Azeroth con el memorial que podemos encontrar a Anthony Ray Star en Laderas de Trabalomas. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
-
-## Fuentes que han fallado esta vez
-
-- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
-- Wowhead (YouTube): HTTP Error 500: Internal Server Error
-- MrGM: HTTP Error 404: Not Found
-- Quissy: HTTP Error 404: Not Found
-- Jokerd: HTTP Error 404: Not Found
-- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
-- Kodda (lore): HTTP Error 404: Not Found
