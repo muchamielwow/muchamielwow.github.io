@@ -1,10 +1,11 @@
-# Radar de WoW Forever · actualizado el 02-11-2026 00:35 (hora de España)
+# Radar de WoW Forever · actualizado el 02-11-2026 01:59 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 02-11-2026
 
+- **00:45 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Patient Buu](https://www.reddit.com/r/wowforever/comments/1xli46g/patient_buu/) — submitted by /u/ASZHanazaki [link] [comments]
 - **00:19 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [PRIMERA FILTRACIÓN! LOS HUARGEN Y ELFOS CAÍDOS OSCUROS LLEGAN A WOW FOREVER](https://www.youtube.com/watch?v=w3xhjAiATh0) — Conoce todos los detalles sobre la posible filtración sobre el contenido que podría llegar a WoW Forever próximamente. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
 - **00:00 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [How To Fix Wow Forever](https://www.reddit.com/r/wowforever/comments/1xlh3wu/how_to_fix_wow_forever/) — Just kidding. Exactly 3 days left! Wohoo! submitted by /u/EluneServant [link] [comments]
 
@@ -258,3 +259,13 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **16:00 · Wowhead (noticias de Forever)** (en, Web especializada): [Blizzard Hints The WoW: Forever Podcast Will Continue](https://www.wowhead.com/news=383573/blizzard-hints-the-wow-forever-podcast-will-continue) — In Blizzard's latest episode of the WoW Forever Podcast, they have strongly hinted that it will continue through WoW: Forever's launch! Continue reading »
 - **14:00 · Wowhead (noticias de Forever)** (en, Web especializada): [The WoW: Forever Beta PvP Tournament: Results, Winners, Statistics](https://www.wowhead.com/news=383571/the-wow-forever-beta-pvp-tournament-results-winners-statistics) — The WoW Forever Beta Tournament had a huge turnout, and with a $100,000 prize pool, players from all over the world prepared for this lucrative competition - but which classes came out on top? Continue reading »
 - **13:30 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [EL EMOTIVO MEMORIAL QUE PODEMOS ENCONTRAR EN WOW FOREVER](https://www.youtube.com/shorts/o3HoLXdQx9c) — Conoce un poco mejor Azeroth con el memorial que podemos encontrar a Anthony Ray Star en Laderas de Trabalomas. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
+
+## Fuentes que han fallado esta vez
+
+- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
+- Wowhead (YouTube): HTTP Error 404: Not Found
+- MrGM: HTTP Error 404: Not Found
+- Quissy: HTTP Error 404: Not Found
+- Jokerd: HTTP Error 404: Not Found
+- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
+- Kodda (lore): HTTP Error 404: Not Found
