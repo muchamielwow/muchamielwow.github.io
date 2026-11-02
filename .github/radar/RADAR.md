@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 02-11-2026 11:59 (hora de España)
+# Radar de WoW Forever · actualizado el 02-11-2026 12:53 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -7,6 +7,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 
 - **11:22 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Title](https://www.reddit.com/r/wowforever/comments/1xltkyj/title/) — submitted by /u/Impossible_Tough_48 [link] [comments]
 - **10:03 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [My body is ready.](https://www.reddit.com/r/wowforever/comments/1xlsbtw/my_body_is_ready/) — submitted by /u/PureBlack_Heart [link] [comments]
+- **09:11 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [We need the Dutch](https://www.reddit.com/r/wowforever/comments/1xlrjmk/we_need_the_dutch/) — My friends, my fellow Azerothians, brothers and sisters. It is time to start accepting the Dutch as a new playable race. Only through our magical terra forming skills could the lore allow for a consistent expansion of continents. Our mastery of sea and land could provide excellent content for years…
 - **04:48 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [come on...](https://www.reddit.com/r/wowforever/comments/1xln1ta/come_on/) — submitted by /u/wanderinbear [link] [comments]
 - **04:33 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Forsaken Paladins are starting to grow on me...](https://www.reddit.com/r/wowforever/comments/1xlms0y/forsaken_paladins_are_starting_to_grow_on_me/) — "What do you bring to the Horde besides a plagued ruin in the eastern kingdoms?" "<grins> The Light " I don't play horde, and I already have my character planned (Druid! Not paladin for the third time!), but after Forsaken Kingdom and then Warpath, I'm really digging how these guys look more and…
 - **03:01 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [All these years, and they still can't just translate reference times to local in the client.](https://www.reddit.com/r/wowforever/comments/1xlky8p/all_these_years_and_they_still_cant_just/) — That's the post. Thanks, OCE player. submitted by /u/rwmtinkywinky [link] [comments]
