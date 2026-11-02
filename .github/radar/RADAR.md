@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 02-11-2026 05:59 (hora de España)
+# Radar de WoW Forever · actualizado el 02-11-2026 07:00 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -6,6 +6,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 ## 02-11-2026
 
 - **04:48 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [come on...](https://www.reddit.com/r/wowforever/comments/1xln1ta/come_on/) — submitted by /u/wanderinbear [link] [comments]
+- **03:01 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [All these years, and they still can't just translate reference times to local in the client.](https://www.reddit.com/r/wowforever/comments/1xlky8p/all_these_years_and_they_still_cant_just/) — That's the post. Thanks, OCE player. submitted by /u/rwmtinkywinky [link] [comments]
 - **02:13 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Regular Rulesets vs RP Rulesets](https://www.reddit.com/r/wowforever/comments/1xljz2n/regular_rulesets_vs_rp_rulesets/) — submitted by /u/missing_Palantir [link] [comments]
 - **01:29 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I get to go full gremlin mode for WoW Forever release](https://www.reddit.com/r/wowforever/comments/1xlj26i/i_get_to_go_full_gremlin_mode_for_wow_forever/) — I'm 36 years old, so when I tried wow in 2006, I was in high school. Once my friend got me to try it, I was Immediately addicted. I got to no life that game as much as I wanted. By college with my best friend/wow recruiter, all we did was play wow. Wotlk was 80+ hrs a week, easy. Not long though,…
 - **00:45 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Patient Buu](https://www.reddit.com/r/wowforever/comments/1xli46g/patient_buu/) — submitted by /u/ASZHanazaki [link] [comments]
@@ -268,7 +269,8 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 ## Fuentes que han fallado esta vez
 
 - World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
-- Wowhead (YouTube): HTTP Error 404: Not Found
+- Wowhead (YouTube): HTTP Error 500: Internal Server Error
+- MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
