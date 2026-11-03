@@ -1,5 +1,41 @@
 [
  {
+  "url": "https://www.wowhead.com/news=383720/wow-forever-officially-supports-gamepads",
+  "titulo": "You Can Play WoW: Forever on a Gamepad",
+  "resumen": "World of Warcraft: Forever officially supports playing with a Gamepad and Blizzard breaks down everything you need to know. Continue reading »",
+  "fecha": "2026-11-03T20:22:18+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xn3ljw/shout_out_to_everyone_running_their_race_and/",
+  "titulo": "Shout out to everyone running their race and class based on vibes and fun",
+  "resumen": "druid and shaman taurens for me. Tauren all day baby. submitted by /u/Gabriel_66 [link] [comments]",
+  "fecha": "2026-11-03T20:05:57+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
+ },
+ {
+  "url": "https://www.wowhead.com/news=383714/wowheads-talent-calculator-for-wow-forever-updated-for-launch-class-changes",
+  "titulo": "Wowhead's Talent Calculator for WoW: Forever Updated for Launch Class Changes",
+  "resumen": "Wowhead's Talent Calculators are now updated for the WoW: Forever launch, which includes the recent class changes to Rogues and Warriors! Continue reading »",
+  "fecha": "2026-11-03T20:00:54+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://us.forums.blizzard.com/en/wow/t/explore-wow-forever-with-a-gamepad/2400119/1",
+  "titulo": "Explore WoW: Forever with a Gamepad",
+  "resumen": "[Explore WoW: Forever with a Gamepad] Prefer a gamepad? Get to know another way to play World of Warcraft: Forever, from moving and casting spells to adjusting your settings. Gamepad support is available in a beta state, with more improvements to come. View Full Article",
+  "fecha": "2026-11-03T20:00:09.240000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
   "url": "https://www.wowhead.com/news=383716/tier-pieces-require-quest-chain-that-requires-group-content-in-wow-forever",
   "titulo": "Tier Pieces Require Quest Chain That Requires Group Content in WoW: Forever",
   "resumen": "During the WoW: Forever Launch overview, Blizzard revealed that Tier Tokens will unlock a series of quests that ends with the player earning a Tier Piece. Continue reading »",
@@ -76,6 +112,15 @@
   "titulo": "I'll never stop advocating for silly racials",
   "resumen": "submitted by /u/guywitharock [link] [comments]",
   "fecha": "2026-11-03T16:37:23+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xmxpxg/i_love_every_post_on_this_sub_so_i_ranked_them/",
+  "titulo": "I love every post on this sub, so I ranked them",
+  "resumen": "Please never stop. Can't wait for F tier to unlock tomorrow. submitted by /u/libruary [link] [comments]",
+  "fecha": "2026-11-03T16:33:38+00:00",
   "fuente": "Reddit r/wowforever (lo más votado del día)",
   "idioma": "en",
   "fiabilidad": "comunidad"
@@ -2608,32 +2653,5 @@
   "fuente": "Blizzard (mensajes del equipo)",
   "idioma": "en",
   "fiabilidad": "oficial"
- },
- {
-  "url": "https://www.wowhead.com/news=383612/blizzard-announces-name-reservation-issue-for-oceanic-players-in-wow-forever",
-  "titulo": "Blizzard Announces Name Reservation Issue for Oceanic Players in WoW: Forever",
-  "resumen": "Blizzard has announced a name reservation issue for Oceanic Players who are connecting to Australian-based servers. Continue reading »",
-  "fecha": "2026-10-27T20:05:03+00:00",
-  "fuente": "Wowhead (noticias de Forever)",
-  "idioma": "en",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://us.forums.blizzard.com/en/wow/t/name-reservation-issue-for-oceanic-players/2393431/1",
-  "titulo": "Name Reservation Issue for Oceanic Players",
-  "resumen": "Attention Oceanic players connecting to Australian-based servers! Due to a bug, you must create any characters on Roleplay or Roleplay-PvP rulesets before creating characters on Normal or PvP rulesets. If you first create a character on the Normal or PvP ruleset, the Roleplay and Roleplay-PvP rule…",
-  "fecha": "2026-10-27T20:02:47.505000+00:00",
-  "fuente": "Blizzard (mensajes del equipo)",
-  "idioma": "en",
-  "fiabilidad": "oficial"
- },
- {
-  "url": "https://altertime.es/article/la-comunidad-pide-a-blizzard-que-realicen-cambios-en-el-ciclo-dia-noche-de-wo-w-forever",
-  "titulo": "La comunidad pide a Blizzard que realicen cambios en el ciclo día-noche de WoW Forever",
-  "resumen": "¿Que te parece esta opinión?",
-  "fecha": "2026-10-27T20:00:00+00:00",
-  "fuente": "AlterTime (web)",
-  "idioma": "es",
-  "fiabilidad": "web"
  }
 ]
