@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 03-11-2026 02:59 (hora de España)
+# Radar de WoW Forever · actualizado el 03-11-2026 03:51 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -17,6 +17,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **21:01 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [To all the doomers out there](https://www.reddit.com/r/wowforever/comments/1xm7t7q/to_all_the_doomers_out_there/) — submitted by /u/Necessary_Search_978 [link] [comments]
 - **20:41 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Worgen should be a class, not a race. The team has a great opportunity with WoW Forever.](https://www.reddit.com/r/wowforever/comments/1xm79ai/worgen_should_be_a_class_not_a_race_the_team_has/) — From a lore standpoint, Humans from Gilneas, Night Elves, and potentially other races could be affected by the Worgen curse and learn to weaponize it. I think a hybrid class built around this concept would be perfectly viable, with three specializations: tank, melee DPS, and ranged DPS (with a…
 - **20:26 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Sam Altman watching me play a 20 year old game with 64GB Ram.](https://www.reddit.com/r/wowforever/comments/1xm6uav/sam_altman_watching_me_play_a_20_year_old_game/) — submitted by /u/Teatimefrog [link] [comments]
+- **20:02 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [How meaningless is ‘WoW Forever Tier List’ content on YouTube etc?](https://www.reddit.com/r/wowforever/comments/1xm66em/how_meaningless_is_wow_forever_tier_list_content/) — All I see from WoW content on YouTube and the like is ‘official wow forever pve tier list, pvp tier list, tier list this tier list that, solo tier list, dad gamer tier, fun tier list, this that and the other. I want to main a Druid (balance is my favourite wow spec) and so many people are saying…
 - **19:37 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): ["What should I play" Let's all agree on the universal answer!](https://www.reddit.com/r/wowforever/comments/1xm5h3b/what_should_i_play_lets_all_agree_on_the/) — From now on, everytime someone makes a post, saying they are going to come back for wow forever. We all advice them to play elemental shaman. That's it. Should I play x or y? Elemental shaman. I'm considering xxxx? Elemental shaman. What's a noob friendly class for my gf? Believe it or not.…
 - **19:25 · Wowhead (noticias de Forever)** (en, Web especializada): [Long Maintenance Planned Ahead of WoW: Forever Launch](https://www.wowhead.com/news=383695/long-maintenance-planned-ahead-of-wow-forever-launch) — Blizzard has announced a long maintenance ahead of WoW: Forever's launch on November 4th. Continue reading »
 - **18:48 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [This is purely a small personal gripe but I found this funny in a very ironic way](https://www.reddit.com/r/wowforever/comments/1xm42vg/this_is_purely_a_small_personal_gripe_but_i_found/) — Its a shame, really. I was like: perfect! Elven mage for the Horde! Welp, nevermind xD submitted by /u/Wafflebuble [link] [comments]
@@ -292,8 +293,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 
 - World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
 - Wowhead (YouTube): HTTP Error 404: Not Found
-- MrGM: HTTP Error 500: Internal Server Error
 - Quissy: HTTP Error 500: Internal Server Error
-- Jokerd: HTTP Error 404: Not Found
+- Jokerd: HTTP Error 500: Internal Server Error
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
 - Kodda (lore): HTTP Error 404: Not Found
