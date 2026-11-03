@@ -1,20 +1,24 @@
-# Radar de WoW Forever · actualizado el 03-11-2026 00:38 (hora de España)
+# Radar de WoW Forever · actualizado el 03-11-2026 01:58 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 03-11-2026
 
+- **01:05 · Wowhead (noticias de Forever)** (en, Web especializada): [Planet Azeroth with Bill Bailey: Plaguelands, Winterspring, and More](https://www.wowhead.com/news=383698/planet-azeroth-with-bill-bailey-plaguelands-winterspring-and-more) — The third episode of Planet Azeroth has been released, and it covers the extremes of Azeroth: the highs, the lows, the heat, the cold, and the murlocs. Continue reading »
 - **00:18 · Wowhead (noticias de Forever)** (en, Web especializada): [New Druid and Rogue Passive Reduces Energy Cost on A First Strike](https://www.wowhead.com/news=383699/new-druid-and-rogue-passive-reduces-energy-cost-on-a-first-strike) — A new passive has been added for Druids and Rogues in WoW: Forever that reduces energy costs on a first strike! Continue reading »
 
 ## 02-11-2026
 
+- **23:45 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [For all the 40yr old about to stay up for days.](https://www.reddit.com/r/wowforever/comments/1xmc1oe/for_all_the_40yr_old_about_to_stay_up_for_days/) — submitted by /u/FaceThruster8919 [link] [comments]
 - **21:52 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [The Wow Forever reaction](https://www.reddit.com/r/wowforever/comments/1xm95qw/the_wow_forever_reaction/) — Gorak is a legendary animator link here https://youtu.be/9CjN4hxOA6o?si=SxkM6AdaFTU0eGHm submitted by /u/hihohe3 [link] [comments]
 - **21:38 · Wowhead (noticias de Forever)** (en, Web especializada): [Xbox UK Confirms WoW: Forever Not Coming to Xbox in November](https://www.wowhead.com/news=383696/xbox-uk-confirms-wow-forever-not-coming-to-xbox-in-november) — Xbox UK recently posted on their social media that WoW: Forever was coming to Xbox in November. This has been removed, and they’ve now confirmed that Forever is not available on Xbox. Continue reading »
 - **21:01 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [To all the doomers out there](https://www.reddit.com/r/wowforever/comments/1xm7t7q/to_all_the_doomers_out_there/) — submitted by /u/Necessary_Search_978 [link] [comments]
 - **20:41 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Worgen should be a class, not a race. The team has a great opportunity with WoW Forever.](https://www.reddit.com/r/wowforever/comments/1xm79ai/worgen_should_be_a_class_not_a_race_the_team_has/) — From a lore standpoint, Humans from Gilneas, Night Elves, and potentially other races could be affected by the Worgen curse and learn to weaponize it. I think a hybrid class built around this concept would be perfectly viable, with three specializations: tank, melee DPS, and ranged DPS (with a…
 - **20:26 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Sam Altman watching me play a 20 year old game with 64GB Ram.](https://www.reddit.com/r/wowforever/comments/1xm6uav/sam_altman_watching_me_play_a_20_year_old_game/) — submitted by /u/Teatimefrog [link] [comments]
+- **19:37 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): ["What should I play" Let's all agree on the universal answer!](https://www.reddit.com/r/wowforever/comments/1xm5h3b/what_should_i_play_lets_all_agree_on_the/) — From now on, everytime someone makes a post, saying they are going to come back for wow forever. We all advice them to play elemental shaman. That's it. Should I play x or y? Elemental shaman. I'm considering xxxx? Elemental shaman. What's a noob friendly class for my gf? Believe it or not.…
 - **19:25 · Wowhead (noticias de Forever)** (en, Web especializada): [Long Maintenance Planned Ahead of WoW: Forever Launch](https://www.wowhead.com/news=383695/long-maintenance-planned-ahead-of-wow-forever-launch) — Blizzard has announced a long maintenance ahead of WoW: Forever's launch on November 4th. Continue reading »
+- **18:48 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [This is purely a small personal gripe but I found this funny in a very ironic way](https://www.reddit.com/r/wowforever/comments/1xm42vg/this_is_purely_a_small_personal_gripe_but_i_found/) — Its a shame, really. I was like: perfect! Elven mage for the Horde! Welp, nevermind xD submitted by /u/Wafflebuble [link] [comments]
 - **18:03 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Hope You Picked The Right RP Server...](https://www.reddit.com/r/wowforever/comments/1xm2tm6/hope_you_picked_the_right_rp_server/) — submitted by /u/sambalaya [link] [comments]
 - **17:27 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [World of Warcraft: Forever launches in just 2 days. What are you most excited about?](https://www.reddit.com/r/wowforever/comments/1xm1tjp/world_of_warcraft_forever_launches_in_just_2_days/) — For me, the most interesting part is exploring Azeroth with new content while keeping the spirit of Classic alive. New zones, new dungeons, new adventures… What are you planning to do first when the servers go live? Let’s hear your plans! submitted by /u/No_Bluebird_91 [link] [comments]
 - **17:21 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [For the YouTubers: How to pronounce "Reagent"](https://www.reddit.com/r/wowforever/comments/1xm1nge/for_the_youtubers_how_to_pronounce_reagent/) — Maybe you say it differently in other parts of the world? Or is it different in gaming? I haven't heard anyone say it the way I learned it for real world applications. I gotta stop watching Forever videos... I have a problem. submitted by /u/NadirInferno [link] [comments]
@@ -287,6 +291,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 
 - World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
 - Wowhead (YouTube): HTTP Error 404: Not Found
+- MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
