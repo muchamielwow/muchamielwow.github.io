@@ -1,11 +1,14 @@
-# Radar de WoW Forever · actualizado el 03-11-2026 03:51 (hora de España)
+# Radar de WoW Forever · actualizado el 03-11-2026 04:52 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 03-11-2026
 
+- **04:20 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [WoW Forever Beta Development Notes – Updated November 2](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-november-2/2360696/9) — Since the last full update to the Beta on October 15, we’ve continued to work to solve issues, refine classes, improve gameplay in all areas, and address feedback we received from Beta testers. What follows are the updates and changes that have been developed over those last 2.5 weeks. We’ve includ…
+- **02:49 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Hunter Class Buffs on WoW: Forever](https://www.reddit.com/r/wowforever/comments/1xmg70j/hunter_class_buffs_on_wow_forever/) — ￼Trueshot Aura now increases Ranged Attack Power of the Party or Raid by: Rank 1: 20 (was 15) Rank 2: 35 (was 22) Rank 3: 50 (was 30) Rank 4: 75 (was 40) Rank 5: 100 (was 50) ￼ Aspect of the Hawk now increases Ranged Attack Power by: Rank 1: 20 (was 15) Rank 2: 35 (was 22) Rank 3: 50 (was 30) Rank…
 - **02:33 · Wowhead (noticias de Forever)** (en, Web especializada): [Hunter Class Buffs on WoW: Forever](https://www.wowhead.com/news=383702/hunter-buffs-on-wow-forever) — Hunters have been buffed in WoW: Forever, increasing the power of various abilities and passives! Continue reading »
+- **01:42 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [The night before Launch](https://www.reddit.com/r/wowforever/comments/1xmeqx8/the_night_before_launch/) — Source: WOW Facebook page submitted by /u/Puwn [link] [comments]
 - **01:05 · Wowhead (noticias de Forever)** (en, Web especializada): [Planet Azeroth with Bill Bailey: Plaguelands, Winterspring, and More](https://www.wowhead.com/news=383698/planet-azeroth-with-bill-bailey-plaguelands-winterspring-and-more) — The third episode of Planet Azeroth has been released, and it covers the extremes of Azeroth: the highs, the lows, the heat, the cold, and the murlocs. Continue reading »
 - **00:18 · Wowhead (noticias de Forever)** (en, Web especializada): [New Druid and Rogue Passive Reduces Energy Cost on A First Strike](https://www.wowhead.com/news=383699/new-druid-and-rogue-passive-reduces-energy-cost-on-a-first-strike) — A new passive has been added for Druids and Rogues in WoW: Forever that reduces energy costs on a first strike! Continue reading »
 
@@ -284,6 +287,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **17:00 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [CONSIGUE RECOMPENSAS EXCLUSIVAS EN WOW FOREVER ENCONTRANDO LOS LIBROS POR AZEROTH](https://www.youtube.com/watch?v=XcAgKHGNNb8) — Conoce todos los detalles sobre el nuevo sistema de búsqueda de libros en World of Warcraft Forever y las recompensas que podemos conseguir. Addons de libros: https://www.curseforge.com/wow/addons/books-on-map-forever / https://www.curseforge.com/wow/addons/handynotes-forever-books Recuerda que…
 - **16:47 · Wowhead (noticias de Forever)** (en, Web especializada): [[Updated] More Racial Ability Tuning on WoW: Forever](https://www.wowhead.com/news=383602/more-racial-ability-tuning-on-wow-forever) — Blizzard has added even more racial ability tuning in WoW: Forever, now also affecting Trolls. Continue reading »
 - **16:37 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [WoW Forever Beta Development Notes – Updated October 26](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-october-26/2360696/8) — We’ve updated the previous post in this thread with some additions that were intended to be listed. Additional updates to Racial Abilities and Talents include: Orc Blood Fury’s cooldown reduced to 2 minutes (was 3 minutes). Troll Berserking duration increased to 15 seconds (was 10 seconds). U…
+- **16:37 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [WoW Forever Beta Development Notes – Updated November 2](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-november-2/2360696/8) — We’ve updated the previous post in this thread with some additions that were intended to be listed. Additional updates to Racial Abilities and Talents include: Orc Blood Fury’s cooldown reduced to 2 minutes (was 3 minutes). Troll Berserking duration increased to 15 seconds (was 10 seconds). U…
 - **16:25 · Kodda (lore)** (es, Creador de contenido): [¿Quién era el Jinete decapitado ANTES de perder la cabeza?](https://www.youtube.com/watch?v=wBlEvj045wk) — ¿Quién era el Jinete decapitado antes de perder la cabeza? Cada Hallow's End lo derrotas en el Monasterio Escarlata, pero detrás de la calabaza en llamas hay un paladín de la Mano de Plata, una familia y un demonio con la cara de su mentor. Sir Thomas Thomson era granjero en los Claros de Tirisfal…
 - **13:57 · MrGM** (en, Creador de contenido): [NEW Mounts & Riding System Explained in WoW Forever](https://www.youtube.com/watch?v=s0UgqWRk-mM) — Twitter (https://twitter.com/MrGMYT) Twitch (https://www.twitch.tv/mrgm) TikTok (https://www.tiktok.com/@mrgmyt) Instagram (https://www.instagram.com/mrgm_wow/) Patreon (https://www.patreon.com/mrgm) Discord (https://discord.gg/MrGM) Second YouTube Channel https://www.youtube.com/c/MoreMrGM) Music…
 - **13:30 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [CÓMO CONSEGUIR LA ANTORCHA EN WOW FOREVER](https://www.youtube.com/shorts/ayVC62FDJ4I) — Conoce todos los detalles sobre cómo conseguir la Antorcha de vigilante nocturno con tu personaje de la Horda y Alianza. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
@@ -292,8 +296,9 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 ## Fuentes que han fallado esta vez
 
 - World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
-- Wowhead (YouTube): HTTP Error 404: Not Found
-- Quissy: HTTP Error 500: Internal Server Error
+- Wowhead (YouTube): HTTP Error 500: Internal Server Error
+- MrGM: HTTP Error 404: Not Found
+- Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 500: Internal Server Error
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
 - Kodda (lore): HTTP Error 404: Not Found
