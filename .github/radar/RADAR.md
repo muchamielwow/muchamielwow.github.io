@@ -1,10 +1,11 @@
-# Radar de WoW Forever · actualizado el 03-11-2026 01:58 (hora de España)
+# Radar de WoW Forever · actualizado el 03-11-2026 02:59 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 03-11-2026
 
+- **02:33 · Wowhead (noticias de Forever)** (en, Web especializada): [Hunter Class Buffs on WoW: Forever](https://www.wowhead.com/news=383702/hunter-buffs-on-wow-forever) — Hunters have been buffed in WoW: Forever, increasing the power of various abilities and passives! Continue reading »
 - **01:05 · Wowhead (noticias de Forever)** (en, Web especializada): [Planet Azeroth with Bill Bailey: Plaguelands, Winterspring, and More](https://www.wowhead.com/news=383698/planet-azeroth-with-bill-bailey-plaguelands-winterspring-and-more) — The third episode of Planet Azeroth has been released, and it covers the extremes of Azeroth: the highs, the lows, the heat, the cold, and the murlocs. Continue reading »
 - **00:18 · Wowhead (noticias de Forever)** (en, Web especializada): [New Druid and Rogue Passive Reduces Energy Cost on A First Strike](https://www.wowhead.com/news=383699/new-druid-and-rogue-passive-reduces-energy-cost-on-a-first-strike) — A new passive has been added for Druids and Rogues in WoW: Forever that reduces energy costs on a first strike! Continue reading »
 
@@ -291,8 +292,8 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 
 - World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
 - Wowhead (YouTube): HTTP Error 404: Not Found
-- MrGM: HTTP Error 404: Not Found
-- Quissy: HTTP Error 404: Not Found
+- MrGM: HTTP Error 500: Internal Server Error
+- Quissy: HTTP Error 500: Internal Server Error
 - Jokerd: HTTP Error 404: Not Found
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
 - Kodda (lore): HTTP Error 404: Not Found
