@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 {
- "youtube": true,
- "url": "https://www.youtube.com/watch?v=liuHCyIRlo8",
- "titulo": "[LIVE🔴] ¿NUEVAS RAZAS? VAYA LEAK - 48 HORAS PARA FOREVER 💥REGALO +1 AÑO DE WOW EN LORDS | MUCHAMIEL"
+ "youtube": false,
+ "url": "https://www.youtube.com/@muchamiel/live",
+ "titulo": ""
 }
+=======
+{
+ "youtube": false,
+ "url": "https://www.youtube.com/@muchamiel/live",
+ "titulo": ""
+}
+>>>>>>> 4e5a8e7 (Nota oficial del 2-11: las 9 clases, Cambios, portada, Noticias, calculadora)
