@@ -1,10 +1,11 @@
-# Radar de WoW Forever · actualizado el 03-11-2026 11:55 (hora de España)
+# Radar de WoW Forever · actualizado el 03-11-2026 12:50 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 03-11-2026
 
+- **11:12 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Dear Blizzard, any chance we can get anything different than the placeholder from 22 years ago as travel form?](https://www.reddit.com/r/wowforever/comments/1xmp7ma/dear_blizzard_any_chance_we_can_get_anything/) — Upvote this if you care. See you soon in Azeroth! submitted by /u/tofubuddha [link] [comments]
 - **09:51 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [This statement by Blizzard is such as WIN](https://www.reddit.com/r/wowforever/comments/1xmnwv0/this_statement_by_blizzard_is_such_as_win/) — From Latest blue post: "Beyond that, some of this round of changes reflects areas where we were likely hasty in turning to Burning Crusade- or Wrath-era solutions rather than carving out new ones that better fit into the Forever combat model. Our aim in class design is not perfect numerical…
 - **06:47 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Finally, a good rogue change.](https://www.reddit.com/r/wowforever/comments/1xmkxh9/finally_a_good_rogue_change/) — submitted by /u/NemeSisWiberg [link] [comments]
 - **06:09 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Called it.](https://www.reddit.com/r/wowforever/comments/1xmk8z2/called_it/) — told ya ;) submitted by /u/Cat-Beautiful [link] [comments]
