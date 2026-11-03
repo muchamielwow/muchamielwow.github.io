@@ -1,10 +1,12 @@
-# Radar de WoW Forever · actualizado el 03-11-2026 04:52 (hora de España)
+# Radar de WoW Forever · actualizado el 03-11-2026 05:54 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 03-11-2026
 
+- **04:51 · Wowhead (noticias de Forever)** (en, Web especializada): [WoW: Forever Official Development Notes and Class Tuning](https://www.wowhead.com/news=383704/wow-forever-official-development-notes-and-class-tuning) — Blizzard has posted the official development notes and class tuning changes for the WoW: Forever launch! Continue reading »
+- **04:24 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [WoW Forever Beta Development Notes – Updated November 2](https://www.reddit.com/r/wowforever/comments/1xmi79k/wow_forever_beta_development_notes_updated/) — Please note: issue with the link. Need to scroll all the way down to the last post for 2 NOV (today). submitted by /u/orcofmordor [link] [comments]
 - **04:20 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [WoW Forever Beta Development Notes – Updated November 2](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-november-2/2360696/9) — Since the last full update to the Beta on October 15, we’ve continued to work to solve issues, refine classes, improve gameplay in all areas, and address feedback we received from Beta testers. What follows are the updates and changes that have been developed over those last 2.5 weeks. We’ve includ…
 - **02:49 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Hunter Class Buffs on WoW: Forever](https://www.reddit.com/r/wowforever/comments/1xmg70j/hunter_class_buffs_on_wow_forever/) — ￼Trueshot Aura now increases Ranged Attack Power of the Party or Raid by: Rank 1: 20 (was 15) Rank 2: 35 (was 22) Rank 3: 50 (was 30) Rank 4: 75 (was 40) Rank 5: 100 (was 50) ￼ Aspect of the Hawk now increases Ranged Attack Power by: Rank 1: 20 (was 15) Rank 2: 35 (was 22) Rank 3: 50 (was 30) Rank…
 - **02:33 · Wowhead (noticias de Forever)** (en, Web especializada): [Hunter Class Buffs on WoW: Forever](https://www.wowhead.com/news=383702/hunter-buffs-on-wow-forever) — Hunters have been buffed in WoW: Forever, increasing the power of various abilities and passives! Continue reading »
@@ -296,9 +298,9 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 ## Fuentes que han fallado esta vez
 
 - World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
-- Wowhead (YouTube): HTTP Error 500: Internal Server Error
+- Wowhead (YouTube): HTTP Error 404: Not Found
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
-- Jokerd: HTTP Error 500: Internal Server Error
+- Jokerd: HTTP Error 404: Not Found
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
 - Kodda (lore): HTTP Error 404: Not Found
