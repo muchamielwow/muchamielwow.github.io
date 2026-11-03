@@ -1,11 +1,13 @@
-# Radar de WoW Forever · actualizado el 03-11-2026 23:43 (hora de España)
+# Radar de WoW Forever · actualizado el 04-11-2026 00:40 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 03-11-2026
 
+- **23:39 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [For the love of God, don't call off tomorrow and expect to play.](https://www.reddit.com/r/wowforever/comments/1xn7j5i/for_the_love_of_god_dont_call_off_tomorrow_and/) — Not only are the servers not scheduled to be up until 6 PM EST, but Blizzard isn't known for smooth launch day experiences. Save your PTO for Thursday or Friday. submitted by /u/VanZandtVS [link] [comments]
 - **23:32 · Wowhead (noticias de Forever)** (en, Web especializada): [Classic Shaman Discord Open Again After 13 Hours](https://www.wowhead.com/news=383724/classic-shaman-discord-open-again-after-13-hours) — After almost 13 hours, the Classic Shaman Discord has reopened, allowing all players to chat in its channels once again. Continue reading »
+- **21:57 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I'll /mourn over your corpse, friend](https://www.reddit.com/r/wowforever/comments/1xn4yc4/ill_mourn_over_your_corpse_friend/) — submitted by /u/Speedy_SpeedBoi [link] [comments]
 - **21:22 · Wowhead (noticias de Forever)** (en, Web especializada): [You Can Play WoW: Forever on a Gamepad](https://www.wowhead.com/news=383720/wow-forever-officially-supports-gamepads) — World of Warcraft: Forever officially supports playing with a Gamepad and Blizzard breaks down everything you need to know. Continue reading »
 - **21:05 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Shout out to everyone running their race and class based on vibes and fun](https://www.reddit.com/r/wowforever/comments/1xn3ljw/shout_out_to_everyone_running_their_race_and/) — druid and shaman taurens for me. Tauren all day baby. submitted by /u/Gabriel_66 [link] [comments]
 - **21:04 · AlterTime (web)** (es, Web especializada): [Explora WoW: Forever con un mando](https://altertime.es/article/explora-wow-forever-con-un-mando) — ¿Prefieres usar un mando? Descubre otro modo de jugar a World of Warcraft: Forever, desde cómo moverte y lanzar hechizos hasta los ajustes de configuración. La compatibilidad con los mandos está disponible en fase beta e iremos implementando mejoras.
@@ -326,3 +328,13 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **10:23 · AlterTime (web)** (es, Web especializada): [Blizzard relajará las restricciones con los nombres en WoW Forever](https://altertime.es/article/blizzard-relajara-las-restricciones-con-los-nombres-en-wo-w-forever) — ¡No te pierdas todos los datos que tenemos actualmente y que ha mencionado Blizzard en los foros oficiales!
 - **02:30 · Wowhead (noticias de Forever)** (en, Web especializada): [Name Reservations Included Overly Restrictive Name Check But Fix Incoming](https://www.wowhead.com/news=383618/name-reservations-included-overly-restrictive-name-check-but-fix-incoming) — Blizzard announced that today's WoW: Forever name reservations had an overly restrictive name check, but a fix for this is coming with realm restarts. Continue reading »
 - **02:28 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [Overly Restrictive Name Check and Fix Incoming - October 27](https://us.forums.blizzard.com/en/wow/t/overly-restrictive-name-check-and-fix-incoming-october-27/2394467/1) — In WoW Forever, we’ve been working on the restricted name list, which is a list the game uses to check for non-profane names that we wish to restrict, such as major Warcraft lore characters or names that are blocked for technical reasons. Today we’ve determined that we have a bug in the process tha…
+
+## Fuentes que han fallado esta vez
+
+- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
+- Wowhead (YouTube): HTTP Error 404: Not Found
+- MrGM: HTTP Error 404: Not Found
+- Quissy: HTTP Error 404: Not Found
+- Jokerd: HTTP Error 404: Not Found
+- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
+- Kodda (lore): HTTP Error 404: Not Found
