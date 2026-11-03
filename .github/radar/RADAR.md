@@ -1,11 +1,13 @@
-# Radar de WoW Forever · actualizado el 03-11-2026 13:58 (hora de España)
+# Radar de WoW Forever · actualizado el 03-11-2026 15:13 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 03-11-2026
 
+- **14:52 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [EL TRUCO PARA TENER TU PRIMERA VARITA EN WOW FOREVER](https://www.youtube.com/shorts/OR8zLHLKq1c) — Conoce todos los detalles sobre cómo conseguir tu primera varita con tu brujo, sacerdote o mago en World of Warcraft Forever. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
 - **13:15 · MrGM** (en, Creador de contenido): [ALL Racial Abilities in WoW Forever! Full Overview](https://www.youtube.com/watch?v=qAAI0T6W7c8) — Level faster in WoW Forever with RestedXP! Try the guide FREE from levels 1-20 and get 10% off with my link: https://shop.restedxp.com/ref/MrGM/ Twitter (https://twitter.com/MrGMYT) Twitch (https://www.twitch.tv/mrgm) TikTok (https://www.tiktok.com/@mrgmyt) Instagram…
+- **11:29 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Enjoy the Journey](https://www.reddit.com/r/wowforever/comments/1xmphol/enjoy_the_journey/) — submitted by /u/Metal-Wolf-Enrif [link] [comments]
 - **11:12 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Dear Blizzard, any chance we can get anything different than the placeholder from 22 years ago as travel form?](https://www.reddit.com/r/wowforever/comments/1xmp7ma/dear_blizzard_any_chance_we_can_get_anything/) — Upvote this if you care. See you soon in Azeroth! submitted by /u/tofubuddha [link] [comments]
 - **09:51 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [This statement by Blizzard is such as WIN](https://www.reddit.com/r/wowforever/comments/1xmnwv0/this_statement_by_blizzard_is_such_as_win/) — From Latest blue post: "Beyond that, some of this round of changes reflects areas where we were likely hasty in turning to Burning Crusade- or Wrath-era solutions rather than carving out new ones that better fit into the Forever combat model. Our aim in class design is not perfect numerical…
 - **07:27 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Hope for the Best, Plan for the Worst!](https://www.reddit.com/r/wowforever/comments/1xmlmly/hope_for_the_best_plan_for_the_worst/) — submitted by /u/NutzyPlays [link] [comments]
