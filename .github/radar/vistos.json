@@ -1,5 +1,14 @@
 [
  {
+  "url": "https://www.wowhead.com/news=383692/bonus-experience-and-extra-bags-for-purchase-on-cn-wow-forever-servers",
+  "titulo": "Bonus Experience and Extra Bags for Purchase on CN WoW: Forever Servers",
+  "resumen": "On the Chinese WoW: Forever servers, new bundles available for real money grant 12-slot bags, consumables, and a tent that increases rested experience faster! Continue reading »",
+  "fecha": "2026-11-03T16:00:00+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
   "url": "https://www.youtube.com/watch?v=6u_eJ0Jw_7w",
   "titulo": "10.000 años de Historia que DEBES Saber ANTES de WoW FOREVER",
   "resumen": "El 4 de noviembre vuelves a Azeroth con World of Warcraft: Forever… pero el mundo al que llegas lleva diez mil años de guerras encima, y el juego da por hecho que ya las conoces. Este repaso te pone al día: quién hizo cada herida que vas a ver del nivel 1 al 60. 🧭 ¿Vas a subir de nivel en WoW…",
@@ -7,6 +16,15 @@
   "fuente": "Kodda (lore)",
   "idioma": "es",
   "fiabilidad": "creador"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xmu345/i_am_so_insert_emotion_about_classrace_and/",
+  "titulo": "I AM SO (insert emotion) ABOUT (class/race) AND BLIZZARD IS TO (blame/thank)!!!",
+  "resumen": "I am absolutely (furious/excited) about launch tomorrow! They changed (level 50 talent) for (class) by .5%!!!!! That is literally (unplayable/perfect)! I always knew Blizzard (could/could not) be trusted with (class I've been playing for twenty years and was going to reroll anyways) but they REALLY…",
+  "fecha": "2026-11-03T14:16:46+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
  },
  {
   "url": "https://www.reddit.com/r/wowforever/comments/1xmtt2y/good_guy_blizzard/",
@@ -25,6 +43,15 @@
   "fuente": "AlterTime WoW Forever (YouTube)",
   "idioma": "es",
   "fiabilidad": "creador"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xmsoxc/hey_guys_im_thinking_of_playing_with_a_controller/",
+  "titulo": "Hey guys, I’m thinking of playing with a controller. Am I right in assuming this one will work for an Elemental Shaman now?",
+  "resumen": "submitted by /u/CalligrapherFederal4 [link] [comments]",
+  "fecha": "2026-11-03T13:17:50+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
  },
  {
   "url": "https://www.youtube.com/watch?v=qAAI0T6W7c8",
@@ -2563,14 +2590,5 @@
   "fuente": "World of Warcraft (YouTube oficial)",
   "idioma": "en",
   "fiabilidad": "oficial"
- },
- {
-  "url": "https://www.youtube.com/watch?v=XcAgKHGNNb8",
-  "titulo": "CONSIGUE RECOMPENSAS EXCLUSIVAS EN WOW FOREVER ENCONTRANDO LOS LIBROS POR AZEROTH",
-  "resumen": "Conoce todos los detalles sobre el nuevo sistema de búsqueda de libros en World of Warcraft Forever y las recompensas que podemos conseguir. Addons de libros: https://www.curseforge.com/wow/addons/books-on-map-forever / https://www.curseforge.com/wow/addons/handynotes-forever-books Recuerda que…",
-  "fecha": "2026-10-27T16:00:10+00:00",
-  "fuente": "AlterTime WoW Forever (YouTube)",
-  "idioma": "es",
-  "fiabilidad": "creador"
  }
 ]
