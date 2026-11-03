@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 03-11-2026 06:54 (hora de España)
+# Radar de WoW Forever · actualizado el 03-11-2026 08:05 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -303,6 +303,6 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - Wowhead (YouTube): HTTP Error 404: Not Found
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
-- Jokerd: HTTP Error 500: Internal Server Error
+- Jokerd: HTTP Error 404: Not Found
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
 - Kodda (lore): HTTP Error 404: Not Found
