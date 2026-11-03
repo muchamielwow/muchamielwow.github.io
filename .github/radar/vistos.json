@@ -1,5 +1,23 @@
 [
  {
+  "url": "https://www.wowhead.com/news=383716/tier-pieces-require-quest-chain-that-requires-group-content-in-wow-forever",
+  "titulo": "Tier Pieces Require Quest Chain That Requires Group Content in WoW: Forever",
+  "resumen": "During the WoW: Forever Launch overview, Blizzard revealed that Tier Tokens will unlock a series of quests that ends with the player earning a Tier Piece. Continue reading »",
+  "fecha": "2026-11-03T19:30:50+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://www.wowhead.com/news=383713/d-d-world-of-warcraft-early-access-grants-pet-mount-decor-and-toy",
+  "titulo": "D&D: World of Warcraft Early Access Grants Pet, Mount, Decor, and Toy",
+  "resumen": "The D&D: World of Warcraft bundles are now in early access, and that means players who preordered them can earn their in-game goodies for Retail WoW. Continue reading »",
+  "fecha": "2026-11-03T18:56:09+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
   "url": "https://www.wowhead.com/news=383712/whats-new-and-whats-the-same-in-wow-forever",
   "titulo": "What's New and What's the Same in WoW: Forever",
   "resumen": "Blizzard has released a blog highlighting what's new and what will feel the same in WoW: Forever, whether you play modern, Classic or haven't played for a while. Continue reading »",
@@ -43,6 +61,15 @@
   "fuente": "Wowhead (noticias de Forever)",
   "idioma": "en",
   "fiabilidad": "web"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xmz0ny/mcdonalds_is_currently_doing_a_wow_promotion/",
+  "titulo": "McDonald's is currently doing a WoW promotion",
+  "resumen": "Just randomly saw this but nothing online yet. The terms and conditions do not specify if the backpack and pet are for retail. The gametime specifies wow or wow classic but thats obvious. submitted by /u/Ultrox [link] [comments]",
+  "fecha": "2026-11-03T17:21:01+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
  },
  {
   "url": "https://www.reddit.com/r/wowforever/comments/1xmxtj0/ill_never_stop_advocating_for_silly_racials/",
@@ -295,6 +322,15 @@
   "fuente": "Wowhead (noticias de Forever)",
   "idioma": "en",
   "fiabilidad": "web"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xmc5n5/wow_game_time_added_from_skyborne_epic_pack/",
+  "titulo": "WoW Game Time added from Skyborne epic pack.",
+  "resumen": "Blizzard just added my game time to my account. Added 32 days instead of 30! 48 hours y'all! submitted by /u/vascrypt [link] [comments]",
+  "fecha": "2026-11-02T22:50:21+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
  },
  {
   "url": "https://www.reddit.com/r/wowforever/comments/1xmc1oe/for_all_the_40yr_old_about_to_stay_up_for_days/",
@@ -2599,32 +2635,5 @@
   "fuente": "AlterTime (web)",
   "idioma": "es",
   "fiabilidad": "web"
- },
- {
-  "url": "https://www.wowhead.com/news=383610/join-the-wow-portal-room-for-your-next-adventure-in-wow-forever",
-  "titulo": "Join the WoW Portal Room for Your Next Adventure in WoW: Forever",
-  "resumen": "Blizzard has released a new blog, incentivizing players to join the WoW Portal Room! Continue reading »",
-  "fecha": "2026-10-27T19:08:56+00:00",
-  "fuente": "Wowhead (noticias de Forever)",
-  "idioma": "en",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://altertime.es/article/tu-proxima-aventura-en-wow-forever-comienza-en-wow-portal-room",
-  "titulo": "Tu próxima aventura en WoW: Forever comienza en WoW Portal Room",
-  "resumen": "Tanto si acabas de llegar a Azeroth, has vuelto tras un descanso o llevas años con World of Warcraft como parte de tu vida, WoW Portal Room es un acogedor servidor de Discord donde podrás conocer a otros aventureros y encontrar tu próxima comunidad.",
-  "fecha": "2026-10-27T19:04:02+00:00",
-  "fuente": "AlterTime (web)",
-  "idioma": "es",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://us.forums.blizzard.com/en/wow/t/your-next-adventure-in-wow-forever-starts-in-the-wow-portal-room/2393349/1",
-  "titulo": "Your Next Adventure in WoW: Forever Starts in the WoW Portal Room",
-  "resumen": "[Your Next Adventure in WoW: Forever Starts in the WoW Portal Room] Whether you’re new to Azeroth, returning after a break, or have made World of Warcraft part of your life for years, the WoW Portal Room is a welcoming Discord server where you can meet fellow adventurers and find your next…",
-  "fecha": "2026-10-27T19:00:06.426000+00:00",
-  "fuente": "Blizzard (mensajes del equipo)",
-  "idioma": "en",
-  "fiabilidad": "oficial"
  }
 ]
