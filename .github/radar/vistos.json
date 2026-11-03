@@ -1,5 +1,41 @@
 [
  {
+  "url": "https://www.wowhead.com/news=383712/whats-new-and-whats-the-same-in-wow-forever",
+  "titulo": "What's New and What's the Same in WoW: Forever",
+  "resumen": "Blizzard has released a blog highlighting what's new and what will feel the same in WoW: Forever, whether you play modern, Classic or haven't played for a while. Continue reading »",
+  "fecha": "2026-11-03T18:01:37+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever%E2%80%94what%E2%80%99s-new-and-what-feels-familiar/2400000/1",
+  "titulo": "WoW: Forever—What’s New and What Feels Familiar",
+  "resumen": "[WoW: Forever—What’s New and What Feels Familiar] World of Warcraft: Forever has something for explorers, dungeon groups, collectors, roleplayers, and PvP fans alike. See how its interface conveniences, class updates, and progression systems complement a distinct take on original WoW—and what to…",
+  "fecha": "2026-11-03T18:00:10.220000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xmzjvz/shaman_discord_currently/",
+  "titulo": "Shaman discord currently",
+  "resumen": "submitted by /u/CarpetUnique6800 [link] [comments]",
+  "fecha": "2026-11-03T17:40:25+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
+ },
+ {
+  "url": "https://www.wowhead.com/news=383711/watch-the-world-of-warcraft-forever-launch-overview",
+  "titulo": "Watch the World of Warcraft: Forever Launch Overview",
+  "resumen": "A 30 minute launch overview for World of Warcraft: Forever is now available, giving more details about the world, classes, professions, dungeons, raids, and more! Continue reading »",
+  "fecha": "2026-11-03T17:39:57+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
   "url": "https://www.wowhead.com/news=383710/shaman-classic-discord-closed-in-protest-of-shaman-changes-in-wow-forever",
   "titulo": "Shaman Classic Discord Closed in Protest of Shaman Changes in WoW: Forever",
   "resumen": "The Shaman Classic Discord has been shut down in protest of the changes to Shaman in WoW: Forever. Continue reading »",
@@ -79,6 +115,15 @@
   "fuente": "MrGM",
   "idioma": "en",
   "fiabilidad": "creador"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xmpzwg/rogues_next_weekend/",
+  "titulo": "Rogues next weekend",
+  "resumen": "New Talent: Quick Getaway. Passive. 2-point talent in Row 4. Increases the maximum number of targets you may have Sapped by 1/1 and increases your movement speed by 15/30% for 3 seconds after sapping a target. submitted by /u/Skorrn1337 [link] [comments]",
+  "fecha": "2026-11-03T10:59:16+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
  },
  {
   "url": "https://www.reddit.com/r/wowforever/comments/1xmphol/enjoy_the_journey/",
@@ -2581,14 +2626,5 @@
   "fuente": "Blizzard (mensajes del equipo)",
   "idioma": "en",
   "fiabilidad": "oficial"
- },
- {
-  "url": "https://www.wowhead.com/news=383608/name-reservations-for-wow-forever-delayed",
-  "titulo": "Update: Name Reservations for WoW: Forever Now Live in EU, NA",
-  "resumen": "Updated: The delay on Forever name reservations is complete, and players can now reserve their names on EU and NA! Continue reading »",
-  "fecha": "2026-10-27T17:58:59+00:00",
-  "fuente": "Wowhead (noticias de Forever)",
-  "idioma": "en",
-  "fiabilidad": "web"
  }
 ]
