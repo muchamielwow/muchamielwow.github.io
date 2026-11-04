@@ -1,5 +1,14 @@
 [
  {
+  "url": "https://www.wowhead.com/news=383749/world-of-warcraft-forever-is-now-live",
+  "titulo": "World of Warcraft: Forever is Now Live",
+  "resumen": "World of Warcraft: Forever is now live! Enjoy your Journey through Azeroth. Continue reading »",
+  "fecha": "2026-11-04T23:01:38+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
   "url": "https://www.youtube.com/watch?v=mFOkBPMKJhc",
   "titulo": "Forging Forever | World of Warcraft: Forever",
   "resumen": "Witness the creation of World of Warcraft: Forever's first legendary: Taldramir, the Whispering Wood ► Latest WoW news: http://worldofwarcraft.com/news ► Subscribe to WoW: http://blizz.ly/WoWYTSub ► Visit WoW on Battle.net: https://shop.battle.net/family/world-of-warcraft -- ► Follow Warcraft on…",
@@ -7,6 +16,15 @@
   "fuente": "World of Warcraft (YouTube oficial)",
   "idioma": "en",
   "fiabilidad": "oficial"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xo22q3/20_worth_of_taco_bell_no_school_tomorrow_parents/",
+  "titulo": "$20 worth of Taco Bell. No school tomorrow. Parents said I could stay up late. I am 35.",
+  "resumen": "submitted by /u/Ksrugi [link] [comments]",
+  "fecha": "2026-11-04T22:33:16+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
  },
  {
   "url": "https://www.wowhead.com/news=383748/secret-twitch-drop-awards-pouch-of-violet-dust-toy-in-wow-forever",
@@ -27,6 +45,15 @@
   "fiabilidad": "web"
  },
  {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xo13hm/new_legendary_revealed_taldramir_the_whispering/",
+  "titulo": "New Legendary revealed - Taldramir, the Whispering Wood",
+  "resumen": "submitted by /u/samfoxy_ [link] [comments]",
+  "fecha": "2026-11-04T21:53:12+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
+ },
+ {
   "url": "https://www.wowhead.com/news=383744/the-questie-addon-is-back-in-wow-forever",
   "titulo": "The Questie Addon is Back in WoW: Forever",
   "resumen": "If you played Classic in 2019 (and beyond), the Questie addon is likely a well-known name to you, and the addon is back in WoW: Forever. Continue reading »",
@@ -34,6 +61,15 @@
   "fuente": "Wowhead (noticias de Forever)",
   "idioma": "en",
   "fiabilidad": "web"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xnzzps/here_we_go_again/",
+  "titulo": "Here we go again",
+  "resumen": "submitted by /u/McdankDoge [link] [comments]",
+  "fecha": "2026-11-04T21:08:58+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
  },
  {
   "url": "https://www.wowhead.com/news=383742/twitch-teasing-major-reveal-on-warcraft-twitch-stream",
@@ -2700,6 +2736,15 @@
   "fiabilidad": "oficial"
  },
  {
+  "url": "https://us.forums.blizzard.com/en/wow/t/world-of-warcraft-forever-now-live/2396008/1",
+  "titulo": "World of Warcraft: Forever Now Live!",
+  "resumen": "[World of Warcraft: Forever Now Live!] Begin your first adventure or return to a new and reimagined Azeroth in World of Warcraft: Forever, now live worldwide. Adventure to level 60 across the original continents, discover new stories, and meet fellow adventurers in a permanent home alongside modern…",
+  "fecha": "2026-10-29T21:00:50.143000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
   "url": "https://altertime.es/article/guia-de-iniciacion-para-nuevos-jugadores-te-damos-la-bienvenida-a-world-of-warcraft-forever",
   "titulo": "Guía de iniciación para nuevos jugadores: te damos la bienvenida a World of Warcraft: Forever",
   "resumen": "World of Warcraft: Forever invita a los jugadores a una Azeroth original reimaginada, donde la exploración, la comunidad y la propia aventura son las protagonistas. Empieza en el nivel uno, crea un personaje a tu medida y aprende lo esencial para hacerte un hueco en un mundo diseñado para seguir…",
@@ -3130,14 +3175,5 @@
   "fuente": "AlterTime WoW Forever (YouTube)",
   "idioma": "es",
   "fiabilidad": "creador"
- },
- {
-  "url": "https://altertime.es/article/las-grandes-actualizaciones-de-wo-w-forever-se-desarrollaran-cada-cuatro-meses",
-  "titulo": "Las grandes actualizaciones de WoW Forever se desarrollarán cada cuatro meses",
-  "resumen": "¡No te pierdas todos los detalles más importantes mencionados en la entrevista!",
-  "fecha": "2026-10-28T23:04:00+00:00",
-  "fuente": "AlterTime (web)",
-  "idioma": "es",
-  "fiabilidad": "web"
  }
 ]
