@@ -1,10 +1,11 @@
-# Radar de WoW Forever · actualizado el 04-11-2026 08:10 (hora de España)
+# Radar de WoW Forever · actualizado el 04-11-2026 09:56 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 04-11-2026
 
+- **05:42 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Wow forever tomorrow](https://www.reddit.com/r/wowforever/comments/1xnf6q9/wow_forever_tomorrow/) — In bed rn kicking my feet and shit submitted by /u/_memelorddotjpeg_ [link] [comments]
 - **03:32 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Me (M 31) going to sleep tonight](https://www.reddit.com/r/wowforever/comments/1xncmys/me_m_31_going_to_sleep_tonight/) — submitted by /u/domZ1026 [link] [comments]
 - **03:05 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Nobody is taking the launch as serious as me.](https://www.reddit.com/r/wowforever/comments/1xnc2k6/nobody_is_taking_the_launch_as_serious_as_me/) — submitted by /u/zyyklon [link] [comments]
 - **02:55 · World of Warcraft (YouTube oficial)** (en, Oficial de Blizzard): [Ready to start building those Legacy Points tomorrow?](https://www.youtube.com/shorts/YNCIM5GQ4kI) — Watch the full WoW: Forever Launch Overview to get ready!
@@ -13,6 +14,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 
 ## 03-11-2026
 
+- **23:56 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [QUÉ HACER CUANDO LLEGUE OFICIALMENTE WOW FOREVER](https://www.youtube.com/watch?v=dIVHWARGvZg) — ¿Qué debes hacer cuando llegue oficialmente WoW Forever? En el vídeo de hoy repasamos algunos detalles que pueden ser realmente interesantes a tener en cuenta. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato…
 - **23:39 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [For the love of God, don't call off tomorrow and expect to play.](https://www.reddit.com/r/wowforever/comments/1xn7j5i/for_the_love_of_god_dont_call_off_tomorrow_and/) — Not only are the servers not scheduled to be up until 6 PM EST, but Blizzard isn't known for smooth launch day experiences. Save your PTO for Thursday or Friday. submitted by /u/VanZandtVS [link] [comments]
 - **23:32 · Wowhead (noticias de Forever)** (en, Web especializada): [Classic Shaman Discord Open Again After 13 Hours](https://www.wowhead.com/news=383724/classic-shaman-discord-open-again-after-13-hours) — After almost 13 hours, the Classic Shaman Discord has reopened, allowing all players to chat in its channels once again. Continue reading »
 - **21:57 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I'll /mourn over your corpse, friend](https://www.reddit.com/r/wowforever/comments/1xn4yc4/ill_mourn_over_your_corpse_friend/) — submitted by /u/Speedy_SpeedBoi [link] [comments]
@@ -340,13 +342,3 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **15:52 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [RUTAS DE CARAVANAS EN WOW FOREVER?](https://www.youtube.com/shorts/pR5TLgEuZKE) — Conoce una de las peticiones que se ha vuelto más popular en la comunidad de World of Warcraft Forever. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
 - **11:04 · AlterTime (web)** (es, Web especializada): [Listado de habilidades raciales en World of Warcraft Forever](https://altertime.es/article/listado-de-habilidades-raciales-en-world-of-warcraft-forever) — ¡Te traemos todas las novedades!
 - **10:23 · AlterTime (web)** (es, Web especializada): [Blizzard relajará las restricciones con los nombres en WoW Forever](https://altertime.es/article/blizzard-relajara-las-restricciones-con-los-nombres-en-wo-w-forever) — ¡No te pierdas todos los datos que tenemos actualmente y que ha mencionado Blizzard en los foros oficiales!
-
-## Fuentes que han fallado esta vez
-
-- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
-- Wowhead (YouTube): HTTP Error 404: Not Found
-- MrGM: HTTP Error 404: Not Found
-- Quissy: HTTP Error 404: Not Found
-- Jokerd: HTTP Error 500: Internal Server Error
-- AlterTime WoW Forever (YouTube): HTTP Error 500: Internal Server Error
-- Kodda (lore): HTTP Error 404: Not Found
