@@ -1,10 +1,14 @@
-# Radar de WoW Forever · actualizado el 04-11-2026 12:12 (hora de España)
+# Radar de WoW Forever · actualizado el 04-11-2026 14:00 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 04-11-2026
 
+- **13:30 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [EL PRIMER PALADÍN NO MUERTO EN LA HISTORIA DE WORLD OF WARCRAFT](https://www.youtube.com/shorts/1m6OiGCkDOA) — Conoce la historia de Sir Zeliek en World of Warcraft de la mano de AlterTime y en castellano, el primer Paladín No Muerto de la WoW. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
+- **12:35 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Now, are we ready people?!](https://www.reddit.com/r/wowforever/comments/1xnlyn1/now_are_we_ready_people/) — submitted by /u/Emergency-Tax7262 [link] [comments]
+- **12:27 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Anyone else just Rawdogging it?](https://www.reddit.com/r/wowforever/comments/1xnltoi/anyone_else_just_rawdogging_it/) — I see loads of posts on here and facebook groups of people asking things like: - Whats the best add ons? - What proffesions should I get? - What route should I take to get to 60 ASAP - What's the best legacy rewards I should get So I'm just curious really, is anybody else just going to rawdog it…
+- **09:50 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Forever!](https://www.reddit.com/r/wowforever/comments/1xnjbzx/forever/) — submitted by /u/NutzyPlays [link] [comments]
 - **05:42 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Wow forever tomorrow](https://www.reddit.com/r/wowforever/comments/1xnf6q9/wow_forever_tomorrow/) — In bed rn kicking my feet and shit submitted by /u/_memelorddotjpeg_ [link] [comments]
 - **04:14 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Getting old...](https://www.reddit.com/r/wowforever/comments/1xndgnn/getting_old/) — submitted by /u/4plyLuxuriousTissue [link] [comments]
 - **03:32 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Me (M 31) going to sleep tonight](https://www.reddit.com/r/wowforever/comments/1xncmys/me_m_31_going_to_sleep_tonight/) — submitted by /u/domZ1026 [link] [comments]
