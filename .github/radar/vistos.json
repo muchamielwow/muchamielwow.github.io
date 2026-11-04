@@ -1,5 +1,41 @@
 [
  {
+  "url": "https://www.wowhead.com/news=383741/wow-forever-development-notes-updated-ui-and-accessibility-updates",
+  "titulo": "WoW: Forever Development Notes Updated - UI and Accessibility Updates",
+  "resumen": "Blizzard has updated WoW: Forever Development notes before the official launch, adding new updates for UI and accessibility. Continue reading »",
+  "fecha": "2026-11-04T19:38:53+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-november-2/2360696/10",
+  "titulo": "WoW Forever Beta Development Notes – Updated November 2",
+  "resumen": "We’ve added this section to the previous post. User Interface and Accessibility Swing Timer bar will no longer fade out due to distance until the swing finishes. When combined bag is enabled, the background art of the inventory slots are updated to show which bag the slot is from. Fixed an issue …",
+  "fecha": "2026-11-04T19:35:16.582000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
+  "url": "https://www.wowhead.com/news=383740/new-alliance-and-horde-twitch-chat-badges-for-subs-to-wow-streamers",
+  "titulo": "New Alliance and Horde Twitch Chat Badges for Subs to WoW Streamers",
+  "resumen": "For the month of November, if you sub to a WoW streamer on Twitch, you can claim new Horde and Alliance chat badges! Continue reading »",
+  "fecha": "2026-11-04T19:12:22+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://www.wowhead.com/news=383738/new-nvidia-drivers-for-world-of-warcraft-forever",
+  "titulo": "New Nvidia Drivers for World of Warcraft: Forever",
+  "resumen": "Nvidia has released a new set of Game Ready drivers for World of Warcraft: Forever ahead of today's launch! Continue reading »",
+  "fecha": "2026-11-04T18:58:48+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
   "url": "https://us.forums.blizzard.com/en/wow/t/world-of-warcraft-forever-launch-time/2400905/1",
   "titulo": "World of Warcraft: Forever Launch Time",
   "resumen": "WoW Forever launches simultaneously in all regions today at 3:00 p.m. PST. That’s: Time Zone Location Time Date HST Honolulu 1:00 p.m. Nov. 4 AKST Juneau 2:00 p.m. Nov. 4 PST Los Angeles 3:00 p.m. Nov. 4 BCT Vancouver 4:00 p.m. Nov. 4 MST Denver 4:00 p.m. Nov. 4 CST Dallas 5:00 p.…",
@@ -25,6 +61,15 @@
   "fuente": "Wowhead (noticias de Forever)",
   "idioma": "en",
   "fiabilidad": "web"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xnu4oj/everyone_in_the_queue_tonight/",
+  "titulo": "Everyone In The Queue Tonight",
+  "resumen": "submitted by /u/kainxavier [link] [comments]",
+  "fecha": "2026-11-04T17:24:14+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
  },
  {
   "url": "https://www.wowhead.com/news=383725/did-blizzard-tease-future-wow-forever-class-and-race-combinations",
@@ -88,6 +133,15 @@
   "fuente": "MrGM",
   "idioma": "en",
   "fiabilidad": "creador"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xnrpe2/wow_forever_tonight_and_ocarina_of_time_tomorrow/",
+  "titulo": "WOW Forever tonight and Ocarina of Time tomorrow.",
+  "resumen": "submitted by /u/ShambolicRubel [link] [comments]",
+  "fecha": "2026-11-04T15:52:25+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
  },
  {
   "url": "https://www.reddit.com/r/wowforever/comments/1xnrkqh/ladies_and_gentlemen_behold_for_on_this_day_in_a/",
