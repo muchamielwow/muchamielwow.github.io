@@ -1,10 +1,13 @@
-# Radar de WoW Forever · actualizado el 04-11-2026 22:49 (hora de España)
+# Radar de WoW Forever · actualizado el 04-11-2026 23:47 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 04-11-2026
 
+- **23:42 · World of Warcraft (YouTube oficial)** (en, Oficial de Blizzard): [Forging Forever | World of Warcraft: Forever](https://www.youtube.com/watch?v=mFOkBPMKJhc) — Witness the creation of World of Warcraft: Forever's first legendary: Taldramir, the Whispering Wood ► Latest WoW news: http://worldofwarcraft.com/news ► Subscribe to WoW: http://blizz.ly/WoWYTSub ► Visit WoW on Battle.net: https://shop.battle.net/family/world-of-warcraft -- ► Follow Warcraft on…
+- **23:18 · Wowhead (noticias de Forever)** (en, Web especializada): [Secret Twitch Drop Awarded Pouch of Violet Dust Toy to Live Stream Viewers in WoW: Forever](https://www.wowhead.com/news=383748/secret-twitch-drop-awards-pouch-of-violet-dust-toy-in-wow-forever) — Players who watched the Legendary crafting stream on Twitch have been awarded a Pouch of Violet Dust Toy via Twitch Drops! Continue reading »
+- **23:05 · Wowhead (noticias de Forever)** (en, Web especializada): [Taldramir, the Whispering Wood Revealed as WoW: Forever Legendary](https://www.wowhead.com/news=383747/taldramir-the-whispering-wood-revealed-as-wow-forever-legendary) — Taldramir, the Whispering Wood has been revealed as WoW: Forever's new legendary! Continue reading »
 - **22:30 · Wowhead (noticias de Forever)** (en, Web especializada): [The Questie Addon is Back in WoW: Forever](https://www.wowhead.com/news=383744/the-questie-addon-is-back-in-wow-forever) — If you played Classic in 2019 (and beyond), the Questie addon is likely a well-known name to you, and the addon is back in WoW: Forever. Continue reading »
 - **21:22 · Wowhead (noticias de Forever)** (en, Web especializada): [Twitch Teasing "Major Reveal" on Warcraft Twitch Stream](https://www.wowhead.com/news=383742/twitch-teasing-major-reveal-on-warcraft-twitch-stream) — Twitch is teasing a "major reveal" in an "exciting moment you don't want to miss" on the Warcraft Twitch Stream! Continue reading »
 - **20:38 · Wowhead (noticias de Forever)** (en, Web especializada): [WoW: Forever Development Notes Updated - UI and Accessibility Updates](https://www.wowhead.com/news=383741/wow-forever-development-notes-updated-ui-and-accessibility-updates) — Blizzard has updated WoW: Forever Development notes before the official launch, adding new updates for UI and accessibility. Continue reading »
