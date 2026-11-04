@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 04-11-2026 01:58 (hora de España)
+# Radar de WoW Forever · actualizado el 04-11-2026 02:59 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -328,15 +328,12 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **15:52 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [RUTAS DE CARAVANAS EN WOW FOREVER?](https://www.youtube.com/shorts/pR5TLgEuZKE) — Conoce una de las peticiones que se ha vuelto más popular en la comunidad de World of Warcraft Forever. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
 - **11:04 · AlterTime (web)** (es, Web especializada): [Listado de habilidades raciales en World of Warcraft Forever](https://altertime.es/article/listado-de-habilidades-raciales-en-world-of-warcraft-forever) — ¡Te traemos todas las novedades!
 - **10:23 · AlterTime (web)** (es, Web especializada): [Blizzard relajará las restricciones con los nombres en WoW Forever](https://altertime.es/article/blizzard-relajara-las-restricciones-con-los-nombres-en-wo-w-forever) — ¡No te pierdas todos los datos que tenemos actualmente y que ha mencionado Blizzard en los foros oficiales!
-- **02:30 · Wowhead (noticias de Forever)** (en, Web especializada): [Name Reservations Included Overly Restrictive Name Check But Fix Incoming](https://www.wowhead.com/news=383618/name-reservations-included-overly-restrictive-name-check-but-fix-incoming) — Blizzard announced that today's WoW: Forever name reservations had an overly restrictive name check, but a fix for this is coming with realm restarts. Continue reading »
-- **02:28 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [Overly Restrictive Name Check and Fix Incoming - October 27](https://us.forums.blizzard.com/en/wow/t/overly-restrictive-name-check-and-fix-incoming-october-27/2394467/1) — In WoW Forever, we’ve been working on the restricted name list, which is a list the game uses to check for non-profane names that we wish to restrict, such as major Warcraft lore characters or names that are blocked for technical reasons. Today we’ve determined that we have a bug in the process tha…
 
 ## Fuentes que han fallado esta vez
 
-- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
-- Wowhead (YouTube): HTTP Error 404: Not Found
+- World of Warcraft (YouTube oficial): HTTP Error 500: Internal Server Error
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
-- Jokerd: HTTP Error 500: Internal Server Error
+- Jokerd: HTTP Error 404: Not Found
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
 - Kodda (lore): HTTP Error 404: Not Found
