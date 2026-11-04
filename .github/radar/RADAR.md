@@ -1,7 +1,13 @@
-# Radar de WoW Forever · actualizado el 04-11-2026 03:50 (hora de España)
+# Radar de WoW Forever · actualizado el 04-11-2026 04:52 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
+
+## 04-11-2026
+
+- **02:55 · World of Warcraft (YouTube oficial)** (en, Oficial de Blizzard): [Ready to start building those Legacy Points tomorrow?](https://www.youtube.com/shorts/YNCIM5GQ4kI) — Watch the full WoW: Forever Launch Overview to get ready!
+- **01:12 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Opinion: Trying to be meta-everything has really taken the joy out of modern gaming. seeing the shaman outcry makes me really miss classic gaming where we just went in blind and picked what we liked…](https://www.reddit.com/r/wowforever/comments/1xn9omz/opinion_trying_to_be_metaeverything_has_really/) — I remember before trying to be meta everything that people just played what they liked and they didnt know better if it was meta or not and to me at least everyone had more fun not knowing what was "best in slot" or S tier. be in games like elder scrolls where you played what you thought was fun or…
+- **00:01 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [We're in the home stretch boys.](https://www.reddit.com/r/wowforever/comments/1xn81q7/were_in_the_home_stretch_boys/) — submitted by /u/jarede312 [link] [comments]
 
 ## 03-11-2026
 
@@ -332,8 +338,9 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 
 ## Fuentes que han fallado esta vez
 
-- World of Warcraft (YouTube oficial): HTTP Error 500: Internal Server Error
-- Wowhead (YouTube): HTTP Error 500: Internal Server Error
+- Wowhead (YouTube): HTTP Error 404: Not Found
+- MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
+- Jokerd: HTTP Error 500: Internal Server Error
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
 - Kodda (lore): HTTP Error 404: Not Found
