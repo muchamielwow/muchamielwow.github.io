@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 04-11-2026 09:56 (hora de España)
+# Radar de WoW Forever · actualizado el 04-11-2026 11:01 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -341,4 +341,3 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **16:00 · World of Warcraft (YouTube oficial)** (en, Oficial de Blizzard): [World of Warcraft: Forever | Planet Azeroth EP. 1 (ft. Bill Bailey)](https://www.youtube.com/watch?v=VxTWMv5h-JE) — Murlocs, Kobolds, and Bill Bailey… just another day in the wilds of Azeroth 🐾 Join Bill Bailey on a new adventure in search of Azeroth’s most remarkable creatures in the first episode of Planet Azeroth. ► Latest WoW news: http://worldofwarcraft.com/news ► Subscribe to WoW: http://blizz.ly/WoWYTSub…
 - **15:52 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [RUTAS DE CARAVANAS EN WOW FOREVER?](https://www.youtube.com/shorts/pR5TLgEuZKE) — Conoce una de las peticiones que se ha vuelto más popular en la comunidad de World of Warcraft Forever. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
 - **11:04 · AlterTime (web)** (es, Web especializada): [Listado de habilidades raciales en World of Warcraft Forever](https://altertime.es/article/listado-de-habilidades-raciales-en-world-of-warcraft-forever) — ¡Te traemos todas las novedades!
-- **10:23 · AlterTime (web)** (es, Web especializada): [Blizzard relajará las restricciones con los nombres en WoW Forever](https://altertime.es/article/blizzard-relajara-las-restricciones-con-los-nombres-en-wo-w-forever) — ¡No te pierdas todos los datos que tenemos actualmente y que ha mencionado Blizzard en los foros oficiales!
