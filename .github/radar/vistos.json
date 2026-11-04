@@ -1,5 +1,14 @@
 [
  {
+  "url": "https://www.wowhead.com/news=383744/the-questie-addon-is-back-in-wow-forever",
+  "titulo": "The Questie Addon is Back in WoW: Forever",
+  "resumen": "If you played Classic in 2019 (and beyond), the Questie addon is likely a well-known name to you, and the addon is back in WoW: Forever. Continue reading »",
+  "fecha": "2026-11-04T21:30:48+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
   "url": "https://www.wowhead.com/news=383742/twitch-teasing-major-reveal-on-warcraft-twitch-stream",
   "titulo": "Twitch Teasing \"Major Reveal\" on Warcraft Twitch Stream",
   "resumen": "Twitch is teasing a \"major reveal\" in an \"exciting moment you don't want to miss\" on the Warcraft Twitch Stream! Continue reading »",
@@ -27,6 +36,15 @@
   "fiabilidad": "oficial"
  },
  {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xnx98i/and_i_refuse_to_be_silenced_any_longer/",
+  "titulo": "And I refuse to be silenced any longer",
+  "resumen": "submitted by /u/Oddity83 [link] [comments]",
+  "fecha": "2026-11-04T19:22:42+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
+ },
+ {
   "url": "https://www.wowhead.com/news=383740/new-alliance-and-horde-twitch-chat-badges-for-subs-to-wow-streamers",
   "titulo": "New Alliance and Horde Twitch Chat Badges for Subs to WoW Streamers",
   "resumen": "For the month of November, if you sub to a WoW streamer on Twitch, you can claim new Horde and Alliance chat badges! Continue reading »",
@@ -34,6 +52,15 @@
   "fuente": "Wowhead (noticias de Forever)",
   "idioma": "en",
   "fiabilidad": "web"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xnwq91/offhand_addon_question_it_allows_map_character/",
+  "titulo": "Offhand Addon Question. It allows Map, Character Sheet, chat and bags in the other screen.",
+  "resumen": "I just found it and i would like to know if anyone from blizz can address the issue that if this is legal to use or not. The creator stated it shouldnt go against the ToS and that he asked blizz for verification, but he received no reply, so for now it remains as \"Use at your own risk\". Honest, its…",
+  "fecha": "2026-11-04T19:02:26+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
  },
  {
   "url": "https://www.wowhead.com/news=383738/new-nvidia-drivers-for-world-of-warcraft-forever",
@@ -3084,24 +3111,6 @@
   "fecha": "2026-10-28T23:04:00+00:00",
   "fuente": "AlterTime (web)",
   "idioma": "es",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xi1dyt/i_think_its_cool_that_so_many_are_excited_about/",
-  "titulo": "I think it's cool that so many are excited about their toon names",
-  "resumen": "Absolutely wild to me, seeing the hate on those sharing their names. We have a full week to wait and nothing new to talk about. Wow forever is supposed to be about community building so share your toon names here. The dumber the better. Anyone who makes me giggle when im out killing boars is a true…",
-  "fecha": "2026-10-28T21:38:25+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.wowhead.com/news=383641/new-class-and-item-tuning-on-wow-forever-hunter-changes",
-  "titulo": "New Class and Item Tuning on WoW: Forever - Hunter Changes",
-  "resumen": "With name reservations now live in WoW: Forever, there are some tuning changes for Hunters and an Alchemy potion. Continue reading »",
-  "fecha": "2026-10-28T21:17:17+00:00",
-  "fuente": "Wowhead (noticias de Forever)",
-  "idioma": "en",
   "fiabilidad": "web"
  }
 ]
