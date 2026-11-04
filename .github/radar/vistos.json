@@ -1,5 +1,32 @@
 [
  {
+  "url": "https://us.forums.blizzard.com/en/wow/t/world-of-warcraft-forever-launch-time/2400905/1",
+  "titulo": "World of Warcraft: Forever Launch Time",
+  "resumen": "WoW Forever launches simultaneously in all regions today at 3:00 p.m. PST. That’s: Time Zone Location Time Date HST Honolulu 1:00 p.m. Nov. 4 AKST Juneau 2:00 p.m. Nov. 4 PST Los Angeles 3:00 p.m. Nov. 4 BCT Vancouver 4:00 p.m. Nov. 4 MST Denver 4:00 p.m. Nov. 4 CST Dallas 5:00 p.…",
+  "fecha": "2026-11-04T18:13:53.056000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
+  "url": "https://www.youtube.com/shorts/R6mhgaeVtOk",
+  "titulo": "EL TRUCO PARA CAMBIAR CÓMO SE VE TU PERSONAJE EN WOW FOREVER",
+  "resumen": "Conoce todos los detalles para cambiar la vista de la muerte de tu personaje en WoW Forever de forma sencilla con un comando. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…",
+  "fecha": "2026-11-04T18:00:31+00:00",
+  "fuente": "AlterTime WoW Forever (YouTube)",
+  "idioma": "es",
+  "fiabilidad": "creador"
+ },
+ {
+  "url": "https://www.wowhead.com/news=383736/introducing-the-forever-files-wowheads-forever-newsletter",
+  "titulo": "Introducing The Forever Files: Wowhead's Forever Newsletter",
+  "resumen": "With the launch of WoW: Forever, Wowhead is launching another jam-packed newsletter - sign up for The Forever Files today! Continue reading »",
+  "fecha": "2026-11-04T17:55:14+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
   "url": "https://www.wowhead.com/news=383725/did-blizzard-tease-future-wow-forever-class-and-race-combinations",
   "titulo": "Did Blizzard Tease Future WoW: Forever Class and Race Combinations?",
   "resumen": "Blizzard recently released a Launch Overview for WoW: Forever - and there are some class and race combinations that caught players' eyes. Continue reading »",
@@ -16,6 +43,15 @@
   "fuente": "Wowhead (noticias de Forever)",
   "idioma": "en",
   "fiabilidad": "web"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xnt05s/silly_racials_suggestions_will_continue_until/",
+  "titulo": "Silly racials suggestions will continue until morale improves",
+  "resumen": "submitted by /u/guywitharock [link] [comments]",
+  "fecha": "2026-11-04T16:42:41+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
  },
  {
   "url": "https://www.reddit.com/r/wowforever/comments/1xns43f/im_an_it_technician_at_blizzard_and_wanted_to_say/",
@@ -2994,24 +3030,6 @@
   "fecha": "2026-10-28T21:17:17+00:00",
   "fuente": "Wowhead (noticias de Forever)",
   "idioma": "en",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://www.youtube.com/watch?v=ypIVBpK0Bi8",
-  "titulo": "CÓMO se CREÓ la PESTE en WARCRAFT?",
-  "resumen": "Una caja de grano a las puertas de Stratholme, un trono de hielo en Rasganorte y unas catapultas en la Puerta de Cólera: en World of Warcraft la Peste ha cambiado de manos y de forma una y otra vez. ¿Qué es exactamente… y por qué sigue ahí? Seguimos la peste de la no-muerte desde que Ner'zhul la…",
-  "fecha": "2026-10-28T18:41:43+00:00",
-  "fuente": "Kodda (lore)",
-  "idioma": "es",
-  "fiabilidad": "creador"
- },
- {
-  "url": "https://altertime.es/article/configura-todas-tus-barras-de-accion-para-wo-w-forever-gracias-a-la-utilidad-de-naowh-forever",
-  "titulo": "Configura todas tus barras de acción para WoW Forever gracias a la utilidad de Naowh Forever",
-  "resumen": "¡Adelántate al día de salida!",
-  "fecha": "2026-10-28T18:00:00+00:00",
-  "fuente": "AlterTime (web)",
-  "idioma": "es",
   "fiabilidad": "web"
  }
 ]
