@@ -1,5 +1,41 @@
 [
  {
+  "url": "https://www.youtube.com/watch?v=RmGxG0uuUac",
+  "titulo": "TODA la Historia de VARYAN contada de PRINCIPIO a FIN",
+  "resumen": "El rey de Ventormenta, esclavo en una jaula de gladiadores de la Horda… mientras un hombre con su misma cara se sienta en su trono. Así empieza una de las vidas más duras de World of Warcraft: la de Varian Wrynn. 🎮 Este vídeo está patrocinado por Overgear — coaching 1 a 1 para WoW Forever. Todos…",
+  "fecha": "2026-11-04T15:00:03+00:00",
+  "fuente": "Kodda (lore)",
+  "idioma": "es",
+  "fiabilidad": "creador"
+ },
+ {
+  "url": "https://www.wowhead.com/news=383722/wowheads-forever-tools-now-live-and-updated-for-launch",
+  "titulo": "Wowhead's Forever Tools Now Live and Updated for Launch",
+  "resumen": "WoW: Forever is almost here - and Wowhead's tools will help you jump into Azeroth. From talent calculators to profession leveling, we've got everything you'll need! Continue reading »",
+  "fecha": "2026-11-04T15:00:00+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xnpzk9/attention_nvidia_gpu_owners_new_drivers_for/",
+  "titulo": "Attention Nvidia GPU owners: new drivers for Forever dropped.",
+  "resumen": "https://www.nvidia.com/en-us/geforce/news/world-of-warcraft-forever-geforce-rtx-spark-game-ready-driver/ submitted by /u/PeterPun [link] [comments]",
+  "fecha": "2026-11-04T14:44:22+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=lMWzN9ZI3qg",
+  "titulo": "LOS MEJORES ADDONS PARA COMENZAR A JUGAR WOW FOREVER",
+  "resumen": "Conoce los addons que puedes llevar al inicio de tu aventura en World of Warcraft Forever con tu personaje. 0:00 Inicio 0:40 Attune 3:47 NeedRoll 5:16 Lueur 10:24 BlizzMove 11:53 OpenMap 12:49 GuildMap 14:12 HandyNotes 15:40 ProcDoc 18:34 TomTom 19:19 Layerswap 20:01 Easy Experience Bar 20:53…",
+  "fecha": "2026-11-04T14:36:52+00:00",
+  "fuente": "AlterTime WoW Forever (YouTube)",
+  "idioma": "es",
+  "fiabilidad": "creador"
+ },
+ {
   "url": "https://www.wowhead.com/news=383728/when-does-wow-forever-launch-globally",
   "titulo": "When Does WoW: Forever Launch Globally?",
   "resumen": "It's almost here - WoW: Forever launches today, so check out what time you'll need to log on in your time zone during this global release! Continue reading »",
@@ -40,6 +76,15 @@
   "titulo": "Anyone else just Rawdogging it?",
   "resumen": "I see loads of posts on here and facebook groups of people asking things like: - Whats the best add ons? - What proffesions should I get? - What route should I take to get to 60 ASAP - What's the best legacy rewards I should get So I'm just curious really, is anybody else just going to rawdog it…",
   "fecha": "2026-11-04T11:27:01+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xnkyo1/i_predict_a_smooth_launch_today/",
+  "titulo": "I predict a smooth launch today",
+  "resumen": "We will all login happily and began our adventure with no wait submitted by /u/John_XFiles [link] [comments]",
+  "fecha": "2026-11-04T10:35:45+00:00",
   "fuente": "Reddit r/wowforever (lo más votado del día)",
   "idioma": "en",
   "fiabilidad": "comunidad"
@@ -2896,23 +2941,5 @@
   "fuente": "AlterTime (web)",
   "idioma": "es",
   "fiabilidad": "web"
- },
- {
-  "url": "https://www.youtube.com/watch?v=VxTWMv5h-JE",
-  "titulo": "World of Warcraft: Forever | Planet Azeroth EP. 1 (ft. Bill Bailey)",
-  "resumen": "Murlocs, Kobolds, and Bill Bailey… just another day in the wilds of Azeroth 🐾 Join Bill Bailey on a new adventure in search of Azeroth’s most remarkable creatures in the first episode of Planet Azeroth. ► Latest WoW news: http://worldofwarcraft.com/news ► Subscribe to WoW: http://blizz.ly/WoWYTSub…",
-  "fecha": "2026-10-28T15:00:03+00:00",
-  "fuente": "World of Warcraft (YouTube oficial)",
-  "idioma": "en",
-  "fiabilidad": "oficial"
- },
- {
-  "url": "https://www.youtube.com/shorts/pR5TLgEuZKE",
-  "titulo": "RUTAS DE CARAVANAS EN WOW FOREVER?",
-  "resumen": "Conoce una de las peticiones que se ha vuelto más popular en la comunidad de World of Warcraft Forever. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…",
-  "fecha": "2026-10-28T14:52:43+00:00",
-  "fuente": "AlterTime WoW Forever (YouTube)",
-  "idioma": "es",
-  "fiabilidad": "creador"
  }
 ]
