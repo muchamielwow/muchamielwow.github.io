@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 04-11-2026 06:57 (hora de España)
+# Radar de WoW Forever · actualizado el 04-11-2026 08:10 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -42,6 +42,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **17:03 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Bday gift for boyfriend](https://www.reddit.com/r/wowforever/comments/1xmwvyg/bday_gift_for_boyfriend/) — Since launch is short before his bday, this might come in handy 🎁 Edit: Speeltijd means Playtime, there’s supposed to be ‘60’ before it, but 💡 submitted by /u/QuirkySunny [link] [comments]
 - **17:00 · Wowhead (noticias de Forever)** (en, Web especializada): [Bonus Experience and Extra Bags for Purchase on CN WoW: Forever Servers](https://www.wowhead.com/news=383692/bonus-experience-and-extra-bags-for-purchase-on-cn-wow-forever-servers) — On the Chinese WoW: Forever servers, new bundles available for real money grant 12-slot bags, consumables, and a tent that increases rested experience faster! Continue reading »
 - **16:17 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Top 12 Addons to Preinstall](https://www.reddit.com/r/wowforever/comments/1xmvnsp/top_12_addons_to_preinstall/) — I know addon recommendation posts are dime a dozen, but with the massive influx of addons due to AI coding tools I have tried to make a list of addons which meaningfully improve the player's experience and which have a proven track record or some indication that they will be supported in the…
+- **15:50 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Won’t make it](https://www.reddit.com/r/wowforever/comments/1xmuy6v/wont_make_it/) — It’s a sad day. Laptop broke down unexpectedly just in time for Forever. Can’t afford one for a couple of months. Live for me my brothers and sisters! Lok’tar Ogar! Edit: I appreciate the suggestions, but I live in Sweden and Amazon is a long time no go zone for me (self afflicted). submitted by…
 - **15:39 · Kodda (lore)** (es, Creador de contenido): [10.000 años de Historia que DEBES Saber ANTES de WoW FOREVER](https://www.youtube.com/watch?v=6u_eJ0Jw_7w) — El 4 de noviembre vuelves a Azeroth con World of Warcraft: Forever… pero el mundo al que llegas lleva diez mil años de guerras encima, y el juego da por hecho que ya las conoces. Este repaso te pone al día: quién hizo cada herida que vas a ver del nivel 1 al 60. 🧭 ¿Vas a subir de nivel en WoW…
 - **15:16 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I AM SO (insert emotion) ABOUT (class/race) AND BLIZZARD IS TO (blame/thank)!!!](https://www.reddit.com/r/wowforever/comments/1xmu345/i_am_so_insert_emotion_about_classrace_and/) — I am absolutely (furious/excited) about launch tomorrow! They changed (level 50 talent) for (class) by .5%!!!!! That is literally (unplayable/perfect)! I always knew Blizzard (could/could not) be trusted with (class I've been playing for twenty years and was going to reroll anyways) but they REALLY…
 - **15:05 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Good Guy Blizzard](https://www.reddit.com/r/wowforever/comments/1xmtt2y/good_guy_blizzard/) — submitted by /u/mhelgy [link] [comments]
@@ -346,6 +347,6 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - Wowhead (YouTube): HTTP Error 404: Not Found
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
-- Jokerd: HTTP Error 404: Not Found
-- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
+- Jokerd: HTTP Error 500: Internal Server Error
+- AlterTime WoW Forever (YouTube): HTTP Error 500: Internal Server Error
 - Kodda (lore): HTTP Error 404: Not Found
