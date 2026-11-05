@@ -2,6 +2,15 @@
  "fuente": "https://us.forums.blizzard.com/en/wow/groups/blizzard-tracker/posts",
  "avisos": [
   {
+   "id": 2402319,
+   "titulo": "WoW Forever Bug Report Forum Guidelines",
+   "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-bug-report-forum-guidelines/2402319",
+   "autor": "Kaivax",
+   "fecha": "2026-11-05T15:22:45.960Z",
+   "resumen": "Welcome! Please read this before posting in this forum. What follows are guidelines for how this forum should and shouldn’t be used. WoW Forever Bug Report Forum Guidelines: Please do not post off-topic banter or…",
+   "foro": "Noticias"
+  },
+  {
    "id": 2401646,
    "titulo": "Issues Resolved for Invite-a-Friend Players",
    "url": "https://us.forums.blizzard.com/en/wow/t/issues-resolved-for-invite-a-friend-players/2401646",
@@ -98,15 +107,6 @@
    "autor": "Kaivax",
    "fecha": "2026-10-27T20:02:47.505Z",
    "resumen": "Attention Oceanic players connecting to Australian-based servers! Due to a bug, you must create any characters on Roleplay or Roleplay-PvP rulesets before creating characters on Normal or PvP rulesets. If you first…",
-   "foro": "Forever"
-  },
-  {
-   "id": 2393349,
-   "titulo": "Your Next Adventure in WoW: Forever Starts in the WoW Portal Room",
-   "url": "https://us.forums.blizzard.com/en/wow/t/your-next-adventure-in-wow-forever-starts-in-the-wow-portal-room/2393349",
-   "autor": "BlizzardEntertainment",
-   "fecha": "2026-10-27T19:00:06.426Z",
-   "resumen": "[Your Next Adventure in WoW: Forever Starts in the WoW Portal Room] Whether you’re new to Azeroth, returning after a break, or have made World of Warcraft part of your life for years, the WoW Portal Room is a welcoming…",
    "foro": "Forever"
   }
  ]
