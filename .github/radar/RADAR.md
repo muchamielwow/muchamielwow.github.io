@@ -1,12 +1,18 @@
-# Radar de WoW Forever · actualizado el 05-11-2026 23:48 (hora de España)
+# Radar de WoW Forever · actualizado el 06-11-2026 00:44 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
+## 06-11-2026
+
+- **00:29 · Wowhead (noticias de Forever)** (en, Web especializada): [Minimum Deposit of 1 Silver Required to List Items on Auction House in WoW: Forever](https://www.wowhead.com/news=383774/minimum-deposit-of-1-silver-required-to-list-items-at-auction-house-in-wow) — In WoW: Forever, listing an item on the Auction House always incurs a deposit of at least 1 silver. Continue reading »
+
 ## 05-11-2026
 
+- **23:51 · World of Warcraft (YouTube oficial)** (en, Oficial de Blizzard): [Some friendships are forged through corpse runs 🏃](https://www.youtube.com/shorts/DhNUxefQOMg) — Watch the latest Epic NPC Man in WoW: Forever, live on the @VivaLaDirtLeague channel!
 - **23:00 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [WoW: Forever– Watch Forging Forever](https://us.forums.blizzard.com/en/wow/t/wow-forever%E2%80%93-watch-forging-forever/2402802/1) — [WoW: Forever– Watch Forging Forever] Witness the creation of World of Warcraft: Forever's first legendary: Taldramir, the Whispering Wood. View Full Article
 - **23:00 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [WoW: Forever– Watch Forging Forever](https://us.forums.blizzard.com/en/wow/t/wow-forever%E2%80%93-watch-forging-forever/2402801/1) — [WoW: Forever– Watch Forging Forever] Witness the creation of World of Warcraft: Forever's first legendary: Taldramir, the Whispering Wood. View Full Article
+- **21:52 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [First census numbers suggest over 2 million concurrent forever players on launch across US + EU](https://www.reddit.com/r/wowforever/comments/1xotya5/first_census_numbers_suggest_over_2_million/) — submitted by /u/Calm_Connection_9127 [link] [comments]
 - **21:23 · Wowhead (noticias de Forever)** (en, Web especializada): [Blizzard Investigating Issues with Certain Escort Quests in WoW: Forever](https://www.wowhead.com/news=383771/blizzard-investigating-issues-with-certain-escort-quests-in-wow-forever) — Blizzard is investigating issues with certain quests in WoW: Forever. Continue reading »
 - **20:49 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [We have never been more back](https://www.reddit.com/r/wowforever/comments/1xosdcj/we_have_never_been_more_back/) — submitted by /u/Berbinho [link] [comments]
 - **19:57 · World of Warcraft (YouTube oficial)** (en, Oficial de Blizzard): [Rulesets mean a quicker route to finding people who like to play WoW: Forever the way you do 🤝](https://www.youtube.com/shorts/Ofjwmgsual8) — Watch the full Rulesets breakdown on our YouTube channel!
@@ -387,17 +393,11 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **02:35 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [i need this artwork as a wallpaper](https://www.reddit.com/r/wowforever/comments/1xj2hmi/i_need_this_artwork_as_a_wallpaper/) — submitted by /u/bubbabse [link] [comments]
 - **01:19 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [BLIZZARD PERMITIRÁ CREAR GRUPOS DE *120 JUGADORES* EN WOW FOREVER](https://www.youtube.com/watch?v=D3RKntM9byY) — Repasamos todas las novedades que ha mencionado Blizzard sobre World of Warcraft Forever en un reciente podcast. Resumen del podcast: https://altertime.es/article/resumen-del-6-podcast-sobre-world-of-warcraft-forever Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial:…
 
-## 29-10-2026
-
-- **23:58 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [To Addon creators: Please test your addons using the controller UI](https://www.reddit.com/r/wowforever/comments/1xiz0jj/to_addon_creators_please_test_your_addons_using/) — I tried loads of great addons during the beta but unfortunately a lot of them returned errors with the gamepad UI enabled. Can you please test with that turned on and see if there are some things you need to account for so that us gamepad enjoyers can use them as well? Thanks! submitted by /u/larce…
-- **23:54 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [What zone are you guys most excited / nostalgic for?](https://www.reddit.com/r/wowforever/comments/1xiyx65/what_zone_are_you_guys_most_excited_nostalgic_for/) — no i don't mean the chat... submitted by /u/Haunterz [link] [comments]
-
 ## Fuentes que han fallado esta vez
 
-- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
 - Wowhead (YouTube): HTTP Error 404: Not Found
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
-- AlterTime WoW Forever (YouTube): HTTP Error 500: Internal Server Error
+- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
 - Kodda (lore): HTTP Error 404: Not Found

@@ -1,5 +1,23 @@
 [
  {
+  "url": "https://www.wowhead.com/news=383774/minimum-deposit-of-1-silver-required-to-list-items-at-auction-house-in-wow",
+  "titulo": "Minimum Deposit of 1 Silver Required to List Items on Auction House in WoW: Forever",
+  "resumen": "In WoW: Forever, listing an item on the Auction House always incurs a deposit of at least 1 silver. Continue reading »",
+  "fecha": "2026-11-05T23:29:31+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://www.youtube.com/shorts/DhNUxefQOMg",
+  "titulo": "Some friendships are forged through corpse runs 🏃",
+  "resumen": "Watch the latest Epic NPC Man in WoW: Forever, live on the @VivaLaDirtLeague channel!",
+  "fecha": "2026-11-05T22:51:12+00:00",
+  "fuente": "World of Warcraft (YouTube oficial)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
   "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever%E2%80%93-watch-forging-forever/2402802/1",
   "titulo": "WoW: Forever– Watch Forging Forever",
   "resumen": "[WoW: Forever– Watch Forging Forever] Witness the creation of World of Warcraft: Forever's first legendary: Taldramir, the Whispering Wood. View Full Article",
@@ -16,6 +34,15 @@
   "fuente": "Blizzard (mensajes del equipo)",
   "idioma": "en",
   "fiabilidad": "oficial"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xotya5/first_census_numbers_suggest_over_2_million/",
+  "titulo": "First census numbers suggest over 2 million concurrent forever players on launch across US + EU",
+  "resumen": "submitted by /u/Calm_Connection_9127 [link] [comments]",
+  "fecha": "2026-11-05T20:52:31+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
  },
  {
   "url": "https://www.wowhead.com/news=383771/blizzard-investigating-issues-with-certain-escort-quests-in-wow-forever",
@@ -3265,23 +3292,5 @@
   "fuente": "AlterTime WoW Forever (YouTube)",
   "idioma": "es",
   "fiabilidad": "creador"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xiz0jj/to_addon_creators_please_test_your_addons_using/",
-  "titulo": "To Addon creators: Please test your addons using the controller UI",
-  "resumen": "I tried loads of great addons during the beta but unfortunately a lot of them returned errors with the gamepad UI enabled. Can you please test with that turned on and see if there are some things you need to account for so that us gamepad enjoyers can use them as well? Thanks! submitted by /u/larce…",
-  "fecha": "2026-10-29T22:58:56+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xiyx65/what_zone_are_you_guys_most_excited_nostalgic_for/",
-  "titulo": "What zone are you guys most excited / nostalgic for?",
-  "resumen": "no i don't mean the chat... submitted by /u/Haunterz [link] [comments]",
-  "fecha": "2026-10-29T22:54:56+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
  }
 ]
