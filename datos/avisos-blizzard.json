@@ -2,6 +2,15 @@
  "fuente": "https://us.forums.blizzard.com/en/wow/groups/blizzard-tracker/posts",
  "avisos": [
   {
+   "id": 2402363,
+   "titulo": "Known Issues - WoW Forever - Updated Nov. 5",
+   "url": "https://us.forums.blizzard.com/en/wow/t/known-issues-wow-forever-updated-nov-5/2402363",
+   "autor": "Kaivax",
+   "fecha": "2026-11-05T15:42:52.385Z",
+   "resumen": "In this thread, we will discuss issues that the WoW Forever team have determined to be notable, impactful, and already tracked with plans to fix in the future. This is not a comprehensive list of issues, and it will be…",
+   "foro": "Noticias"
+  },
+  {
    "id": 2402319,
    "titulo": "WoW Forever Bug Report Forum Guidelines",
    "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-bug-report-forum-guidelines/2402319",
@@ -98,15 +107,6 @@
    "autor": "Kaivax",
    "fecha": "2026-10-28T01:28:41.132Z",
    "resumen": "In WoW Forever, we’ve been working on the restricted name list, which is a list the game uses to check for non-profane names that we wish to restrict, such as major Warcraft lore characters or names that are blocked for…",
-   "foro": "Forever"
-  },
-  {
-   "id": 2393431,
-   "titulo": "Name Reservation Issue for Oceanic Players",
-   "url": "https://us.forums.blizzard.com/en/wow/t/name-reservation-issue-for-oceanic-players/2393431",
-   "autor": "Kaivax",
-   "fecha": "2026-10-27T20:02:47.505Z",
-   "resumen": "Attention Oceanic players connecting to Australian-based servers! Due to a bug, you must create any characters on Roleplay or Roleplay-PvP rulesets before creating characters on Normal or PvP rulesets. If you first…",
    "foro": "Forever"
   }
  ]
