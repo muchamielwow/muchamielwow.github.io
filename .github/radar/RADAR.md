@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 05-11-2026 04:54 (hora de España)
+# Radar de WoW Forever · actualizado el 05-11-2026 05:58 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -6,6 +6,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 ## 05-11-2026
 
 - **03:43 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [Issues Resolved for Invite-a-Friend Players](https://us.forums.blizzard.com/en/wow/t/issues-resolved-for-invite-a-friend-players/2401646/1) — With a hotfix that is now live, we’ve fixed an issue where players who joined WoW Forever by using an Invite-a-Friend Code were unexpectedly restricted from using certain chat channels, leveling past 10, participating in guilds, forming parties, or trading items with other players. If you experienc…
+- **02:10 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [This is the Smoothest blizzard game launch in like Forever!](https://www.reddit.com/r/wowforever/comments/1xo5m0y/this_is_the_smoothest_blizzard_game_launch_in/) — Five minutes of startup issues and after that, smooth sailing. For once, Blizzard did a good job. submitted by /u/Monstras-Patrick [link] [comments]
 - **02:04 · Wowhead (noticias de Forever)** (en, Web especializada): [The Great Outdoors Quest Bugged and How to Complete](https://www.wowhead.com/news=383753/the-great-outdoors-quest-bugged-and-how-to-complete) — The tutorial quest for camping, "The Great Outdoors," is slightly bugged, but players can quickly work around it. Continue reading »
 - **01:51 · Wowhead (noticias de Forever)** (en, Web especializada): [Official Warcraft Twitch Stream Showing Heat Map of Level Ups](https://www.wowhead.com/news=383750/official-warcraft-twitch-stream-showing-heat-map-of-level-ups) — The official Warcraft Twitch Stream is showing a player heat map as players spawn into the game and level up! Continue reading »
 - **01:41 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I can't believe how smooth this launch is.](https://www.reddit.com/r/wowforever/comments/1xo4z50/i_cant_believe_how_smooth_this_launch_is/) — I fully expected to not be able to play today, but I logged in with no queue and no lag. to be fair, I heard playing a Skyborne druid is better cause it's emptier zones submitted by /u/Arizhela [link] [comments]
@@ -379,12 +380,13 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **11:10 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [For the first time ever, I'm going Horde Tauren](https://www.reddit.com/r/wowforever/comments/1xifx66/for_the_first_time_ever_im_going_horde_tauren/) — I've always played Alliance, but these last few weeks have been rough mentally for me because, somehow, all damn streamers have chosen to play Alliance. And I mean big streamers from different countries/languages. It's like they all copied each other or something. I don't want to be around multiple…
 - **08:33 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Devs, you want to give us horizontal classes? Add 4th specs instead of new classes!](https://www.reddit.com/r/wowforever/comments/1xidfde/devs_you_want_to_give_us_horizontal_classes_add/) — In my opinion a new class wouldn’t fit the initial plan of keeping Classic vibes intact, to give a more Horizontal approach (we really like this term apparently), similarly to SoD, every class should receive 4th specs, here are my suggestions: Warrior — Axe Thrower (Ranged DPS) Paladin — Purifier…
 - **07:32 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Can’t decide between Orc and Undead for my Warrior](https://www.reddit.com/r/wowforever/comments/1xicgw6/cant_decide_between_orc_and_undead_for_my_warrior/) — I’ll mostly be playing battlegrounds, but I really like how both of these look. Can’t seem to make up my mind lol. Which one would you pick? submitted by /u/DORO0202 [link] [comments]
-- **05:22 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I want to be the opposite of poor](https://www.reddit.com/r/wowforever/comments/1xia9f2/i_want_to_be_the_opposite_of_poor/) — Played on and off since vanilla, every time I come back, every expansion I suck at generating currency. I'm always scrapping for spells, auctioning everything I can vacuum up and stopping for every herb or ore I spot. How do I do better? I have tried auction mods in the past expansions and watched…
 
 ## Fuentes que han fallado esta vez
 
-- World of Warcraft (YouTube oficial): HTTP Error 500: Internal Server Error
+- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
+- Wowhead (YouTube): HTTP Error 404: Not Found
 - MrGM: HTTP Error 404: Not Found
-- Jokerd: HTTP Error 500: Internal Server Error
+- Quissy: HTTP Error 404: Not Found
+- Jokerd: HTTP Error 404: Not Found
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
-- Kodda (lore): HTTP Error 500: Internal Server Error
+- Kodda (lore): HTTP Error 404: Not Found
