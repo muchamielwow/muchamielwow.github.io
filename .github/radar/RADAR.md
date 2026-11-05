@@ -1,13 +1,15 @@
-# Radar de WoW Forever · actualizado el 05-11-2026 02:00 (hora de España)
+# Radar de WoW Forever · actualizado el 05-11-2026 03:09 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 05-11-2026
 
+- **02:04 · Wowhead (noticias de Forever)** (en, Web especializada): [The Great Outdoors Quest Bugged and How to Complete](https://www.wowhead.com/news=383753/the-great-outdoors-quest-bugged-and-how-to-complete) — The tutorial quest for camping, "The Great Outdoors," is slightly bugged, but players can quickly work around it. Continue reading »
 - **01:51 · Wowhead (noticias de Forever)** (en, Web especializada): [Official Warcraft Twitch Stream Showing Heat Map of Level Ups](https://www.wowhead.com/news=383750/official-warcraft-twitch-stream-showing-heat-map-of-level-ups) — The official Warcraft Twitch Stream is showing a player heat map as players spawn into the game and level up! Continue reading »
 - **01:32 · Wowhead (noticias de Forever)** (en, Web especializada): [Obtain the Pouch of Violet Dust Toy - Increases Camp Benefits by 1 Hour](https://www.wowhead.com/news=383751/obtain-the-pouch-of-violet-dust-toy-increases-camp-benefits-by-1-hour) — Blizzard has revealed another way to earn the Pouch of Violet Dust Toy! Continue reading »
 - **01:30 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [Set Your Campfire Ablaze with the Pouch of Violet Dust!](https://us.forums.blizzard.com/en/wow/t/set-your-campfire-ablaze-with-the-pouch-of-violet-dust/2401461/1) — [Set Your Campfire Ablaze with the Pouch of Violet Dust!] Watch 4 hours of any eligible World of Warcraft stream on Twitch.tv during the World of Warcraft: Forever launch week to collect the Pouch of Violet Dust toy. View Full Article
+- **00:05 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [How people at the ruleset menu look at people in the login queue.](https://www.reddit.com/r/wowforever/comments/1xo2uk1/how_people_at_the_ruleset_menu_look_at_people_in/) — submitted by /u/dillcoq [link] [comments]
 - **00:01 · Wowhead (noticias de Forever)** (en, Web especializada): [World of Warcraft: Forever is Now Live](https://www.wowhead.com/news=383749/world-of-warcraft-forever-is-now-live) — World of Warcraft: Forever is now live! Enjoy your Journey through Azeroth. Continue reading »
 
 ## 04-11-2026
@@ -383,7 +385,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 ## Fuentes que han fallado esta vez
 
 - World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
-- Wowhead (YouTube): HTTP Error 500: Internal Server Error
+- Wowhead (YouTube): HTTP Error 404: Not Found
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
