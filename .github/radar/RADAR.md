@@ -1,12 +1,14 @@
-# Radar de WoW Forever · actualizado el 05-11-2026 03:09 (hora de España)
+# Radar de WoW Forever · actualizado el 05-11-2026 04:54 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 05-11-2026
 
+- **03:43 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [Issues Resolved for Invite-a-Friend Players](https://us.forums.blizzard.com/en/wow/t/issues-resolved-for-invite-a-friend-players/2401646/1) — With a hotfix that is now live, we’ve fixed an issue where players who joined WoW Forever by using an Invite-a-Friend Code were unexpectedly restricted from using certain chat channels, leveling past 10, participating in guilds, forming parties, or trading items with other players. If you experienc…
 - **02:04 · Wowhead (noticias de Forever)** (en, Web especializada): [The Great Outdoors Quest Bugged and How to Complete](https://www.wowhead.com/news=383753/the-great-outdoors-quest-bugged-and-how-to-complete) — The tutorial quest for camping, "The Great Outdoors," is slightly bugged, but players can quickly work around it. Continue reading »
 - **01:51 · Wowhead (noticias de Forever)** (en, Web especializada): [Official Warcraft Twitch Stream Showing Heat Map of Level Ups](https://www.wowhead.com/news=383750/official-warcraft-twitch-stream-showing-heat-map-of-level-ups) — The official Warcraft Twitch Stream is showing a player heat map as players spawn into the game and level up! Continue reading »
+- **01:41 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I can't believe how smooth this launch is.](https://www.reddit.com/r/wowforever/comments/1xo4z50/i_cant_believe_how_smooth_this_launch_is/) — I fully expected to not be able to play today, but I logged in with no queue and no lag. to be fair, I heard playing a Skyborne druid is better cause it's emptier zones submitted by /u/Arizhela [link] [comments]
 - **01:32 · Wowhead (noticias de Forever)** (en, Web especializada): [Obtain the Pouch of Violet Dust Toy - Increases Camp Benefits by 1 Hour](https://www.wowhead.com/news=383751/obtain-the-pouch-of-violet-dust-toy-increases-camp-benefits-by-1-hour) — Blizzard has revealed another way to earn the Pouch of Violet Dust Toy! Continue reading »
 - **01:30 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [Set Your Campfire Ablaze with the Pouch of Violet Dust!](https://us.forums.blizzard.com/en/wow/t/set-your-campfire-ablaze-with-the-pouch-of-violet-dust/2401461/1) — [Set Your Campfire Ablaze with the Pouch of Violet Dust!] Watch 4 hours of any eligible World of Warcraft stream on Twitch.tv during the World of Warcraft: Forever launch week to collect the Pouch of Violet Dust toy. View Full Article
 - **00:05 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [How people at the ruleset menu look at people in the login queue.](https://www.reddit.com/r/wowforever/comments/1xo2uk1/how_people_at_the_ruleset_menu_look_at_people_in/) — submitted by /u/dillcoq [link] [comments]
@@ -378,16 +380,11 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **08:33 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Devs, you want to give us horizontal classes? Add 4th specs instead of new classes!](https://www.reddit.com/r/wowforever/comments/1xidfde/devs_you_want_to_give_us_horizontal_classes_add/) — In my opinion a new class wouldn’t fit the initial plan of keeping Classic vibes intact, to give a more Horizontal approach (we really like this term apparently), similarly to SoD, every class should receive 4th specs, here are my suggestions: Warrior — Axe Thrower (Ranged DPS) Paladin — Purifier…
 - **07:32 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Can’t decide between Orc and Undead for my Warrior](https://www.reddit.com/r/wowforever/comments/1xicgw6/cant_decide_between_orc_and_undead_for_my_warrior/) — I’ll mostly be playing battlegrounds, but I really like how both of these look. Can’t seem to make up my mind lol. Which one would you pick? submitted by /u/DORO0202 [link] [comments]
 - **05:22 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I want to be the opposite of poor](https://www.reddit.com/r/wowforever/comments/1xia9f2/i_want_to_be_the_opposite_of_poor/) — Played on and off since vanilla, every time I come back, every expansion I suck at generating currency. I'm always scrapping for spells, auctioning everything I can vacuum up and stopping for every herb or ore I spot. How do I do better? I have tried auction mods in the past expansions and watched…
-- **04:12 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Xbox CEO owners of Blizzard said WoW forever set records.](https://www.reddit.com/r/wowforever/comments/1xi8xpe/xbox_ceo_owners_of_blizzard_said_wow_forever_set/) — Game isn't even out yet, it's behind a paid $60 beta, and set records.... submitted by /u/Anilahation [link] [comments]
-- **03:32 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [More Racial Identity](https://www.reddit.com/r/wowforever/comments/1xi84ug/more_racial_identity/) — With all the discussion of racials I think it would be fun to have cosmetic only racial options based on race class combinations. It helps bring more identity to each race and how those classes differ through cultures and fit into their own societies. I also think they should be toggled for pvp…
-- **03:10 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Casually Classic: WoW Forever only gives you one chance to explore it fresh — so make it count](https://www.reddit.com/r/wowforever/comments/1xi7olt/casually_classic_wow_forever_only_gives_you_one/) — submitted by /u/Syppi [link] [comments]
 
 ## Fuentes que han fallado esta vez
 
-- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
-- Wowhead (YouTube): HTTP Error 404: Not Found
+- World of Warcraft (YouTube oficial): HTTP Error 500: Internal Server Error
 - MrGM: HTTP Error 404: Not Found
-- Quissy: HTTP Error 404: Not Found
-- Jokerd: HTTP Error 404: Not Found
+- Jokerd: HTTP Error 500: Internal Server Error
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
-- Kodda (lore): HTTP Error 404: Not Found
+- Kodda (lore): HTTP Error 500: Internal Server Error
