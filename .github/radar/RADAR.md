@@ -1,10 +1,13 @@
-# Radar de WoW Forever · actualizado el 05-11-2026 00:42 (hora de España)
+# Radar de WoW Forever · actualizado el 05-11-2026 02:00 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 05-11-2026
 
+- **01:51 · Wowhead (noticias de Forever)** (en, Web especializada): [Official Warcraft Twitch Stream Showing Heat Map of Level Ups](https://www.wowhead.com/news=383750/official-warcraft-twitch-stream-showing-heat-map-of-level-ups) — The official Warcraft Twitch Stream is showing a player heat map as players spawn into the game and level up! Continue reading »
+- **01:32 · Wowhead (noticias de Forever)** (en, Web especializada): [Obtain the Pouch of Violet Dust Toy - Increases Camp Benefits by 1 Hour](https://www.wowhead.com/news=383751/obtain-the-pouch-of-violet-dust-toy-increases-camp-benefits-by-1-hour) — Blizzard has revealed another way to earn the Pouch of Violet Dust Toy! Continue reading »
+- **01:30 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [Set Your Campfire Ablaze with the Pouch of Violet Dust!](https://us.forums.blizzard.com/en/wow/t/set-your-campfire-ablaze-with-the-pouch-of-violet-dust/2401461/1) — [Set Your Campfire Ablaze with the Pouch of Violet Dust!] Watch 4 hours of any eligible World of Warcraft stream on Twitch.tv during the World of Warcraft: Forever launch week to collect the Pouch of Violet Dust toy. View Full Article
 - **00:01 · Wowhead (noticias de Forever)** (en, Web especializada): [World of Warcraft: Forever is Now Live](https://www.wowhead.com/news=383749/world-of-warcraft-forever-is-now-live) — World of Warcraft: Forever is now live! Enjoy your Journey through Azeroth. Continue reading »
 
 ## 04-11-2026
@@ -376,14 +379,12 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **04:12 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Xbox CEO owners of Blizzard said WoW forever set records.](https://www.reddit.com/r/wowforever/comments/1xi8xpe/xbox_ceo_owners_of_blizzard_said_wow_forever_set/) — Game isn't even out yet, it's behind a paid $60 beta, and set records.... submitted by /u/Anilahation [link] [comments]
 - **03:32 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [More Racial Identity](https://www.reddit.com/r/wowforever/comments/1xi84ug/more_racial_identity/) — With all the discussion of racials I think it would be fun to have cosmetic only racial options based on race class combinations. It helps bring more identity to each race and how those classes differ through cultures and fit into their own societies. I also think they should be toggled for pvp…
 - **03:10 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Casually Classic: WoW Forever only gives you one chance to explore it fresh — so make it count](https://www.reddit.com/r/wowforever/comments/1xi7olt/casually_classic_wow_forever_only_gives_you_one/) — submitted by /u/Syppi [link] [comments]
-- **01:46 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [With launch now just a week away, share 2 tips, tricks, or general advice](https://www.reddit.com/r/wowforever/comments/1xi5ush/with_launch_now_just_a_week_away_share_2_tips/) — for new players or just some reminders. but really, for some new players it's me, im new. what am i even doing submitted by /u/playerIII [link] [comments]
-- **01:41 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Someone designed this in the Barrens, clocked out, and got paid.](https://www.reddit.com/r/wowforever/comments/1xi5qys/someone_designed_this_in_the_barrens_clocked_out/) — Forget the Dark Portal. Forget Blackrock Mountain. This is Azeroth’s greatest landmark. Somewhere out there, a terrain designer has been waiting years for someone to appreciate their work. submitted by /u/Rektzyqq [link] [comments]
-- **01:29 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [LAS ACTUALIZACIONES DE WOW FOREVER SERÁN CADA CUATRO MESES](https://www.youtube.com/watch?v=HhrvGOGYSQg) — Blizzard ha hablado recientemente del futuro de WoW Forever y sus actualizaciones a través de una entrevista. https://altertime.es/article/las-grandes-actualizaciones-de-wo-w-forever-se-desarrollaran-cada-cuatro-meses Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial:…
 
 ## Fuentes que han fallado esta vez
 
 - World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
-- Wowhead (YouTube): HTTP Error 404: Not Found
+- Wowhead (YouTube): HTTP Error 500: Internal Server Error
+- MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
