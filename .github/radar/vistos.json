@@ -1,5 +1,41 @@
 [
  {
+  "url": "https://www.wowhead.com/news=383758/temporary-portals-replace-boats-and-zeppelins-due-to-bugs",
+  "titulo": "Temporary Portals Replace Boats and Zeppelins Due to Bugs",
+  "resumen": "Blizzard has announced that portals have temporarily replaced some boats and zeppelins due to bugs. Continue reading »",
+  "fecha": "2026-11-05T06:45:40+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://www.wowhead.com/news=383757/blizzard-aware-of-population-issues-in-certain-areas",
+  "titulo": "Blizzard Aware of Population Issues in Certain Areas",
+  "resumen": "Blizzard has announced that they are aware that certain areas are not feeling as populated as they should be and will be working on a fix tomorrow. Continue reading »",
+  "fecha": "2026-11-05T06:41:36+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://us.forums.blizzard.com/en/wow/t/zeppelins-broken/2401777/15",
+  "titulo": "Zeppelins broken?",
+  "resumen": "Hi There, We are aware of some issues with transports such as boats and zeppelins becoming lost in the maelstrom for extended periods of time. As a temporary fix, we’ve spawned portals near most transport docks or inside of the zeppelin towers to help you move between continents if your boat gets …",
+  "fecha": "2026-11-05T06:39:29.532000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
+  "url": "https://us.forums.blizzard.com/en/wow/t/why-do-i-see-maybe-8-people-inside-the-main-city/2401806/27",
+  "titulo": "Why do I see maybe 8 people inside the main city?",
+  "resumen": "Hi There, Just wanted to chime in and say that we are aware of some issues with certain areas not feeling as populated as they should. We will be tweaking some numbers tomorrow to help things feel a bit more lively. Thanks for the feedback on this one!",
+  "fecha": "2026-11-05T06:35:55.371000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
   "url": "https://us.forums.blizzard.com/en/wow/t/issues-resolved-for-invite-a-friend-players/2401646/1",
   "titulo": "Issues Resolved for Invite-a-Friend Players",
   "resumen": "With a hotfix that is now live, we’ve fixed an issue where players who joined WoW Forever by using an Invite-a-Friend Code were unexpectedly restricted from using certain chat channels, leveling past 10, participating in guilds, forming parties, or trading items with other players. If you experienc…",
@@ -3181,15 +3217,6 @@
   "titulo": "Devs, you want to give us horizontal classes? Add 4th specs instead of new classes!",
   "resumen": "In my opinion a new class wouldn’t fit the initial plan of keeping Classic vibes intact, to give a more Horizontal approach (we really like this term apparently), similarly to SoD, every class should receive 4th specs, here are my suggestions: Warrior — Axe Thrower (Ranged DPS) Paladin — Purifier…",
   "fecha": "2026-10-29T07:33:00+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xicgw6/cant_decide_between_orc_and_undead_for_my_warrior/",
-  "titulo": "Can’t decide between Orc and Undead for my Warrior",
-  "resumen": "I’ll mostly be playing battlegrounds, but I really like how both of these look. Can’t seem to make up my mind lol. Which one would you pick? submitted by /u/DORO0202 [link] [comments]",
-  "fecha": "2026-10-29T06:32:30+00:00",
   "fuente": "Reddit r/wowforever (lo más votado del día)",
   "idioma": "en",
   "fiabilidad": "comunidad"
