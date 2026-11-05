@@ -1,5 +1,14 @@
 [
  {
+  "url": "https://www.wowhead.com/news=383771/blizzard-investigating-issues-with-certain-escort-quests-in-wow-forever",
+  "titulo": "Blizzard Investigating Issues with Certain Escort Quests in WoW: Forever",
+  "resumen": "Blizzard is investigating issues with certain quests in WoW: Forever. Continue reading »",
+  "fecha": "2026-11-05T20:23:47+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
   "url": "https://www.youtube.com/shorts/Ofjwmgsual8",
   "titulo": "Rulesets mean a quicker route to finding people who like to play WoW: Forever the way you do 🤝",
   "resumen": "Watch the full Rulesets breakdown on our YouTube channel!",
@@ -25,6 +34,24 @@
   "fuente": "Kodda (lore)",
   "idioma": "es",
   "fiabilidad": "creador"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xoqa40/when_i_visit_the_class_trainer/",
+  "titulo": "When I visit the class trainer",
+  "resumen": "submitted by /u/lordbeef [link] [comments]",
+  "fecha": "2026-11-05T18:28:46+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xopv4s/me_at_work_today/",
+  "titulo": "Me at work today",
+  "resumen": "submitted by /u/Scism9 [link] [comments]",
+  "fecha": "2026-11-05T18:13:01+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
  },
  {
   "url": "https://www.youtube.com/watch?v=7ZmA4Jy6ixU",
@@ -3292,41 +3319,5 @@
   "fuente": "Blizzard (mensajes del equipo)",
   "idioma": "en",
   "fiabilidad": "oficial"
- },
- {
-  "url": "https://altertime.es/article/guia-de-iniciacion-para-nuevos-jugadores-te-damos-la-bienvenida-a-world-of-warcraft-forever",
-  "titulo": "Guía de iniciación para nuevos jugadores: te damos la bienvenida a World of Warcraft: Forever",
-  "resumen": "World of Warcraft: Forever invita a los jugadores a una Azeroth original reimaginada, donde la exploración, la comunidad y la propia aventura son las protagonistas. Empieza en el nivel uno, crea un personaje a tu medida y aprende lo esencial para hacerte un hueco en un mundo diseñado para seguir…",
-  "fecha": "2026-10-29T20:34:02+00:00",
-  "fuente": "AlterTime (web)",
-  "idioma": "es",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xiv4z2/helphog_the_voidwalker_ill_miss_you_on_nov_4th/",
-  "titulo": "Helphog the Voidwalker. I'll miss you on Nov. 4th!",
-  "resumen": "submitted by /u/EchoForSteve [link] [comments]",
-  "fecha": "2026-10-29T20:24:10+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xiuyvn/when_a_tauren_hits_level_40_they_should_gain_a/",
-  "titulo": "when a Tauren hits level 40, they should gain a racial like Running Wild from Worgens",
-  "resumen": "They should also /moo when they mount, lmao submitted by /u/underground_chapel [link] [comments]",
-  "fecha": "2026-10-29T20:17:55+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xiuhhk/the_main_thing_i_understood_from_blizzcon/",
-  "titulo": "The main thing I understood from Blizzcon",
-  "resumen": "submitted by /u/tmk_lmsd [link] [comments]",
-  "fecha": "2026-10-29T20:00:26+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
  }
 ]
