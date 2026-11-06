@@ -1,20 +1,24 @@
-# Radar de WoW Forever · actualizado el 06-11-2026 03:11 (hora de España)
+# Radar de WoW Forever · actualizado el 06-11-2026 04:53 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 06-11-2026
 
+- **03:36 · Wowhead (noticias de Forever)** (en, Web especializada): [Various NPC Fixes and Deathstalker Erland Spawn Rate - WoW: Forever Hotfixes](https://www.wowhead.com/news=383778/wow-forever-hotfixes-november-5-2026-world-of-warcraft-blizzard-news) — The first set of hotfixes are out for WoW: Forever, which fixes issues with various NPCs and spawns Deathstalker Erland faster for his quest! Continue reading »
+- **03:34 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [WoW: Forever Hotfixes - November 5, 2026](https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-5-2026/2403040/1) — Hotfixes November 5, 2026 Enemies and NPCs Durotar - Fixed an issue where Yarrog Baneshadow was respawning more slowly than intended. Zephras - Lotheluum Starbreeze now offers training to Druids as expected. Dustwallow Marsh - Fixed an issue where some murlocs in Dustwallow Marsh were respawning…
 - **00:29 · Wowhead (noticias de Forever)** (en, Web especializada): [Minimum Deposit of 1 Silver Required to List Items on Auction House in WoW: Forever](https://www.wowhead.com/news=383774/minimum-deposit-of-1-silver-required-to-list-items-at-auction-house-in-wow) — In WoW: Forever, listing an item on the Auction House always incurs a deposit of at least 1 silver. Continue reading »
 - **00:04 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [LA SOLUCIÓN AL GRAN PROBLEMA DE ENCONTRAR JUGADORES PARA MAZMORRAS EN WOW FOREVER](https://www.youtube.com/watch?v=QjNBXUVxV0o) — Conoce un método bastante bueno para que sin cambiar el idioma peudas conseguir encontrar grupo en WoW Forever. Addon: https://www.curseforge.com/wow/addons/lfg-forever Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego…
 
 ## 05-11-2026
 
 - **23:51 · World of Warcraft (YouTube oficial)** (en, Oficial de Blizzard): [Some friendships are forged through corpse runs 🏃](https://www.youtube.com/shorts/DhNUxefQOMg) — Watch the latest Epic NPC Man in WoW: Forever, live on the @VivaLaDirtLeague channel!
+- **23:47 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Optimal start baby](https://www.reddit.com/r/wowforever/comments/1xowqux/optimal_start_baby/) — submitted by /u/bumblewacky [link] [comments]
 - **23:00 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [WoW: Forever– Watch Forging Forever](https://us.forums.blizzard.com/en/wow/t/wow-forever%E2%80%93-watch-forging-forever/2402802/1) — [WoW: Forever– Watch Forging Forever] Witness the creation of World of Warcraft: Forever's first legendary: Taldramir, the Whispering Wood. View Full Article
 - **23:00 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [WoW: Forever– Watch Forging Forever](https://us.forums.blizzard.com/en/wow/t/wow-forever%E2%80%93-watch-forging-forever/2402801/1) — [WoW: Forever– Watch Forging Forever] Witness the creation of World of Warcraft: Forever's first legendary: Taldramir, the Whispering Wood. View Full Article
 - **22:59 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [The guys who are at level 40 and haven't slept since the game came out](https://www.reddit.com/r/wowforever/comments/1xovmf6/the_guys_who_are_at_level_40_and_havent_slept/) — submitted by /u/Ridged_ChiPSS [link] [comments]
 - **21:52 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [First census numbers suggest over 2 million concurrent forever players on launch across US + EU](https://www.reddit.com/r/wowforever/comments/1xotya5/first_census_numbers_suggest_over_2_million/) — submitted by /u/Calm_Connection_9127 [link] [comments]
+- **21:51 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [RPPvP is peak WoW, thank you Blizzard!](https://www.reddit.com/r/wowforever/comments/1xotxtf/rppvp_is_peak_wow_thank_you_blizzard/) — submitted by /u/NCRandProud [link] [comments]
 - **21:23 · Wowhead (noticias de Forever)** (en, Web especializada): [Blizzard Investigating Issues with Certain Escort Quests in WoW: Forever](https://www.wowhead.com/news=383771/blizzard-investigating-issues-with-certain-escort-quests-in-wow-forever) — Blizzard is investigating issues with certain quests in WoW: Forever. Continue reading »
 - **21:00 · AlterTime (web)** (es, Web especializada): [Marca a los enemigos que forman parte de una misión en WoW Forever gracias al addon Forever Quest Mark](https://altertime.es/article/marca-a-los-enemigos-que-forman-parte-de-una-mision-en-wo-w-forever-gracias-al-addon-forever-quest-mark) — ¡Un addon muy útil!
 - **20:49 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [We have never been more back](https://www.reddit.com/r/wowforever/comments/1xosdcj/we_have_never_been_more_back/) — submitted by /u/Berbinho [link] [comments]
@@ -51,6 +55,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **11:10 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Pouch of Violet Dust Toy - Increases Camp Benefits by 1 Hour](https://www.reddit.com/r/wowforever/comments/1xof07z/pouch_of_violet_dust_toy_increases_camp_benefits/) — Trying to give some visibility to this since I already seen several people in game with no idea this promotion is running on Twitch. It's as simple as just setting up your account and putting a stream on background for 4 Hours, and then claim the prize. Full guide on the how to here…
 - **11:00 · AlterTime (web)** (es, Web especializada): [Como conseguir la mascota Cieno excitable en WoW Forever](https://altertime.es/article/como-conseguir-la-mascota-cieno-excitable-en-wo-w-forever) — ¡Te contamos como conseguirla!
 - **10:47 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Ruins of Lordaeron quests have pre-reqs now](https://www.reddit.com/r/wowforever/comments/1xoensz/ruins_of_lordaeron_quests_have_prereqs_now/) — In order to pick up the "The New Plague" quest for Ruins of Lordaeron, you HAVE to pick up and finish the entire "A Recipe for Death" quest chain starting in the sepulcher. https://www.wowhead.com/forever/quest=447/a-recipe-for-death In order to pick up "The Wrath of Rath'mael" you have to complete…
+- **10:33 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Voidwalker feels absolutely awful after the warlock pet scaling change](https://www.reddit.com/r/wowforever/comments/1xoeg5l/voidwalker_feels_absolutely_awful_after_the/) — After the pet scaling change was announced I was in full copium mode that maybe Blizz had buffed base pet hp to accommodate for the reduced scaling but that certainly isn't the case. Unlocked the VW last night and it is close to useless in its current state. This thing is meant to be a tank, but at…
 - **10:00 · Jokerd** (en, Creador de contenido): [WOW FOREVER IS HERE | Race To World First 60 Part 1](https://www.youtube.com/watch?v=qDoU2UEshD8) — 💜Twitch https://www.twitch.tv/jokerdtv 💙Twitter https://twitter.com/Jokereed 🧡Instagram https://www.instagram.com/jokerdttv/ 🖤Discord https://discordapp.com/invite/jokerdtv Subscribe for more WoW Classic TBC-WotLK Highlights:…
 - **07:52 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [From Aggrend - About the Layers](https://www.reddit.com/r/wowforever/comments/1xoc0ez/from_aggrend_about_the_layers/) — https://preview.redd.it/uhpl2l6brqzh1.png?width=942&format=png&auto=webp&s=0f02aaa278b81c4066e7e7d12a725d597aaf5b10 submitted by /u/bottledsoi [link] [comments]
 - **07:45 · Wowhead (noticias de Forever)** (en, Web especializada): [Temporary Portals Replace Boats and Zeppelins Due to Bugs](https://www.wowhead.com/news=383758/temporary-portals-replace-boats-and-zeppelins-due-to-bugs) — Blizzard has announced that portals have temporarily replaced some boats and zeppelins due to bugs. Continue reading »
@@ -402,8 +407,9 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 ## Fuentes que han fallado esta vez
 
 - World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
-- Wowhead (YouTube): HTTP Error 404: Not Found
+- Wowhead (YouTube): HTTP Error 500: Internal Server Error
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
+- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
 - Kodda (lore): HTTP Error 404: Not Found
