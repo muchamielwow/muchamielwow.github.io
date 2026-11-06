@@ -1,10 +1,11 @@
-# Radar de WoW Forever · actualizado el 06-11-2026 08:12 (hora de España)
+# Radar de WoW Forever · actualizado el 06-11-2026 09:56 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 06-11-2026
 
+- **05:06 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [First Lordaeron run and got all of Rootmender’s gear!!!](https://www.reddit.com/r/wowforever/comments/1xp3d6y/first_lordaeron_run_and_got_all_of_rootmenders/) — submitted by /u/Baenardo [link] [comments]
 - **04:58 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [When people say they want the world to feel alive in WoW Forever this is what they are talking about…](https://www.reddit.com/r/wowforever/comments/1xp3817/when_people_say_they_want_the_world_to_feel_alive/) — For clarity’s sake, this clip was from early this evening on WoW:Forever submitted by /u/itsxjustagame [link] [comments]
 - **03:36 · Wowhead (noticias de Forever)** (en, Web especializada): [Various NPC Fixes and Deathstalker Erland Spawn Rate - WoW: Forever Hotfixes](https://www.wowhead.com/news=383778/wow-forever-hotfixes-november-5-2026-world-of-warcraft-blizzard-news) — The first set of hotfixes are out for WoW: Forever, which fixes issues with various NPCs and spawns Deathstalker Erland faster for his quest! Continue reading »
 - **03:34 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [WoW: Forever Hotfixes - November 5, 2026](https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-5-2026/2403040/1) — Hotfixes November 5, 2026 Enemies and NPCs Durotar - Fixed an issue where Yarrog Baneshadow was respawning more slowly than intended. Zephras - Lotheluum Starbreeze now offers training to Druids as expected. Dustwallow Marsh - Fixed an issue where some murlocs in Dustwallow Marsh were respawning…
@@ -404,13 +405,3 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **13:08 · AlterTime (web)** (es, Web especializada): [Blizzard habla sobre el comienzo del desarrollo de Forever y el futuro del juego](https://altertime.es/article/blizzard-habla-sobre-el-comienzo-del-desarrollo-de-forever-y-el-futuro-del-juego) — ¡No te pierdas nada!
 - **13:00 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [One note I'd like to leave for Tauren plainsrunning, at top speed they should switch to the Sprint animation.](https://www.reddit.com/r/wowforever/comments/1xjdf6h/one_note_id_like_to_leave_for_tauren/) — submitted by /u/Specific_Frame8537 [link] [comments]
 - **11:49 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I gave up. I’m going PVP](https://www.reddit.com/r/wowforever/comments/1xjc2fh/i_gave_up_im_going_pvp/) — I was torn apart about where should I go PVE or PVP? But today I finally decided after I saw a comment from someone here on Reddit. "If you're not sure if you want to go PvE or PvP, you should go PvP" And this quote really made me choose PVP not because I'm trying to romanticize the past But…
-
-## Fuentes que han fallado esta vez
-
-- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
-- Wowhead (YouTube): HTTP Error 404: Not Found
-- MrGM: HTTP Error 404: Not Found
-- Quissy: HTTP Error 404: Not Found
-- Jokerd: HTTP Error 404: Not Found
-- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
-- Kodda (lore): HTTP Error 404: Not Found
