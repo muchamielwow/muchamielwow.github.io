@@ -2,6 +2,15 @@
  "fuente": "https://us.forums.blizzard.com/en/wow/groups/blizzard-tracker/posts",
  "avisos": [
   {
+   "id": 2403040,
+   "titulo": "WoW: Forever Hotfixes - November 5, 2026",
+   "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-5-2026/2403040",
+   "autor": "Kaivax",
+   "fecha": "2026-11-06T02:34:10.279Z",
+   "resumen": "Hotfixes November 5, 2026 Enemies and NPCs Durotar - Fixed an issue where Yarrog Baneshadow was respawning more slowly than intended. Zephras - Lotheluum Starbreeze now offers training to Druids as expected. Dustwallow…",
+   "foro": "Noticias"
+  },
+  {
    "id": 2402802,
    "titulo": "WoW: Forever– Watch Forging Forever",
    "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever%E2%80%93-watch-forging-forever/2402802",
@@ -99,15 +108,6 @@
    "fecha": "2026-10-29T19:02:50.481Z",
    "resumen": "[Return to Azeroth in World of Warcraft: Forever] Welcome back to Azeroth. Whether it has been a few years, or many— familiar roads, old friends, and new adventures are waiting for you in World of Warcraft: Forever. To…",
    "foro": "Noticias"
-  },
-  {
-   "id": 2395799,
-   "titulo": "The WoW: Forever Podcast: Episode 6 - All About Tech ft. ‪@Shobek",
-   "url": "https://us.forums.blizzard.com/en/wow/t/the-wow-forever-podcast-episode-6-all-about-tech-ft-%E2%80%AAshobek/2395799",
-   "autor": "Kaivax",
-   "fecha": "2026-10-29T16:17:57.194Z",
-   "resumen": "[All About Tech ft. @Shobek | Episode 6 - The WoW: Forever Podcast]",
-   "foro": "Forever"
   }
  ]
 }
