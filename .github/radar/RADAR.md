@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 06-11-2026 04:53 (hora de España)
+# Radar de WoW Forever · actualizado el 06-11-2026 05:57 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -401,13 +401,11 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **11:49 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I gave up. I’m going PVP](https://www.reddit.com/r/wowforever/comments/1xjc2fh/i_gave_up_im_going_pvp/) — I was torn apart about where should I go PVE or PVP? But today I finally decided after I saw a comment from someone here on Reddit. "If you're not sure if you want to go PvE or PvP, you should go PvP" And this quote really made me choose PVP not because I'm trying to romanticize the past But…
 - **07:35 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [What could blizzard add to YOUR wow forever main that won’t really affect class but would be a fun feature.](https://www.reddit.com/r/wowforever/comments/1xj81gm/what_could_blizzard_add_to_your_wow_forever_main/) — I play a shaman, the one cool little feature I think could be added is giving the ability for fire totems to work as camp fires, only in terms of being able to cook while fire totems is up. What are similar little features you think could be added to your class? submitted by /u/Few-Firefighter-2406…
 - **06:11 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Give Eastern Kingdoms and Kalimdor Opposite Day/Night Cycles](https://www.reddit.com/r/wowforever/comments/1xj6ouu/give_eastern_kingdoms_and_kalimdor_opposite/) — With Blizzard asking whether OCE layers should have their own day/night cycle based on local time, I'd like to propose an alternative: give Eastern Kingdoms and Kalimdor their own time zones, 12 hours apart. When it's daytime in Eastern Kingdoms, it's nighttime in Kalimdor, and vice versa. This…
-- **05:42 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Getting rid of Multiple Version](https://www.reddit.com/r/wowforever/comments/1xj66ot/getting_rid_of_multiple_version/) — Per the screenshot, When I go to play WoW, under versions for some reason it has multiple US versions. I can not figure out how to get rid of the other versions. Anyone know? submitted by /u/sanemaniak [link] [comments]
-- **05:01 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Putting this here for when the non-Tauren start buying mounts.](https://www.reddit.com/r/wowforever/comments/1xj5fhl/putting_this_here_for_when_the_nontauren_start/) — submitted by /u/Sec_Chief_Ingersol [link] [comments]
 
 ## Fuentes que han fallado esta vez
 
 - World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
-- Wowhead (YouTube): HTTP Error 500: Internal Server Error
+- Wowhead (YouTube): HTTP Error 404: Not Found
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
