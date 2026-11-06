@@ -2,6 +2,15 @@
  "fuente": "https://us.forums.blizzard.com/en/wow/groups/blizzard-tracker/posts",
  "avisos": [
   {
+   "id": 2404092,
+   "titulo": "Class Tuning Incoming - November 10",
+   "url": "https://us.forums.blizzard.com/en/wow/t/class-tuning-incoming-november-10/2404092",
+   "autor": "Kaivax",
+   "fecha": "2026-11-06T21:11:39.116Z",
+   "resumen": "Now that players around the world are leveling up in WoW: Forever, we’ve identified a few class issues that we feel need some immediate changes. Today, we’re still investigating these issues and working through them…",
+   "foro": "Forever"
+  },
+  {
    "id": 2403854,
    "titulo": "The Adventure Begins in WoW: Forever, Stay Connected with Discord, and Taldramir Takes Shape in WoW…",
    "url": "https://us.forums.blizzard.com/en/wow/t/the-adventure-begins-in-wow-forever-stay-connected-with-discord-and-taldramir-takes-shape-in-wow%E2%80%A6/2403854",
@@ -98,15 +107,6 @@
    "autor": "BlizzardEntertainment",
    "fecha": "2026-11-03T18:00:10.220Z",
    "resumen": "[WoW: Forever—What’s New and What Feels Familiar] World of Warcraft: Forever has something for explorers, dungeon groups, collectors, roleplayers, and PvP fans alike. See how its interface conveniences, class updates,…",
-   "foro": "Forever"
-  },
-  {
-   "id": 2396008,
-   "titulo": "World of Warcraft: Forever Now Live!",
-   "url": "https://us.forums.blizzard.com/en/wow/t/world-of-warcraft-forever-now-live/2396008",
-   "autor": "BlizzardEntertainment",
-   "fecha": "2026-10-29T21:00:50.143Z",
-   "resumen": "[World of Warcraft: Forever Now Live!] Begin your first adventure or return to a new and reimagined Azeroth in World of Warcraft: Forever, now live worldwide. Adventure to level 60 across the original continents,…",
    "foro": "Forever"
   }
  ]
