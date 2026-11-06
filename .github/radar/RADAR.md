@@ -1,10 +1,11 @@
-# Radar de WoW Forever · actualizado el 06-11-2026 09:56 (hora de España)
+# Radar de WoW Forever · actualizado el 06-11-2026 11:01 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 06-11-2026
 
+- **07:11 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [The number of people blatantly ignoring the naming conventions, especially on the RP-PvP ruleset, is a little disappointing.](https://www.reddit.com/r/wowforever/comments/1xp5la6/the_number_of_people_blatantly_ignoring_the/) — I'm not going to be that guy who reports everyone I see, but I can't help feeling a little disappointed seeing people join an RP ruleset and then name their characters things like "Ipoop whilestanding." Obviously, that's not an actual name I saw, but some of the names I came across tonight weren't…
 - **05:06 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [First Lordaeron run and got all of Rootmender’s gear!!!](https://www.reddit.com/r/wowforever/comments/1xp3d6y/first_lordaeron_run_and_got_all_of_rootmenders/) — submitted by /u/Baenardo [link] [comments]
 - **04:58 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [When people say they want the world to feel alive in WoW Forever this is what they are talking about…](https://www.reddit.com/r/wowforever/comments/1xp3817/when_people_say_they_want_the_world_to_feel_alive/) — For clarity’s sake, this clip was from early this evening on WoW:Forever submitted by /u/itsxjustagame [link] [comments]
 - **03:36 · Wowhead (noticias de Forever)** (en, Web especializada): [Various NPC Fixes and Deathstalker Erland Spawn Rate - WoW: Forever Hotfixes](https://www.wowhead.com/news=383778/wow-forever-hotfixes-november-5-2026-world-of-warcraft-blizzard-news) — The first set of hotfixes are out for WoW: Forever, which fixes issues with various NPCs and spawns Deathstalker Erland faster for his quest! Continue reading »
