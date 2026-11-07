@@ -1,10 +1,11 @@
-# Radar de WoW Forever · actualizado el 07-11-2026 09:51 (hora de España)
+# Radar de WoW Forever · actualizado el 07-11-2026 10:46 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 07-11-2026
 
+- **06:15 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I feel more immersed in WoW than ever before.](https://www.reddit.com/r/wowforever/comments/1xpyaeu/i_feel_more_immersed_in_wow_than_ever_before/) — The weather is second to none for MMOs. The lightning flashing in Silverpine is the coziest. submitted by /u/Rendenbrandt [link] [comments]
 - **05:18 · Wowhead (noticias de Forever)** (en, Web especializada): [WoW: Forever Makes History with Biggest Launch Ever!](https://www.wowhead.com/news=383798/wow-forever-makes-history-with-biggest-launch-ever) — Blizzard has revealed that WoW: Forever has achieved a historic launch with the biggest launch ever! Continue reading »
 - **05:00 · Jokerd** (en, Creador de contenido): [World First 60 In WoW Forever IS SECURED](https://www.youtube.com/shorts/sfNvF1Nd1cQ) — 💜Twitch https://www.twitch.tv/jokerdtv 💙Twitter https://twitter.com/Jokereed 🧡Instagram https://www.instagram.com/jokerdttv/ 🖤Discord https://discordapp.com/invite/jokerdtv #wow #wowforever
 - **04:13 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [World First Level 60s in WoW: Forever in Less Than Three Days](https://www.reddit.com/r/wowforever/comments/1xpw1lb/world_first_level_60s_in_wow_forever_in_less_than/) — submitted by /u/orcofmordor [link] [comments]
