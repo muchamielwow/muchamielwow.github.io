@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 07-11-2026 02:56 (hora de España)
+# Radar de WoW Forever · actualizado el 07-11-2026 03:49 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -31,6 +31,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **17:06 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [It’s Friday, I’m completely new to WoW, the coffee is warm, the rain is falling! Happy gaming.](https://www.reddit.com/r/wowforever/comments/1xpgknv/its_friday_im_completely_new_to_wow_the_coffee_is/) — I’ve always wished I had experienced WoW Vanilla, and now I finally get that chance with a fresh new take on the game. Unfortunately, when WoW first came out, I was too busy playing Ragnarok Online and MapleStory, so I completely missed out on this legendary experience. Better late than never!…
 - **17:00 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [GUÍA COMPLETA SOBRE EQUITACIÓN EN WOW FOREVER](https://www.youtube.com/watch?v=fv3dpSvAVRc) — Conoce todos los detalles sobre la equitación en World of Warcraft Forever con todo lujo de detalles. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
 - **17:00 · Wowhead (noticias de Forever)** (en, Web especializada): [New Battle.net Icons for WoW: Forever](https://www.wowhead.com/news=383772/new-battle-net-icons-for-wow-forever) — New WoW: Forever icons have been added to Battle.net! Continue reading »
+- **16:59 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [The low level route for horde has changed drastically](https://www.reddit.com/r/wowforever/comments/1xpgdk4/the_low_level_route_for_horde_has_changed/) — I see posts of people complaining that they haven’t experienced enough change. Well I just wanna throw in my leveling experience this far. I’m playing undead and doing every tirisfal quest brought me to level 14. A run of RFC brought me to 16. Questing in Silverpine and a run of RoL brought me to…
 - **16:44 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [GM apparence in Thunder Bluff!](https://www.reddit.com/r/wowforever/comments/1xpg0ot/gm_apparence_in_thunder_bluff/) — Was just chilling today in Thunder Buff today doing some fishing. I turned to my left and there was a GM standing next to me, awesome to see them back in Forever! (My character is Bigmeaty) submitted by /u/Secure-Citron5402 [link] [comments]
 - **16:32 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Hunters are the new hero class.](https://www.reddit.com/r/wowforever/comments/1xpfpmd/hunters_are_the_new_hero_class/) — My hunter has been ripping through content. In the open world. I just confidently set my pet to aggressive and genocide a zone. Out of mana? just take a water break and just watch my pet satisfy his blood lust. Quest giver saying, "You might need a group for this.." Shut up nerd. I already got a…
 - **16:30 · Kodda (lore)** (es, Creador de contenido): [La VERDADERA historia de cómo empezó WARCRAFT](https://www.youtube.com/watch?v=2EQBodIVpcc) — Antes de que los orcos cruzaran el Portal Oscuro, antes incluso de que existiera Ventormenta, en el otro extremo del universo ya había empezado una guerra entre titanes. Así empezó de verdad la historia de World of Warcraft. Del Panteón de Aman'thul y la caída de Sargeras al Pozo de la Eternidad y…
@@ -417,14 +418,13 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **04:06 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Happy Forever Launch!](https://www.reddit.com/r/wowforever/comments/1xjzd58/happy_forever_launch/) — submitted by /u/MoteOfLust [link] [comments]
 - **03:59 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [So close now](https://www.reddit.com/r/wowforever/comments/1xjz8ek/so_close_now/) — submitted by /u/picklechips232 [link] [comments]
 - **03:50 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Skyborne eyes need to get fixed - options 4-9 are missing their luminosity entirely.](https://www.reddit.com/r/wowforever/comments/1xjz21k/skyborne_eyes_need_to_get_fixed_options_49_are/) — As you can see, the first 3 options glow in a dimly lit room. (The top row.) If you try any of the other colors, the last 6 options in a dim room, they look dull, dead, and blank. (The bottom two rows.) This needs to be fixed. Apologies for my terrible image editing, but people keep…
-- **03:24 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [2% difference is driving so much insanity in this sub.](https://www.reddit.com/r/wowforever/comments/1xjyk0m/2_difference_is_driving_so_much_insanity_in_this/) — Sims show it. 2%. Wtf is up with everyone lol chill out submitted by /u/Algae_Happy [link] [comments]
 
 ## Fuentes que han fallado esta vez
 
-- World of Warcraft (YouTube oficial): HTTP Error 500: Internal Server Error
+- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
 - Wowhead (YouTube): HTTP Error 404: Not Found
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
-- Kodda (lore): HTTP Error 404: Not Found
+- Kodda (lore): HTTP Error 500: Internal Server Error
