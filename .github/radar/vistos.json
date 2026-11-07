@@ -1,5 +1,14 @@
 [
  {
+  "url": "https://www.youtube.com/watch?v=aLgPVpuJf7M",
+  "titulo": "Por qué Kil'jaeden y Velen DEJARON de ser HERMANOS?",
+  "resumen": "Antes de los cuernos y las alas, Kil'jaeden gobernaba Argus junto a su mejor amigo, Velen. Luego se pasó trece mil años persiguiéndolo por las estrellas. La historia de Kil'jaeden en World of Warcraft, desde dentro. De la oferta de Sargeras en Argus a la huida de los draenei; de Thal'kiel y…",
+  "fecha": "2026-11-07T17:45:05+00:00",
+  "fuente": "Kodda (lore)",
+  "idioma": "es",
+  "fiabilidad": "creador"
+ },
+ {
   "url": "https://www.youtube.com/watch?v=t0a3GgZgz-o",
   "titulo": "WoW: Forever Journey EP.3 | Sweden (ft. Guzu, Valter Skarsgård & AnnieFuchsia)",
   "resumen": "The WoW: Forever Journey comes to an end in Sweden ♾️ Join Guzu, Valter Skarsgård and AnnieFuchsia as they take on a legendary castle, and face a Swedish delicacy that might be their greatest challenge yet! ► Latest WoW news: http://worldofwarcraft.com/news ► Subscribe to WoW:…",
@@ -76,6 +85,15 @@
   "titulo": "Please Blizzard, fix the dark for OCE asap.",
   "resumen": "I know it's been said before. But man, my 5pm onwards in Aus timeslot is really getting old running round in pitch black made darker by the new lighting effects. Switching up the brightness makes it look washed out and garbage. Make it 6h, 12h, 21h timeslots for cycles. Do something. It's killing…",
   "fecha": "2026-11-07T11:38:24+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xq37u6/how_do_we_level_tailoring_now/",
+  "titulo": "How do we level Tailoring now",
+  "resumen": "submitted by /u/Due-Listen2632 [link] [comments]",
+  "fecha": "2026-11-07T10:24:21+00:00",
   "fuente": "Reddit r/wowforever (lo más votado del día)",
   "idioma": "en",
   "fiabilidad": "comunidad"
@@ -3517,50 +3535,5 @@
   "fuente": "Reddit r/wowforever (lo más votado del día)",
   "idioma": "en",
   "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xkhvtp/i_never_would_have_expected_to_be_this_excited/",
-  "titulo": "I never would have expected to be this excited about a video game again at 35.",
-  "resumen": "Can't wait. Please Blizzard dont fuck up the start once in history of wow. I extra took time off work and family to play that stupid game. Thanks, thats all. Have good weekend! submitted by /u/gr4n_master1337 [link] [comments]",
-  "fecha": "2026-10-31T18:39:01+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xkh97m/balance_druid_capstone/",
-  "titulo": "Balance Druid Capstone.",
-  "resumen": "I personally think Moonkin form being a capstone is very underwhelming. I went 39 levels without needing it to be a spell caster, so it should be good right? 3% crit and 360% armor and 100% more proc rate on Omen of Clarity. I mean... Is that like, good enough to be a capstone? You get Cat form for…",
-  "fecha": "2026-10-31T18:14:07+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xkh6pr/protection_paladins_after_shieldsworn_was_added/",
-  "titulo": "Protection Paladins after Shieldsworn was added",
-  "resumen": "Source: @Ironlilyart on Twitter submitted by /u/Asthma_Queen [link] [comments]",
-  "fecha": "2026-10-31T18:11:21+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.wowhead.com/news=383657/could-the-wow-forever-podcast-be-teasing-a-secret-new-weapon",
-  "titulo": "Could the WoW: Forever Podcast be Teasing a Secret New Weapon?",
-  "resumen": "A mysterious message on the latest WoW: Forever podcast board has players decoding Darnassian and speculating about what Blizzard could be hinting at. Continue reading »",
-  "fecha": "2026-10-31T18:00:00+00:00",
-  "fuente": "Wowhead (noticias de Forever)",
-  "idioma": "en",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://www.wowhead.com/news=383574/repeatable-quest-experience-exploit-fixed-for-wow-forever-launch",
-  "titulo": "Repeatable Quest Experience Exploit Fixed for WoW: Forever Launch",
-  "resumen": "Players discovered a repeatable Alliance-only quest that continuously gave XP, but Blizzard has fixed the quest for Forever's launch - don't plan to level with it! Continue reading »",
-  "fecha": "2026-10-31T18:00:00+00:00",
-  "fuente": "Wowhead (noticias de Forever)",
-  "idioma": "en",
-  "fiabilidad": "web"
  }
 ]
