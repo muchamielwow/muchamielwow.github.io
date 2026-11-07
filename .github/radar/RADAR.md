@@ -1,14 +1,16 @@
-# Radar de WoW Forever · actualizado el 07-11-2026 23:38 (hora de España)
+# Radar de WoW Forever · actualizado el 08-11-2026 00:36 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 07-11-2026
 
+- **22:56 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Quests Give No Gold at Level 60 in WoW: Forever - "Intentional Change" According to Jokerd](https://www.reddit.com/r/wowforever/comments/1xqi0ty/quests_give_no_gold_at_level_60_in_wow_forever/) — submitted by /u/Heliosgodofthesun [link] [comments]
 - **21:44 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Plains sprinting past ya](https://www.reddit.com/r/wowforever/comments/1xqgg5n/plains_sprinting_past_ya/) — submitted by /u/GuardianMisfit [link] [comments]
 - **21:19 · Wowhead (noticias de Forever)** (en, Web especializada): [Quests Give No Gold at Level 60 in WoW: Forever - "Intentional Change" According to Jokerd](https://www.wowhead.com/news=383803/quests-give-no-gold-at-level-60-in-wow-forever-intentional-change-according-to) — Quests at level 60 give no gold and according to Jokerd, this is an intentional change. Continue reading »
 - **21:00 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [LOS MAESTROS DE JUEGO SE APARECEN A LOS JUGADORES DE WOW FOREVER](https://www.youtube.com/shorts/88Sr5hRWneI) — Conoce una de las curiosidades sobre los Maestros de Juego de World of Warcraft en Forever. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas: https://instant-gaming.com/es/?igr=altertime…
 - **20:00 · Wowhead (noticias de Forever)** (en, Web especializada): [GMs Appeared In-Person to Celebrate the Launch of WoW: Forever](https://www.wowhead.com/news=383796/gms-appeared-in-person-to-celebrate-the-launch-of-wow-forever) — For the first time in years, players have seen GM characters in-game - many appeared to celebrate the launch of WoW: Forever! Continue reading »
+- **19:13 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Blizzard are cowards until the original Female Troll model is added to Forever](https://www.reddit.com/r/wowforever/comments/1xqcxid/blizzard_are_cowards_until_the_original_female/) — submitted by /u/deloaf [link] [comments]
 - **19:03 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Yeah, actually it was your fault](https://www.reddit.com/r/wowforever/comments/1xqcozm/yeah_actually_it_was_your_fault/) — Im seeing a lot of people trying to be racist and act like it's cool. Instead we are the ones laughing at you! submitted by /u/ubergeneral_4 [link] [comments]
 - **18:45 · Kodda (lore)** (es, Creador de contenido): [Por qué Kil'jaeden y Velen DEJARON de ser HERMANOS?](https://www.youtube.com/watch?v=aLgPVpuJf7M) — Antes de los cuernos y las alas, Kil'jaeden gobernaba Argus junto a su mejor amigo, Velen. Luego se pasó trece mil años persiguiéndolo por las estrellas. La historia de Kil'jaeden en World of Warcraft, desde dentro. De la oferta de Sargeras en Argus a la huida de los draenei; de Thal'kiel y…
 - **17:52 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Me in about 15 levels](https://www.reddit.com/r/wowforever/comments/1xqb095/me_in_about_15_levels/) — submitted by /u/TheDiffer23 [link] [comments]
@@ -418,4 +420,12 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **03:31 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Halloween house](https://www.reddit.com/r/wowforever/comments/1xkrz0r/halloween_house/) — Family did a wow classic house 20 years ago, used some of the same stuff, and made some more to celebrate forever! Had more than a few, FOR THE HORDES from the trick-or-treating parents! submitted by /u/Svedyana [link] [comments]
 - **01:44 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Zones I Would've Wanted to See in WoW: Forever that Haven't Been Mentioned](https://www.reddit.com/r/wowforever/comments/1xkpz4c/zones_i_wouldve_wanted_to_see_in_wow_forever_that/) — After seeing everything that has been mentioned/new in WoW: Forever, this is a 'wish-list' of things that I have yet to see mentioned that I would love to see in Forever. The Troll islands as a starting zone (Echo Isles and Darkspear Isle) Gnomes in a different starting zone than Dwarves Eversong…
 - **00:59 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I am so sick of these blue elves! They ruin the game!](https://www.reddit.com/r/wowforever/comments/1xkp1uk/i_am_so_sick_of_these_blue_elves_they_ruin_the/) — submitted by /u/CampoDango [link] [comments]
-- **00:30 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [4 more days!!!](https://www.reddit.com/r/wowforever/comments/1xkogy0/4_more_days/) — My unartistic ass is definitely running out of ideas lmao submitted by /u/Pocketpapaa [link] [comments]
+
+## Fuentes que han fallado esta vez
+
+- Wowhead (YouTube): HTTP Error 404: Not Found
+- MrGM: HTTP Error 404: Not Found
+- Quissy: HTTP Error 404: Not Found
+- Jokerd: HTTP Error 404: Not Found
+- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
+- Kodda (lore): HTTP Error 404: Not Found
