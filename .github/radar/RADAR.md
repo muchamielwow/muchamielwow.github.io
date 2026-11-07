@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 07-11-2026 10:46 (hora de España)
+# Radar de WoW Forever · actualizado el 07-11-2026 11:41 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -422,6 +422,3 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **13:14 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [WoW Forever launches November 4th. Real life has been cancelled.](https://www.reddit.com/r/wowforever/comments/1xk8o0g/wow_forever_launches_november_4th_real_life_has/) — submitted by /u/Rektzyqq [link] [comments]
 - **13:00 · AlterTime (web)** (es, Web especializada): [Las mejoras al grupo de las clases de WoW Forever ahora se aplican a toda la banda](https://altertime.es/article/las-mejoras-al-grupo-de-las-clases-de-wo-w-forever-ahora-se-aplican-a-toda-la-banda) — ¡Un cambio de lo mas útil!
 - **12:29 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [The button looms over us...](https://www.reddit.com/r/wowforever/comments/1xk7tww/the_button_looms_over_us/) — submitted by /u/grudgeSC [link] [comments]
-- **11:07 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Praise Ravenholdt](https://www.reddit.com/r/wowforever/comments/1xk6e8h/praise_ravenholdt/) — submitted by /u/risu1313 [link] [comments]
-- **11:00 · AlterTime (web)** (es, Web especializada): [Consigue Orbes de Discord al completar la misión de World of Warcraft Forever](https://altertime.es/article/consigue-orbes-de-discord-al-completar-la-mision-de-world-of-warcraft-forever) — ¡Atentos a esto!
-- **10:54 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [One thing I dislike about retail is the mount bloat. I'd take fewer mounts with longer grinds than lots of recolored mounts with shorter grinds.](https://www.reddit.com/r/wowforever/comments/1xk66gw/one_thing_i_dislike_about_retail_is_the_mount/) — submitted by /u/bobostinky [link] [comments]
