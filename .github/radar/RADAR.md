@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 07-11-2026 06:47 (hora de España)
+# Radar de WoW Forever · actualizado el 07-11-2026 07:54 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -12,6 +12,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **03:04 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Is the 1 ring any good?](https://www.reddit.com/r/wowforever/comments/1xpupad/is_the_1_ring_any_good/) — I found this while fishing. I was going to wear it but it has a cool name and I haven’t found amour in the water before. I was wondering if I should save it for the public market or wear it. Sorry if it’s a stupid question, I’m new to this game. submitted by /u/Lionesslynnea [link] [comments]
 - **02:07 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [WoW: Forever Hotfixes - November 6, 2026](https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-6-2026/2403040/4) — November 6, 2026 Classes Fixed an issue with the Quick and the Dead Legacy Talent where it sometimes did not work as intended. Cooldown Manager The Cooldown Manager will now correctly display the duration of crowd control spells at all times, even when diminishing returns or mechanic reductions…
 - **02:07 · Wowhead (noticias de Forever)** (en, Web especializada): [Many Class, Dungeon and Quest Fixes - WoW: Forever Hotfixes for November 6th](https://www.wowhead.com/news=383794/many-class-dungeon-and-quest-fixes-wow-forever-hotfixes-for-november-6th) — Blizzard has posted WoW: Forever hotfixes for today, which includes a lot of class, dungeon, and questing fixes! Continue reading »
+- **01:24 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [There's a GM in RP Stormwind.](https://www.reddit.com/r/wowforever/comments/1xpso1k/theres_a_gm_in_rp_stormwind/) — I'll be so honest, I thought he was hacking until I saw the Blizz/GM tags, lmao. submitted by /u/baroqueout [link] [comments]
 
 ## 06-11-2026
 
@@ -418,12 +419,11 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **10:54 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [One thing I dislike about retail is the mount bloat. I'd take fewer mounts with longer grinds than lots of recolored mounts with shorter grinds.](https://www.reddit.com/r/wowforever/comments/1xk66gw/one_thing_i_dislike_about_retail_is_the_mount/) — submitted by /u/bobostinky [link] [comments]
 - **09:23 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [A love letter to Gamer Dads, from a Gamer Mum](https://www.reddit.com/r/wowforever/comments/1xk4ra3/a_love_letter_to_gamer_dads_from_a_gamer_mum/) — Hello all you Dads out there! Can I tell you a little story, from a gamer mum? And an even bigger hello to all you gamer mums/moms, and gamer girls in general! We are here my sisters, we exist! You see, there’s been a lot of focus on dads lately. A lot of you were young when you first played WoW,…
 - **08:25 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [My WoW Forever dilemma..](https://www.reddit.com/r/wowforever/comments/1xk3uuv/my_wow_forever_dilemma/) — submitted by /u/Rektzyqq [link] [comments]
-- **07:51 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Its hotfix dayyy](https://www.reddit.com/r/wowforever/comments/1xk3ao3/its_hotfix_dayyy/) — submitted by /u/RevolutionLow8118 [link] [comments]
 
 ## Fuentes que han fallado esta vez
 
 - World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
-- Wowhead (YouTube): HTTP Error 404: Not Found
+- Wowhead (YouTube): HTTP Error 500: Internal Server Error
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
