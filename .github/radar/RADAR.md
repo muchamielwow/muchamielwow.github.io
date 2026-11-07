@@ -1,11 +1,13 @@
-# Radar de WoW Forever · actualizado el 07-11-2026 04:49 (hora de España)
+# Radar de WoW Forever · actualizado el 07-11-2026 05:51 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 07-11-2026
 
+- **05:18 · Wowhead (noticias de Forever)** (en, Web especializada): [WoW: Forever Makes History with Biggest Launch Ever!](https://www.wowhead.com/news=383798/wow-forever-makes-history-with-biggest-launch-ever) — Blizzard has revealed that WoW: Forever has achieved a historic launch with the biggest launch ever! Continue reading »
 - **04:11 · Wowhead (noticias de Forever)** (en, Web especializada): [World First Level 60s in WoW: Forever in Less Than Three Days](https://www.wowhead.com/news=383797/world-first-level-60s-in-wow-forever-in-less-than-three-days) — The World First level 60 has been claimed in WoW: Forever. Congratulations! Continue reading »
+- **03:43 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [WoW: Forever has achieved the biggest launch in WoW history by peak concurrent players](https://www.reddit.com/r/wowforever/comments/1xpvh0b/wow_forever_has_achieved_the_biggest_launch_in/) — submitted by /u/OrangeEtzer [link] [comments]
 - **03:04 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Is the 1 ring any good?](https://www.reddit.com/r/wowforever/comments/1xpupad/is_the_1_ring_any_good/) — I found this while fishing. I was going to wear it but it has a cool name and I haven’t found amour in the water before. I was wondering if I should save it for the public market or wear it. Sorry if it’s a stupid question, I’m new to this game. submitted by /u/Lionesslynnea [link] [comments]
 - **02:07 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [WoW: Forever Hotfixes - November 6, 2026](https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-6-2026/2403040/4) — November 6, 2026 Classes Fixed an issue with the Quick and the Dead Legacy Talent where it sometimes did not work as intended. Cooldown Manager The Cooldown Manager will now correctly display the duration of crowd control spells at all times, even when diminishing returns or mechanic reductions…
 - **02:07 · Wowhead (noticias de Forever)** (en, Web especializada): [Many Class, Dungeon and Quest Fixes - WoW: Forever Hotfixes for November 6th](https://www.wowhead.com/news=383794/many-class-dungeon-and-quest-fixes-wow-forever-hotfixes-for-november-6th) — Blizzard has posted WoW: Forever hotfixes for today, which includes a lot of class, dungeon, and questing fixes! Continue reading »
@@ -423,6 +425,6 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - Wowhead (YouTube): HTTP Error 404: Not Found
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
-- Jokerd: HTTP Error 500: Internal Server Error
+- Jokerd: HTTP Error 404: Not Found
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
 - Kodda (lore): HTTP Error 404: Not Found
