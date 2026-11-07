@@ -1,10 +1,12 @@
-# Radar de WoW Forever · actualizado el 07-11-2026 03:49 (hora de España)
+# Radar de WoW Forever · actualizado el 07-11-2026 04:49 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 07-11-2026
 
+- **04:11 · Wowhead (noticias de Forever)** (en, Web especializada): [World First Level 60s in WoW: Forever in Less Than Three Days](https://www.wowhead.com/news=383797/world-first-level-60s-in-wow-forever-in-less-than-three-days) — The World First level 60 has been claimed in WoW: Forever. Congratulations! Continue reading »
+- **03:04 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Is the 1 ring any good?](https://www.reddit.com/r/wowforever/comments/1xpupad/is_the_1_ring_any_good/) — I found this while fishing. I was going to wear it but it has a cool name and I haven’t found amour in the water before. I was wondering if I should save it for the public market or wear it. Sorry if it’s a stupid question, I’m new to this game. submitted by /u/Lionesslynnea [link] [comments]
 - **02:07 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [WoW: Forever Hotfixes - November 6, 2026](https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-6-2026/2403040/4) — November 6, 2026 Classes Fixed an issue with the Quick and the Dead Legacy Talent where it sometimes did not work as intended. Cooldown Manager The Cooldown Manager will now correctly display the duration of crowd control spells at all times, even when diminishing returns or mechanic reductions…
 - **02:07 · Wowhead (noticias de Forever)** (en, Web especializada): [Many Class, Dungeon and Quest Fixes - WoW: Forever Hotfixes for November 6th](https://www.wowhead.com/news=383794/many-class-dungeon-and-quest-fixes-wow-forever-hotfixes-for-november-6th) — Blizzard has posted WoW: Forever hotfixes for today, which includes a lot of class, dungeon, and questing fixes! Continue reading »
 
@@ -414,10 +416,6 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **09:23 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [A love letter to Gamer Dads, from a Gamer Mum](https://www.reddit.com/r/wowforever/comments/1xk4ra3/a_love_letter_to_gamer_dads_from_a_gamer_mum/) — Hello all you Dads out there! Can I tell you a little story, from a gamer mum? And an even bigger hello to all you gamer mums/moms, and gamer girls in general! We are here my sisters, we exist! You see, there’s been a lot of focus on dads lately. A lot of you were young when you first played WoW,…
 - **08:25 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [My WoW Forever dilemma..](https://www.reddit.com/r/wowforever/comments/1xk3uuv/my_wow_forever_dilemma/) — submitted by /u/Rektzyqq [link] [comments]
 - **07:51 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Its hotfix dayyy](https://www.reddit.com/r/wowforever/comments/1xk3ao3/its_hotfix_dayyy/) — submitted by /u/RevolutionLow8118 [link] [comments]
-- **04:29 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [WoW Forever subreddit mascot discovered](https://www.reddit.com/r/wowforever/comments/1xjztbp/wow_forever_subreddit_mascot_discovered/) — Its this guy. We embody his commitment to making up problems that we don't have any proof exist yet. Praise be to Andy, may we all feel his completely fabricated anxiety every patch. submitted by /u/NextReflection3098 [link] [comments]
-- **04:06 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Happy Forever Launch!](https://www.reddit.com/r/wowforever/comments/1xjzd58/happy_forever_launch/) — submitted by /u/MoteOfLust [link] [comments]
-- **03:59 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [So close now](https://www.reddit.com/r/wowforever/comments/1xjz8ek/so_close_now/) — submitted by /u/picklechips232 [link] [comments]
-- **03:50 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Skyborne eyes need to get fixed - options 4-9 are missing their luminosity entirely.](https://www.reddit.com/r/wowforever/comments/1xjz21k/skyborne_eyes_need_to_get_fixed_options_49_are/) — As you can see, the first 3 options glow in a dimly lit room. (The top row.) If you try any of the other colors, the last 6 options in a dim room, they look dull, dead, and blank. (The bottom two rows.) This needs to be fixed. Apologies for my terrible image editing, but people keep…
 
 ## Fuentes que han fallado esta vez
 
@@ -425,6 +423,6 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - Wowhead (YouTube): HTTP Error 404: Not Found
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
-- Jokerd: HTTP Error 404: Not Found
+- Jokerd: HTTP Error 500: Internal Server Error
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
-- Kodda (lore): HTTP Error 500: Internal Server Error
+- Kodda (lore): HTTP Error 404: Not Found
