@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 08-11-2026 23:38 (hora de España)
+# Radar de WoW Forever · actualizado el 09-11-2026 00:37 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -6,6 +6,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 ## 08-11-2026
 
 - **22:28 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Skyborne in groups look awesome floating towards UnderCity](https://www.reddit.com/r/wowforever/comments/1xr9nwk/skyborne_in_groups_look_awesome_floating_towards/) — submitted by /u/Jir0man [link] [comments]
+- **21:47 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [First time playing Horde, Elevator Boss is kind of insane.](https://www.reddit.com/r/wowforever/comments/1xr8p5v/first_time_playing_horde_elevator_boss_is_kind_of/) — Seems like lots of w-key plains runners based on the mostly Tauren skeletons lol. I love this game. submitted by /u/blazebirb [link] [comments]
 - **20:52 · Wowhead (noticias de Forever)** (en, Web especializada): [Blizzard Buffs Dungeon Enemy Experience Gains](https://www.wowhead.com/news=383808/blizzard-buffs-dungeon-enemy-experience-gains) — Blizzard has just buffed the experience gains from dungeon creatures by a massive 50% Continue reading »
 - **20:50 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Dungeon Enemy XP Increased - November 8 - World of Warcraft: Forever General Discussion - US - Blue Tracker](https://www.reddit.com/r/wowforever/comments/1xr7cf3/dungeon_enemy_xp_increased_november_8_world_of/) — Kaivax At about 11:05 PST today, we deployed a hotfix that increased kill experience in dungeons by 50%, so it feels better to go back in for more runs. Happy dungeon crawling, and good luck with those Deviate Hides! submitted by /u/orcofmordor [link] [comments]
 - **20:47 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [Dungeon Enemy XP Increased - November 8](https://us.forums.blizzard.com/en/wow/t/dungeon-enemy-xp-increased-november-8/2406595/1) — At about 11:05 PST today, we deployed a hotfix that increased kill experience in dungeons by 50%, so it feels better to go back in for more runs. Happy dungeon crawling, and good luck with those Deviate Hides!
@@ -440,7 +441,12 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **01:29 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I get to go full gremlin mode for WoW Forever release](https://www.reddit.com/r/wowforever/comments/1xlj26i/i_get_to_go_full_gremlin_mode_for_wow_forever/) — I'm 36 years old, so when I tried wow in 2006, I was in high school. Once my friend got me to try it, I was Immediately addicted. I got to no life that game as much as I wanted. By college with my best friend/wow recruiter, all we did was play wow. Wotlk was 80+ hrs a week, easy. Not long though,…
 - **00:45 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Patient Buu](https://www.reddit.com/r/wowforever/comments/1xli46g/patient_buu/) — submitted by /u/ASZHanazaki [link] [comments]
 - **00:40 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Where my retired peeps at?](https://www.reddit.com/r/wowforever/comments/1xlhzpl/where_my_retired_peeps_at/) — I remember my first time in WOW, was in 2006 a few months before TBC launched. Me and my buddy (room-mate) had our PC's hooked up together, front and back in my room. I was 26 at that time. I played horde on Darkspear as a hunter. He played a Orc Warrior. I remember constantly trying to get off…
-- **00:26 · AlterTime (web)** (es, Web especializada): [¡Posible filtración de Forever! Los Huargens y nuevos Elfos llegarían en un pack de pago a World of Warcraft Forever](https://altertime.es/article/posible-filtracion-de-forever-los-huargens-y-nuevos-elfos-llegarian-en-un-pack-de-pago-a-world-of-warcraft-forever) — ¡No te pierdas todo lo que sabemos actualmente sobre esta supuesta filtración!
-- **00:19 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [PRIMERA FILTRACIÓN! LOS HUARGEN Y ELFOS CAÍDOS OSCUROS LLEGAN A WOW FOREVER](https://www.youtube.com/watch?v=w3xhjAiATh0) — Conoce todos los detalles sobre la posible filtración sobre el contenido que podría llegar a WoW Forever próximamente. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
-- **00:14 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Here it comes!](https://www.reddit.com/r/wowforever/comments/1xlhfx1/here_it_comes/) — submitted by /u/JayAre95 [link] [comments]
-- **00:00 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [How To Fix Wow Forever](https://www.reddit.com/r/wowforever/comments/1xlh3wu/how_to_fix_wow_forever/) — Just kidding. Exactly 3 days left! Wohoo! submitted by /u/EluneServant [link] [comments]
+
+## Fuentes que han fallado esta vez
+
+- Wowhead (YouTube): HTTP Error 404: Not Found
+- MrGM: HTTP Error 500: Internal Server Error
+- Quissy: HTTP Error 500: Internal Server Error
+- Jokerd: HTTP Error 500: Internal Server Error
+- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
+- Kodda (lore): HTTP Error 404: Not Found
