@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 08-11-2026 01:59 (hora de España)
+# Radar de WoW Forever · actualizado el 08-11-2026 03:02 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -9,8 +9,10 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 
 ## 07-11-2026
 
+- **23:10 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Best game ever released](https://www.reddit.com/r/wowforever/comments/1xqiclv/best_game_ever_released/) — submitted by /u/Ainteasybeincheezy [link] [comments]
 - **22:56 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Quests Give No Gold at Level 60 in WoW: Forever - "Intentional Change" According to Jokerd](https://www.reddit.com/r/wowforever/comments/1xqi0ty/quests_give_no_gold_at_level_60_in_wow_forever/) — submitted by /u/Heliosgodofthesun [link] [comments]
 - **21:44 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Plains sprinting past ya](https://www.reddit.com/r/wowforever/comments/1xqgg5n/plains_sprinting_past_ya/) — submitted by /u/GuardianMisfit [link] [comments]
+- **21:23 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I've completely changed my mind on dungeon XP](https://www.reddit.com/r/wowforever/comments/1xqfzb5/ive_completely_changed_my_mind_on_dungeon_xp/) — I've done a complete 180 on my stance regarding dungeon XP in WoW Forever. I was all for XP being limited to dungeon quests during the beta, but the more I've thought about it and of course play the game, the more i think believe mobs and bosses should reward XP too. started getting the feeling…
 - **21:19 · Wowhead (noticias de Forever)** (en, Web especializada): [Quests Give No Gold at Level 60 in WoW: Forever - "Intentional Change" According to Jokerd](https://www.wowhead.com/news=383803/quests-give-no-gold-at-level-60-in-wow-forever-intentional-change-according-to) — Quests at level 60 give no gold and according to Jokerd, this is an intentional change. Continue reading »
 - **21:00 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [LOS MAESTROS DE JUEGO SE APARECEN A LOS JUGADORES DE WOW FOREVER](https://www.youtube.com/shorts/88Sr5hRWneI) — Conoce una de las curiosidades sobre los Maestros de Juego de World of Warcraft en Forever. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas: https://instant-gaming.com/es/?igr=altertime…
 - **20:00 · Wowhead (noticias de Forever)** (en, Web especializada): [GMs Appeared In-Person to Celebrate the Launch of WoW: Forever](https://www.wowhead.com/news=383796/gms-appeared-in-person-to-celebrate-the-launch-of-wow-forever) — For the first time in years, players have seen GM characters in-game - many appeared to celebrate the launch of WoW: Forever! Continue reading »
@@ -426,9 +428,9 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 ## Fuentes que han fallado esta vez
 
 - World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
-- Wowhead (YouTube): HTTP Error 404: Not Found
+- Wowhead (YouTube): HTTP Error 500: Internal Server Error
 - MrGM: HTTP Error 404: Not Found
-- Quissy: HTTP Error 404: Not Found
+- Quissy: HTTP Error 500: Internal Server Error
 - Jokerd: HTTP Error 404: Not Found
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
 - Kodda (lore): HTTP Error 404: Not Found
