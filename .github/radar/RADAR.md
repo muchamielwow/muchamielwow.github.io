@@ -1,10 +1,12 @@
-# Radar de WoW Forever · actualizado el 08-11-2026 03:51 (hora de España)
+# Radar de WoW Forever · actualizado el 08-11-2026 04:52 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 08-11-2026
 
+- **04:11 · Wowhead (noticias de Forever)** (en, Web especializada): [Layering Issues in Thousand Needles Harpy Cave Result in Quest Competition Issues](https://www.wowhead.com/news=383805/layering-issues-in-thousand-needles-harpy-cave-result-in-quest-competition) — There's a harpy cave in the Thousand Needles where layering appears to be broken, leading to quest competition issues. Continue reading »
+- **02:22 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Is this the worst flightpath pathing possible?](https://www.reddit.com/r/wowforever/comments/1xqmb8a/is_this_the_worst_flightpath_pathing_possible/) — submitted by /u/Baghora0 [link] [comments]
 - **00:25 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Mail with gold from a stranger - should I accept?](https://www.reddit.com/r/wowforever/comments/1xqjxux/mail_with_gold_from_a_stranger_should_i_accept/) — Just got this mail from a random player. There’s 5g 26s attached. I’ve never spoken to this person before. Is this legit or some kind of scam? Should I take the gold? submitted by /u/Consistent_Hat_9678 [link] [comments]
 
 ## 07-11-2026
@@ -16,6 +18,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **21:19 · Wowhead (noticias de Forever)** (en, Web especializada): [Quests Give No Gold at Level 60 in WoW: Forever - "Intentional Change" According to Jokerd](https://www.wowhead.com/news=383803/quests-give-no-gold-at-level-60-in-wow-forever-intentional-change-according-to) — Quests at level 60 give no gold and according to Jokerd, this is an intentional change. Continue reading »
 - **21:00 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [LOS MAESTROS DE JUEGO SE APARECEN A LOS JUGADORES DE WOW FOREVER](https://www.youtube.com/shorts/88Sr5hRWneI) — Conoce una de las curiosidades sobre los Maestros de Juego de World of Warcraft en Forever. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas: https://instant-gaming.com/es/?igr=altertime…
 - **20:00 · Wowhead (noticias de Forever)** (en, Web especializada): [GMs Appeared In-Person to Celebrate the Launch of WoW: Forever](https://www.wowhead.com/news=383796/gms-appeared-in-person-to-celebrate-the-launch-of-wow-forever) — For the first time in years, players have seen GM characters in-game - many appeared to celebrate the launch of WoW: Forever! Continue reading »
+- **19:35 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Finished the Nightclaw exalted rep grind](https://www.reddit.com/r/wowforever/comments/1xqdgsn/finished_the_nightclaw_exalted_rep_grind/) — When I stumbled upon this rep farm I decided to stay in the zone until I got exalted. A little over 900 ears with 23% drop rate and here we go! Seems like the title is bugged though as I haven't gotten it. Happy hunting! Edit: I've read on wowhead that every race can get it, both horde and…
 - **19:13 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Blizzard are cowards until the original Female Troll model is added to Forever](https://www.reddit.com/r/wowforever/comments/1xqcxid/blizzard_are_cowards_until_the_original_female/) — submitted by /u/deloaf [link] [comments]
 - **19:03 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Yeah, actually it was your fault](https://www.reddit.com/r/wowforever/comments/1xqcozm/yeah_actually_it_was_your_fault/) — Im seeing a lot of people trying to be racist and act like it's cool. Instead we are the ones laughing at you! submitted by /u/ubergeneral_4 [link] [comments]
 - **18:45 · Kodda (lore)** (es, Creador de contenido): [Por qué Kil'jaeden y Velen DEJARON de ser HERMANOS?](https://www.youtube.com/watch?v=aLgPVpuJf7M) — Antes de los cuernos y las alas, Kil'jaeden gobernaba Argus junto a su mejor amigo, Velen. Luego se pasó trece mil años persiguiéndolo por las estrellas. La historia de Kil'jaeden en World of Warcraft, desde dentro. De la oferta de Sargeras en Argus a la huida de los draenei; de Thal'kiel y…
@@ -420,15 +423,13 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **09:01 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Anyone else equally excited and terrified for WoW Forever?](https://www.reddit.com/r/wowforever/comments/1xkxgay/anyone_else_equally_excited_and_terrified_for_wow/) — I genuinely can't remember the last time I was this excited for a game to launch. But at the same time, I'm slightly terrified of how addictive it's going to be. 😂 I've already spent far too much time thinking about my character, builds and what I'm going to do when the servers go live. I can…
 - **07:37 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I'm fine with no arenas, however Parties should be able to Duel](https://www.reddit.com/r/wowforever/comments/1xkw5bp/im_fine_with_no_arenas_however_parties_should_be/) — What do you think? submitted by /u/JamesMusicus [link] [comments]
 - **04:54 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [nostalgia find](https://www.reddit.com/r/wowforever/comments/1xktfz5/nostalgia_find/) — Came across and picked these up at a nostalgia store today. User Manual and game guide for Vanilla WoW. They had old consoles, VHS and other memorabilia too. submitted by /u/Finvy [link] [comments]
-- **04:49 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [New Druid Talents Reaction](https://www.reddit.com/r/wowforever/comments/1xktcno/new_druid_talents_reaction/) — submitted by /u/Adventrium [link] [comments]
-- **04:33 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [A nudge in the right direction... Anvilstride](https://www.reddit.com/r/wowforever/comments/1xkt2nm/a_nudge_in_the_right_direction_anvilstride/) — Wanted to share something I've been working on called Anvilstride . The idea started because I wanted a leveling guide that didn't hold my hand quite so much. There are plenty of addons that will walk you through practically every quest pickup, objective, and turn-in. And there's absolutely a place…
 
 ## Fuentes que han fallado esta vez
 
 - World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
 - Wowhead (YouTube): HTTP Error 404: Not Found
 - MrGM: HTTP Error 404: Not Found
-- Quissy: HTTP Error 404: Not Found
+- Quissy: HTTP Error 500: Internal Server Error
 - Jokerd: HTTP Error 404: Not Found
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
-- Kodda (lore): HTTP Error 500: Internal Server Error
+- Kodda (lore): HTTP Error 404: Not Found
