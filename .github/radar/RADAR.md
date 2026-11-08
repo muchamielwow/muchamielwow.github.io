@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 08-11-2026 04:52 (hora de España)
+# Radar de WoW Forever · actualizado el 08-11-2026 05:53 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -422,14 +422,13 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **09:42 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Streamer VanityProjects using motion capture to play World of Warcraft](https://www.reddit.com/r/wowforever/comments/1xky33f/streamer_vanityprojects_using_motion_capture_to/) — submitted by /u/lolimaginewtf [link] [comments]
 - **09:01 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Anyone else equally excited and terrified for WoW Forever?](https://www.reddit.com/r/wowforever/comments/1xkxgay/anyone_else_equally_excited_and_terrified_for_wow/) — I genuinely can't remember the last time I was this excited for a game to launch. But at the same time, I'm slightly terrified of how addictive it's going to be. 😂 I've already spent far too much time thinking about my character, builds and what I'm going to do when the servers go live. I can…
 - **07:37 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I'm fine with no arenas, however Parties should be able to Duel](https://www.reddit.com/r/wowforever/comments/1xkw5bp/im_fine_with_no_arenas_however_parties_should_be/) — What do you think? submitted by /u/JamesMusicus [link] [comments]
-- **04:54 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [nostalgia find](https://www.reddit.com/r/wowforever/comments/1xktfz5/nostalgia_find/) — Came across and picked these up at a nostalgia store today. User Manual and game guide for Vanilla WoW. They had old consoles, VHS and other memorabilia too. submitted by /u/Finvy [link] [comments]
 
 ## Fuentes que han fallado esta vez
 
 - World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
 - Wowhead (YouTube): HTTP Error 404: Not Found
 - MrGM: HTTP Error 404: Not Found
-- Quissy: HTTP Error 500: Internal Server Error
+- Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
 - Kodda (lore): HTTP Error 404: Not Found
