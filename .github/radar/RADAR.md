@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 08-11-2026 08:59 (hora de España)
+# Radar de WoW Forever · actualizado el 08-11-2026 09:51 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -8,6 +8,8 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **04:11 · Wowhead (noticias de Forever)** (en, Web especializada): [Layering Issues in Thousand Needles Harpy Cave Result in Quest Competition Issues](https://www.wowhead.com/news=383805/layering-issues-in-thousand-needles-harpy-cave-result-in-quest-competition) — There's a harpy cave in the Thousand Needles where layering appears to be broken, leading to quest competition issues. Continue reading »
 - **02:26 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [A little investment since Launch..](https://www.reddit.com/r/wowforever/comments/1xqmedq/a_little_investment_since_launch/) — Copper ore was 20c per node and now its 80c per node, I just left this in my bank for 2 days. GGs returns submitted by /u/CartoonistVisual2818 [link] [comments]
 - **02:22 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Is this the worst flightpath pathing possible?](https://www.reddit.com/r/wowforever/comments/1xqmb8a/is_this_the_worst_flightpath_pathing_possible/) — submitted by /u/Baghora0 [link] [comments]
+- **01:30 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [AHORA NO TE OLVIDARÁS JAMÁS DE TENER TUS MEJORES HABILIDADES LISTAS EN WOW FOREVER](https://www.youtube.com/watch?v=cHWPMFhkfhQ) — Conoce todos los detalles sobre cómo conseguir que no te olvides nunca de las habilidades que debías de tener aprendidas en World of Warcraft Forever gracias al addon SpellBook Abridged for WoW Classic. Descargar addon: https://www.curseforge.com/wow/addons/spellbook-abridged-for-wow-classic…
+- **01:27 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Our Horde guild cleared Hall of Thanes and I couldn't be prouder!](https://www.reddit.com/r/wowforever/comments/1xql8j9/our_horde_guild_cleared_hall_of_thanes_and_i/) — The majority of the group are brand-new to the game so this felt like such a triumphant moment for us all. Getting to Hall of Thanes was a bit of a slog but totally worth it to see such a great dungeon. You can also do the sleeping bag reward quest along the way and get the torch item! Edit: We're…
 - **00:25 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Mail with gold from a stranger - should I accept?](https://www.reddit.com/r/wowforever/comments/1xqjxux/mail_with_gold_from_a_stranger_should_i_accept/) — Just got this mail from a random player. There’s 5g 26s attached. I’ve never spoken to this person before. Is this legit or some kind of scam? Should I take the gold? submitted by /u/Consistent_Hat_9678 [link] [comments]
 
 ## 07-11-2026
@@ -421,15 +423,3 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **13:21 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Who is guilty?](https://www.reddit.com/r/wowforever/comments/1xl1pkj/who_is_guilty/) — submitted by /u/ASZHanazaki [link] [comments]
 - **11:50 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [World PvP without flying mounts: anyone else super excited?](https://www.reddit.com/r/wowforever/comments/1xl03yq/world_pvp_without_flying_mounts_anyone_else_super/) — I, for one, cannot wait to get back the feeling of world PvP without flying mounts. It ended in 2006 when TBC was launched. The most epic original PvP version of WoW has come back 20 years later. Yes I will gank. Yes I will get ganked. Yes there will be roving bands of griefers. Yes there will be…
 - **10:40 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Is this proof of enchanting vellums in latest build, or am I crazy.](https://www.reddit.com/r/wowforever/comments/1xkyz8z/is_this_proof_of_enchanting_vellums_in_latest/) — Go to weapons & armor tab, scroll down to enchanting scrolls. I haven't seen these before. Consumables | ForeverDB EDIT: It looks like "ptr only" has been added to these since last night. So, it's still not certain. submitted by /u/Cedworth [link] [comments]
-- **09:42 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Streamer VanityProjects using motion capture to play World of Warcraft](https://www.reddit.com/r/wowforever/comments/1xky33f/streamer_vanityprojects_using_motion_capture_to/) — submitted by /u/lolimaginewtf [link] [comments]
-- **09:01 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Anyone else equally excited and terrified for WoW Forever?](https://www.reddit.com/r/wowforever/comments/1xkxgay/anyone_else_equally_excited_and_terrified_for_wow/) — I genuinely can't remember the last time I was this excited for a game to launch. But at the same time, I'm slightly terrified of how addictive it's going to be. 😂 I've already spent far too much time thinking about my character, builds and what I'm going to do when the servers go live. I can…
-
-## Fuentes que han fallado esta vez
-
-- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
-- Wowhead (YouTube): HTTP Error 404: Not Found
-- MrGM: HTTP Error 500: Internal Server Error
-- Quissy: HTTP Error 404: Not Found
-- Jokerd: HTTP Error 404: Not Found
-- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
-- Kodda (lore): HTTP Error 404: Not Found
