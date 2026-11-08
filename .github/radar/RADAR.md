@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 08-11-2026 03:02 (hora de España)
+# Radar de WoW Forever · actualizado el 08-11-2026 03:51 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -422,15 +422,13 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **04:54 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [nostalgia find](https://www.reddit.com/r/wowforever/comments/1xktfz5/nostalgia_find/) — Came across and picked these up at a nostalgia store today. User Manual and game guide for Vanilla WoW. They had old consoles, VHS and other memorabilia too. submitted by /u/Finvy [link] [comments]
 - **04:49 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [New Druid Talents Reaction](https://www.reddit.com/r/wowforever/comments/1xktcno/new_druid_talents_reaction/) — submitted by /u/Adventrium [link] [comments]
 - **04:33 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [A nudge in the right direction... Anvilstride](https://www.reddit.com/r/wowforever/comments/1xkt2nm/a_nudge_in_the_right_direction_anvilstride/) — Wanted to share something I've been working on called Anvilstride . The idea started because I wanted a leveling guide that didn't hold my hand quite so much. There are plenty of addons that will walk you through practically every quest pickup, objective, and turn-in. And there's absolutely a place…
-- **03:49 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Wow forever is days away. Gamespots original WoW review.](https://www.reddit.com/r/wowforever/comments/1xksavk/wow_forever_is_days_away_gamespots_original_wow/) — submitted by /u/ChadShields [link] [comments]
-- **03:31 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Halloween house](https://www.reddit.com/r/wowforever/comments/1xkrz0r/halloween_house/) — Family did a wow classic house 20 years ago, used some of the same stuff, and made some more to celebrate forever! Had more than a few, FOR THE HORDES from the trick-or-treating parents! submitted by /u/Svedyana [link] [comments]
 
 ## Fuentes que han fallado esta vez
 
 - World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
-- Wowhead (YouTube): HTTP Error 500: Internal Server Error
+- Wowhead (YouTube): HTTP Error 404: Not Found
 - MrGM: HTTP Error 404: Not Found
-- Quissy: HTTP Error 500: Internal Server Error
+- Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
-- Kodda (lore): HTTP Error 404: Not Found
+- Kodda (lore): HTTP Error 500: Internal Server Error
