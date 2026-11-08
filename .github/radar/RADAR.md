@@ -1,7 +1,11 @@
-# Radar de WoW Forever · actualizado el 08-11-2026 00:36 (hora de España)
+# Radar de WoW Forever · actualizado el 08-11-2026 01:59 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
+
+## 08-11-2026
+
+- **00:25 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Mail with gold from a stranger - should I accept?](https://www.reddit.com/r/wowforever/comments/1xqjxux/mail_with_gold_from_a_stranger_should_i_accept/) — Just got this mail from a random player. There’s 5g 26s attached. I’ve never spoken to this person before. Is this legit or some kind of scam? Should I take the gold? submitted by /u/Consistent_Hat_9678 [link] [comments]
 
 ## 07-11-2026
 
@@ -418,11 +422,10 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **04:33 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [A nudge in the right direction... Anvilstride](https://www.reddit.com/r/wowforever/comments/1xkt2nm/a_nudge_in_the_right_direction_anvilstride/) — Wanted to share something I've been working on called Anvilstride . The idea started because I wanted a leveling guide that didn't hold my hand quite so much. There are plenty of addons that will walk you through practically every quest pickup, objective, and turn-in. And there's absolutely a place…
 - **03:49 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Wow forever is days away. Gamespots original WoW review.](https://www.reddit.com/r/wowforever/comments/1xksavk/wow_forever_is_days_away_gamespots_original_wow/) — submitted by /u/ChadShields [link] [comments]
 - **03:31 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Halloween house](https://www.reddit.com/r/wowforever/comments/1xkrz0r/halloween_house/) — Family did a wow classic house 20 years ago, used some of the same stuff, and made some more to celebrate forever! Had more than a few, FOR THE HORDES from the trick-or-treating parents! submitted by /u/Svedyana [link] [comments]
-- **01:44 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Zones I Would've Wanted to See in WoW: Forever that Haven't Been Mentioned](https://www.reddit.com/r/wowforever/comments/1xkpz4c/zones_i_wouldve_wanted_to_see_in_wow_forever_that/) — After seeing everything that has been mentioned/new in WoW: Forever, this is a 'wish-list' of things that I have yet to see mentioned that I would love to see in Forever. The Troll islands as a starting zone (Echo Isles and Darkspear Isle) Gnomes in a different starting zone than Dwarves Eversong…
-- **00:59 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I am so sick of these blue elves! They ruin the game!](https://www.reddit.com/r/wowforever/comments/1xkp1uk/i_am_so_sick_of_these_blue_elves_they_ruin_the/) — submitted by /u/CampoDango [link] [comments]
 
 ## Fuentes que han fallado esta vez
 
+- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
 - Wowhead (YouTube): HTTP Error 404: Not Found
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
