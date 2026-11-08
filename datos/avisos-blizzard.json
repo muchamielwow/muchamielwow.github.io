@@ -2,6 +2,15 @@
  "fuente": "https://us.forums.blizzard.com/en/wow/groups/blizzard-tracker/posts",
  "avisos": [
   {
+   "id": 2406595,
+   "titulo": "Dungeon Enemy XP Increased - November 8",
+   "url": "https://us.forums.blizzard.com/en/wow/t/dungeon-enemy-xp-increased-november-8/2406595",
+   "autor": "Kaivax",
+   "fecha": "2026-11-08T19:47:33.475Z",
+   "resumen": "At about 11:05 PST today, we deployed a hotfix that increased kill experience in dungeons by 50%, so it feels better to go back in for more runs. Happy dungeon crawling, and good luck with those Deviate Hides!",
+   "foro": "Forever"
+  },
+  {
    "id": 2404092,
    "titulo": "Class Tuning Incoming - November 10",
    "url": "https://us.forums.blizzard.com/en/wow/t/class-tuning-incoming-november-10/2404092",
@@ -98,15 +107,6 @@
    "autor": "BlizzardEntertainment",
    "fecha": "2026-11-03T20:00:09.240Z",
    "resumen": "[Explore WoW: Forever with a Gamepad] Prefer a gamepad? Get to know another way to play World of Warcraft: Forever, from moving and casting spells to adjusting your settings. Gamepad support is available in a beta…",
-   "foro": "Forever"
-  },
-  {
-   "id": 2400000,
-   "titulo": "WoW: Forever—What’s New and What Feels Familiar",
-   "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever%E2%80%94what%E2%80%99s-new-and-what-feels-familiar/2400000",
-   "autor": "BlizzardEntertainment",
-   "fecha": "2026-11-03T18:00:10.220Z",
-   "resumen": "[WoW: Forever—What’s New and What Feels Familiar] World of Warcraft: Forever has something for explorers, dungeon groups, collectors, roleplayers, and PvP fans alike. See how its interface conveniences, class updates,…",
    "foro": "Forever"
   }
  ]
