@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 08-11-2026 06:49 (hora de España)
+# Radar de WoW Forever · actualizado el 08-11-2026 07:56 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -422,7 +422,6 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **10:40 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Is this proof of enchanting vellums in latest build, or am I crazy.](https://www.reddit.com/r/wowforever/comments/1xkyz8z/is_this_proof_of_enchanting_vellums_in_latest/) — Go to weapons & armor tab, scroll down to enchanting scrolls. I haven't seen these before. Consumables | ForeverDB EDIT: It looks like "ptr only" has been added to these since last night. So, it's still not certain. submitted by /u/Cedworth [link] [comments]
 - **09:42 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Streamer VanityProjects using motion capture to play World of Warcraft](https://www.reddit.com/r/wowforever/comments/1xky33f/streamer_vanityprojects_using_motion_capture_to/) — submitted by /u/lolimaginewtf [link] [comments]
 - **09:01 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Anyone else equally excited and terrified for WoW Forever?](https://www.reddit.com/r/wowforever/comments/1xkxgay/anyone_else_equally_excited_and_terrified_for_wow/) — I genuinely can't remember the last time I was this excited for a game to launch. But at the same time, I'm slightly terrified of how addictive it's going to be. 😂 I've already spent far too much time thinking about my character, builds and what I'm going to do when the servers go live. I can…
-- **07:37 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I'm fine with no arenas, however Parties should be able to Duel](https://www.reddit.com/r/wowforever/comments/1xkw5bp/im_fine_with_no_arenas_however_parties_should_be/) — What do you think? submitted by /u/JamesMusicus [link] [comments]
 
 ## Fuentes que han fallado esta vez
 
@@ -431,5 +430,5 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
-- AlterTime WoW Forever (YouTube): HTTP Error 500: Internal Server Error
-- Kodda (lore): HTTP Error 404: Not Found
+- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
+- Kodda (lore): HTTP Error 500: Internal Server Error
