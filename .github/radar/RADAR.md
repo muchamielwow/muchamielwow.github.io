@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 08-11-2026 05:53 (hora de España)
+# Radar de WoW Forever · actualizado el 08-11-2026 06:49 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -6,6 +6,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 ## 08-11-2026
 
 - **04:11 · Wowhead (noticias de Forever)** (en, Web especializada): [Layering Issues in Thousand Needles Harpy Cave Result in Quest Competition Issues](https://www.wowhead.com/news=383805/layering-issues-in-thousand-needles-harpy-cave-result-in-quest-competition) — There's a harpy cave in the Thousand Needles where layering appears to be broken, leading to quest competition issues. Continue reading »
+- **02:26 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [A little investment since Launch..](https://www.reddit.com/r/wowforever/comments/1xqmedq/a_little_investment_since_launch/) — Copper ore was 20c per node and now its 80c per node, I just left this in my bank for 2 days. GGs returns submitted by /u/CartoonistVisual2818 [link] [comments]
 - **02:22 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Is this the worst flightpath pathing possible?](https://www.reddit.com/r/wowforever/comments/1xqmb8a/is_this_the_worst_flightpath_pathing_possible/) — submitted by /u/Baghora0 [link] [comments]
 - **00:25 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Mail with gold from a stranger - should I accept?](https://www.reddit.com/r/wowforever/comments/1xqjxux/mail_with_gold_from_a_stranger_should_i_accept/) — Just got this mail from a random player. There’s 5g 26s attached. I’ve never spoken to this person before. Is this legit or some kind of scam? Should I take the gold? submitted by /u/Consistent_Hat_9678 [link] [comments]
 
@@ -430,5 +431,5 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
-- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
+- AlterTime WoW Forever (YouTube): HTTP Error 500: Internal Server Error
 - Kodda (lore): HTTP Error 404: Not Found
