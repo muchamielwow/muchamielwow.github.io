@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 09-11-2026 00:37 (hora de España)
+# Radar de WoW Forever · actualizado el 09-11-2026 02:03 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -7,6 +7,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 
 - **22:28 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Skyborne in groups look awesome floating towards UnderCity](https://www.reddit.com/r/wowforever/comments/1xr9nwk/skyborne_in_groups_look_awesome_floating_towards/) — submitted by /u/Jir0man [link] [comments]
 - **21:47 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [First time playing Horde, Elevator Boss is kind of insane.](https://www.reddit.com/r/wowforever/comments/1xr8p5v/first_time_playing_horde_elevator_boss_is_kind_of/) — Seems like lots of w-key plains runners based on the mostly Tauren skeletons lol. I love this game. submitted by /u/blazebirb [link] [comments]
+- **21:06 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [The amount of whining is insane](https://www.reddit.com/r/wowforever/comments/1xr7qoq/the_amount_of_whining_is_insane/) — Come here expecting to see cool things people find or new additions to Forever but instead it’s just one whining post after the next. “I only got 1.5 levels from this dungeon quest turn in but I need more from the mobs!!”. “I can’t afford the 1s deposit to list my item for 4s so I had to sell the…
 - **20:52 · Wowhead (noticias de Forever)** (en, Web especializada): [Blizzard Buffs Dungeon Enemy Experience Gains](https://www.wowhead.com/news=383808/blizzard-buffs-dungeon-enemy-experience-gains) — Blizzard has just buffed the experience gains from dungeon creatures by a massive 50% Continue reading »
 - **20:50 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Dungeon Enemy XP Increased - November 8 - World of Warcraft: Forever General Discussion - US - Blue Tracker](https://www.reddit.com/r/wowforever/comments/1xr7cf3/dungeon_enemy_xp_increased_november_8_world_of/) — Kaivax At about 11:05 PST today, we deployed a hotfix that increased kill experience in dungeons by 50%, so it feels better to go back in for more runs. Happy dungeon crawling, and good luck with those Deviate Hides! submitted by /u/orcofmordor [link] [comments]
 - **20:47 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [Dungeon Enemy XP Increased - November 8](https://us.forums.blizzard.com/en/wow/t/dungeon-enemy-xp-increased-november-8/2406595/1) — At about 11:05 PST today, we deployed a hotfix that increased kill experience in dungeons by 50%, so it feels better to go back in for more runs. Happy dungeon crawling, and good luck with those Deviate Hides!
@@ -437,16 +438,13 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **03:01 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [All these years, and they still can't just translate reference times to local in the client.](https://www.reddit.com/r/wowforever/comments/1xlky8p/all_these_years_and_they_still_cant_just/) — That's the post. Thanks, OCE player. submitted by /u/rwmtinkywinky [link] [comments]
 - **02:49 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Realized the GOAT Was Missing From the WoW Forever Launch](https://www.reddit.com/r/wowforever/comments/1xlkpnj/realized_the_goat_was_missing_from_the_wow/) — Can we get the OG game fuel spun up before Wednesday? I feel like to really feel the nostalgia I need a fridge full of these bad boys and pizza pockets ready to go. submitted by /u/Kartopery [link] [comments]
 - **02:13 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Regular Rulesets vs RP Rulesets](https://www.reddit.com/r/wowforever/comments/1xljz2n/regular_rulesets_vs_rp_rulesets/) — submitted by /u/missing_Palantir [link] [comments]
-- **01:37 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Character creation and cosmetics - What would you want?](https://www.reddit.com/r/wowforever/comments/1xlj8d0/character_creation_and_cosmetics_what_would_you/) — Racials, Raids, EXP rates, Class reworks; Forget that Nerd shit let's ask the important questions; What are some character customization options or flair you would want personally added to WoW Forever? Purely cosmetic, no gameplay alterations. Justified in Lore or not. What would you Add to player…
-- **01:29 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I get to go full gremlin mode for WoW Forever release](https://www.reddit.com/r/wowforever/comments/1xlj26i/i_get_to_go_full_gremlin_mode_for_wow_forever/) — I'm 36 years old, so when I tried wow in 2006, I was in high school. Once my friend got me to try it, I was Immediately addicted. I got to no life that game as much as I wanted. By college with my best friend/wow recruiter, all we did was play wow. Wotlk was 80+ hrs a week, easy. Not long though,…
-- **00:45 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Patient Buu](https://www.reddit.com/r/wowforever/comments/1xli46g/patient_buu/) — submitted by /u/ASZHanazaki [link] [comments]
-- **00:40 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Where my retired peeps at?](https://www.reddit.com/r/wowforever/comments/1xlhzpl/where_my_retired_peeps_at/) — I remember my first time in WOW, was in 2006 a few months before TBC launched. Me and my buddy (room-mate) had our PC's hooked up together, front and back in my room. I was 26 at that time. I played horde on Darkspear as a hunter. He played a Orc Warrior. I remember constantly trying to get off…
 
 ## Fuentes que han fallado esta vez
 
+- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
 - Wowhead (YouTube): HTTP Error 404: Not Found
-- MrGM: HTTP Error 500: Internal Server Error
+- MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 500: Internal Server Error
-- Jokerd: HTTP Error 500: Internal Server Error
+- Jokerd: HTTP Error 404: Not Found
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
 - Kodda (lore): HTTP Error 404: Not Found
