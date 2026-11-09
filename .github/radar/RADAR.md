@@ -1,10 +1,15 @@
-# Radar de WoW Forever · actualizado el 09-11-2026 03:10 (hora de España)
+# Radar de WoW Forever · actualizado el 09-11-2026 04:56 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
+## 09-11-2026
+
+- **02:28 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Guys. I sold a “Thunder Bluff Journey” last night](https://www.reddit.com/r/wowforever/comments/1xreu3d/guys_i_sold_a_thunder_bluff_journey_last_night/) — I saw a bunch of people in chat complaining how slow it is to walk everywhere and, as a joke, said I was selling a Thunder Bluff journey where you can put me on follow, go afk, and I’ll run you from Org to TB. I was making the journey there any way, but I was so surprised to actually receive a…
+
 ## 08-11-2026
 
+- **23:06 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Finally complete my aquatic form quest only to find this thing staring back at me](https://www.reddit.com/r/wowforever/comments/1xraioo/finally_complete_my_aquatic_form_quest_only_to/) — no way that's a sea lion it's so scrungly submitted by /u/rezager [link] [comments]
 - **22:28 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Skyborne in groups look awesome floating towards UnderCity](https://www.reddit.com/r/wowforever/comments/1xr9nwk/skyborne_in_groups_look_awesome_floating_towards/) — submitted by /u/Jir0man [link] [comments]
 - **21:47 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [First time playing Horde, Elevator Boss is kind of insane.](https://www.reddit.com/r/wowforever/comments/1xr8p5v/first_time_playing_horde_elevator_boss_is_kind_of/) — Seems like lots of w-key plains runners based on the mostly Tauren skeletons lol. I love this game. submitted by /u/blazebirb [link] [comments]
 - **21:06 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [The amount of whining is insane](https://www.reddit.com/r/wowforever/comments/1xr7qoq/the_amount_of_whining_is_insane/) — Come here expecting to see cool things people find or new additions to Forever but instead it’s just one whining post after the next. “I only got 1.5 levels from this dungeon quest turn in but I need more from the mobs!!”. “I can’t afford the 1s deposit to list my item for 4s so I had to sell the…
@@ -434,15 +439,13 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **10:03 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [My body is ready.](https://www.reddit.com/r/wowforever/comments/1xlsbtw/my_body_is_ready/) — submitted by /u/PureBlack_Heart [link] [comments]
 - **09:11 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [We need the Dutch](https://www.reddit.com/r/wowforever/comments/1xlrjmk/we_need_the_dutch/) — My friends, my fellow Azerothians, brothers and sisters. It is time to start accepting the Dutch as a new playable race. Only through our magical terra forming skills could the lore allow for a consistent expansion of continents. Our mastery of sea and land could provide excellent content for years…
 - **06:22 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [What is your main class for Forever, and why?](https://www.reddit.com/r/wowforever/comments/1xlos5m/what_is_your_main_class_for_forever_and_why/) — Dozens of alts aside, what are you planning to main in Forever, and why did you pick that class? submitted by /u/SuperSeriousSam [link] [comments]
-- **04:48 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [come on...](https://www.reddit.com/r/wowforever/comments/1xln1ta/come_on/) — submitted by /u/wanderinbear [link] [comments]
-- **04:46 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Almost There](https://www.reddit.com/r/wowforever/comments/1xln0s3/almost_there/) — submitted by /u/Chef_esten [link] [comments]
-- **04:33 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Forsaken Paladins are starting to grow on me...](https://www.reddit.com/r/wowforever/comments/1xlms0y/forsaken_paladins_are_starting_to_grow_on_me/) — "What do you bring to the Horde besides a plagued ruin in the eastern kingdoms?" "<grins> The Light " I don't play horde, and I already have my character planned (Druid! Not paladin for the third time!), but after Forsaken Kingdom and then Warpath, I'm really digging how these guys look more and…
 
 ## Fuentes que han fallado esta vez
 
 - World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
 - Wowhead (YouTube): HTTP Error 404: Not Found
-- MrGM: HTTP Error 500: Internal Server Error
+- MrGM: HTTP Error 404: Not Found
+- Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
 - AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
 - Kodda (lore): HTTP Error 404: Not Found
