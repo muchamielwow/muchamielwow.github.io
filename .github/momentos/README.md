@@ -4,7 +4,7 @@ Una lista por directo, la más nueva arriba. La hace sola la tarea «Mejores mom
 
 | Directo | Lista | Momentos |
 |---|---|---|
-| 09-11-2026 05:06 | [2026-11-09-twitch](2026-11-09-twitch.md) | 0 |
+| 09-11-2026 05:06 | [2026-11-09-twitch](2026-11-09-twitch.md) | 9 |
 | 08-11-2026 00:17 | [2026-11-08-twitch](2026-11-08-twitch.md) | 21 |
 | 07-11-2026 01:13 | [2026-11-07-twitch](2026-11-07-twitch.md) | 16 |
 | 06-11-2026 06:27 | [2026-11-06-twitch](2026-11-06-twitch.md) | 18 |
