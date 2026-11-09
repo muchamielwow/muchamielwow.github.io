@@ -1,12 +1,16 @@
-# Radar de WoW Forever · actualizado el 09-11-2026 07:08 (hora de España)
+# Radar de WoW Forever · actualizado el 09-11-2026 09:27 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 09-11-2026
 
+- **06:27 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Guys, PLEASE pay attention to the Playstyle in the LFG Tool and use it accordingly!](https://www.reddit.com/r/wowforever/comments/1xrjeit/guys_please_pay_attention_to_the_playstyle_in_the/) — For those who don't know, the Looking For Group tool has 4 great options available: Learning Relaxed Competitive Carry Offered These should be self explanatory, but I've already encountered MULTIPLE cases where despite a group being "Relaxed", people end up complaining or leaving a group because…
+- **06:19 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I am level 17 and I just realized the game doesn't auto equip upgraded spells so I've been running around with rank 1 everything for my whole playthrough](https://www.reddit.com/r/wowforever/comments/1xrj90r/i_am_level_17_and_i_just_realized_the_game_doesnt/) — and now I am sad. submitted by /u/Hot_Map2509 [link] [comments]
+- **05:44 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [well its happening someone in the guild got suspended for 1 month for buying 5 gold.](https://www.reddit.com/r/wowforever/comments/1xrilnx/well_its_happening_someone_in_the_guild_got/) — submitted by /u/Outrageous-Dog-240 [link] [comments]
 - **02:28 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Guys. I sold a “Thunder Bluff Journey” last night](https://www.reddit.com/r/wowforever/comments/1xreu3d/guys_i_sold_a_thunder_bluff_journey_last_night/) — I saw a bunch of people in chat complaining how slow it is to walk everywhere and, as a joke, said I was selling a Thunder Bluff journey where you can put me on follow, go afk, and I’ll run you from Org to TB. I was making the journey there any way, but I was so surprised to actually receive a…
 - **02:10 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Power word Shield on a warrior is bad?](https://www.reddit.com/r/wowforever/comments/1xreh5j/power_word_shield_on_a_warrior_is_bad/) — I like shielding people, is this true? should I just not shield anymore? submitted by /u/travisrd [link] [comments]
+- **01:32 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [BLIZZARD TOMA DOS DECISIONES MUY POLÉMICAS EN WOW FOREVER](https://www.youtube.com/watch?v=2OZz5HMYnXo) — Conoce las noticias de última hora en WoW Forever con la mejora de subida de experiencia en mazmorras y la ausencia de oro en el máximo nivel. 0:00 Introducción 0:35 Más experiencia en mazmorras 4:38 Oro a máximo nivel Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial:…
 - **00:33 · AlterTime (web)** (es, Web especializada): [Blizzard aumenta la experiencia a la derrota de enemigos en las mazmorras de WoW Forever](https://altertime.es/article/blizzard-aumenta-la-experiencia-a-la-derrota-de-enemigos-en-las-mazmorras-de-wo-w-forever) — ¡No te peirdas todos los detalles mencionados por Blizzard en los foros oficiales!
 
 ## 08-11-2026
@@ -444,14 +448,3 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **10:51 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [super pumped!](https://www.reddit.com/r/wowforever/comments/1xlt2kw/super_pumped/) — I met someone in Orgrimmar 13 years ago in late summer. Now I'm a mom and he's a dad and we got so many obligations and our RLs are so busy that retail is just too much. We took thursday and friday off this week, so we can at least game when the kids are at school in the mornings :D Thank you…
 - **10:18 · AlterTime (web)** (es, Web especializada): [WoW Forever prepara dos paquetes para China con bolsas y una tienda que acelera el descanso](https://altertime.es/article/wo-w-forever-prepara-dos-paquetes-para-china-con-bolsas-y-una-tienda-que-acelera-el-descanso) — ¡No te pierdas todo lo que sabemos sobre estos nuevos packs que llegan a la región de China y que NO están confirmados ni para Europa ni para América!
 - **10:03 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [My body is ready.](https://www.reddit.com/r/wowforever/comments/1xlsbtw/my_body_is_ready/) — submitted by /u/PureBlack_Heart [link] [comments]
-- **09:11 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [We need the Dutch](https://www.reddit.com/r/wowforever/comments/1xlrjmk/we_need_the_dutch/) — My friends, my fellow Azerothians, brothers and sisters. It is time to start accepting the Dutch as a new playable race. Only through our magical terra forming skills could the lore allow for a consistent expansion of continents. Our mastery of sea and land could provide excellent content for years…
-
-## Fuentes que han fallado esta vez
-
-- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
-- Wowhead (YouTube): HTTP Error 404: Not Found
-- MrGM: HTTP Error 404: Not Found
-- Quissy: HTTP Error 404: Not Found
-- Jokerd: HTTP Error 404: Not Found
-- AlterTime WoW Forever (YouTube): HTTP Error 500: Internal Server Error
-- Kodda (lore): HTTP Error 404: Not Found
