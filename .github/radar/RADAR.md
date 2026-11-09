@@ -1,16 +1,19 @@
-# Radar de WoW Forever · actualizado el 09-11-2026 23:45 (hora de España)
+# Radar de WoW Forever · actualizado el 10-11-2026 00:40 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 09-11-2026
 
+- **23:16 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [crying rn.](https://www.reddit.com/r/wowforever/comments/1xs5joy/crying_rn/) — just finished my 21hr shift as a sign spinner for dominos. came home to my 12 children as a single dad and the last one just dozed off as I planned to play Wow: Forever with my free time of 9 minutes and 29 seconds but the servers are down. I gave out a huge murloc scream and woke up half the…
 - **22:55 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [The game only crashed for you and no one else.](https://www.reddit.com/r/wowforever/comments/1xs50yv/the_game_only_crashed_for_you_and_no_one_else/) — We are all in game having a much better time now that the game specifically kicked you out. submitted by /u/TetraNotTetris [link] [comments]
 - **22:55 · Wowhead (noticias de Forever)** (en, Web especializada): [Blizzard Taking Down WoW: Forever Servers Shortly](https://www.wowhead.com/news=383815/blizzard-taking-down-wow-forever-servers-shortly) — Blizzard has announced via in-game server messages that they are taking down the WoW: Forever servers briefly. Continue reading »
 - **22:31 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [EU down brothers](https://www.reddit.com/r/wowforever/comments/1xs4els/eu_down_brothers/) — submitted by /u/breach7 [link] [comments]
 - **22:29 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Which color should I go for on my mount?](https://www.reddit.com/r/wowforever/comments/1xs4df9/which_color_should_i_go_for_on_my_mount/) — submitted by /u/dawgxyo [link] [comments]
+- **21:00 · AlterTime (web)** (es, Web especializada): [La reputación con una facción afecta al precio de las habilidades de nuestra clase en WoW Forever](https://altertime.es/article/la-reputacion-con-una-faccion-afecta-al-precio-de-las-habilidades-de-nuestra-clase-en-wo-w-forever) — ¡Ahorra oro gracias a esto!
 - **19:00 · Kodda (lore)** (es, Creador de contenido): [Por qué ARTHAS tenía ENCADENADO a un HUMANO?](https://www.youtube.com/watch?v=Xewk4hCEFoo) — Bolvar pasó de gobernar Ventormenta a arder en la Puerta de Cólera y acabar con el Yelmo de Dominación en la cabeza. ¿Qué hacía colgado encima del Trono Helado, y quién eligió de verdad al nuevo Rey Exánime de World of Warcraft? Seguimos a Bolvar Fordragón desde la regencia de Ventormenta hasta…
 - **18:52 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [It’s Joever](https://www.reddit.com/r/wowforever/comments/1xryj0q/its_joever/) — US PvP server reached the tipping point after a few days lmao. Soon it will be horde only. Thanks Blizzard Edit: Source submitted by /u/Decent-Meaning-5594 [link] [comments]
+- **17:00 · AlterTime (web)** (es, Web especializada): [Como obtener el Escrito de Dalaran e invocar al jefe secreto de la mazmorra Ciudad de Dalaran en WoW Forever](https://altertime.es/article/como-obtener-el-escrito-de-dalaran-e-invocar-al-jefe-secreto-de-la-mazmorra-ciudad-de-dalaran-en-wo-w-forever) — ¡No te pierdas este jefe opcional!
 - **16:00 · Wowhead (noticias de Forever)** (en, Web especializada): [Level Faster with your Cozy Sleeping Bag in WoW: Forever](https://www.wowhead.com/news=383801/level-faster-with-your-cozy-sleeping-bag-in-wow-forever) — The Cozy Sleeping Bag in WoW: Forever gives you a 3% experience buff and is worth going out of your way for, even though it does take a while to get. Continue reading »
 - **15:58 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [standing around an area with 30 other people waiting for a specific mob to spawn and hopefully tag it for a chance at the 5% drop rate quest item (you need 12 of them) is so bad.](https://www.reddit.com/r/wowforever/comments/1xrtszt/standing_around_an_area_with_30_other_people/) — its so bad. its terrible. how did this happen? who thought this was okay? this is unplayable. submitted by /u/BHPhreak [link] [comments]
 - **15:57 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [First time playing WoW and I think I have just made a grave mistake](https://www.reddit.com/r/wowforever/comments/1xrtsqp/first_time_playing_wow_and_i_think_i_have_just/) — Guys, I’m level 32 already. What the fuck. I’m too old to be doing this. submitted by /u/TheKreator- [link] [comments]
@@ -440,9 +443,13 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **02:33 · Wowhead (noticias de Forever)** (en, Web especializada): [Hunter Class Buffs on WoW: Forever](https://www.wowhead.com/news=383702/hunter-buffs-on-wow-forever) — Hunters have been buffed in WoW: Forever, increasing the power of various abilities and passives! Continue reading »
 - **01:42 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [The night before Launch](https://www.reddit.com/r/wowforever/comments/1xmeqx8/the_night_before_launch/) — Source: WOW Facebook page submitted by /u/Puwn [link] [comments]
 - **01:05 · Wowhead (noticias de Forever)** (en, Web especializada): [Planet Azeroth with Bill Bailey: Plaguelands, Winterspring, and More](https://www.wowhead.com/news=383698/planet-azeroth-with-bill-bailey-plaguelands-winterspring-and-more) — The third episode of Planet Azeroth has been released, and it covers the extremes of Azeroth: the highs, the lows, the heat, the cold, and the murlocs. Continue reading »
-- **00:18 · Wowhead (noticias de Forever)** (en, Web especializada): [New Druid and Rogue Passive Reduces Energy Cost on A First Strike](https://www.wowhead.com/news=383699/new-druid-and-rogue-passive-reduces-energy-cost-on-a-first-strike) — A new passive has been added for Druids and Rogues in WoW: Forever that reduces energy costs on a first strike! Continue reading »
 
-## 02-11-2026
+## Fuentes que han fallado esta vez
 
-- **23:50 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [WoW Game Time added from Skyborne epic pack.](https://www.reddit.com/r/wowforever/comments/1xmc5n5/wow_game_time_added_from_skyborne_epic_pack/) — Blizzard just added my game time to my account. Added 32 days instead of 30! 48 hours y'all! submitted by /u/vascrypt [link] [comments]
-- **23:45 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [For all the 40yr old about to stay up for days.](https://www.reddit.com/r/wowforever/comments/1xmc1oe/for_all_the_40yr_old_about_to_stay_up_for_days/) — submitted by /u/FaceThruster8919 [link] [comments]
+- World of Warcraft (YouTube oficial): HTTP Error 404: Not Found
+- Wowhead (YouTube): HTTP Error 404: Not Found
+- MrGM: HTTP Error 404: Not Found
+- Quissy: HTTP Error 404: Not Found
+- Jokerd: HTTP Error 404: Not Found
+- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
+- Kodda (lore): HTTP Error 404: Not Found
