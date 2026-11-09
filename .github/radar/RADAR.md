@@ -1,10 +1,14 @@
-# Radar de WoW Forever · actualizado el 09-11-2026 22:49 (hora de España)
+# Radar de WoW Forever · actualizado el 09-11-2026 23:45 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 09-11-2026
 
+- **22:55 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [The game only crashed for you and no one else.](https://www.reddit.com/r/wowforever/comments/1xs50yv/the_game_only_crashed_for_you_and_no_one_else/) — We are all in game having a much better time now that the game specifically kicked you out. submitted by /u/TetraNotTetris [link] [comments]
+- **22:55 · Wowhead (noticias de Forever)** (en, Web especializada): [Blizzard Taking Down WoW: Forever Servers Shortly](https://www.wowhead.com/news=383815/blizzard-taking-down-wow-forever-servers-shortly) — Blizzard has announced via in-game server messages that they are taking down the WoW: Forever servers briefly. Continue reading »
+- **22:31 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [EU down brothers](https://www.reddit.com/r/wowforever/comments/1xs4els/eu_down_brothers/) — submitted by /u/breach7 [link] [comments]
+- **22:29 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Which color should I go for on my mount?](https://www.reddit.com/r/wowforever/comments/1xs4df9/which_color_should_i_go_for_on_my_mount/) — submitted by /u/dawgxyo [link] [comments]
 - **19:00 · Kodda (lore)** (es, Creador de contenido): [Por qué ARTHAS tenía ENCADENADO a un HUMANO?](https://www.youtube.com/watch?v=Xewk4hCEFoo) — Bolvar pasó de gobernar Ventormenta a arder en la Puerta de Cólera y acabar con el Yelmo de Dominación en la cabeza. ¿Qué hacía colgado encima del Trono Helado, y quién eligió de verdad al nuevo Rey Exánime de World of Warcraft? Seguimos a Bolvar Fordragón desde la regencia de Ventormenta hasta…
 - **18:52 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [It’s Joever](https://www.reddit.com/r/wowforever/comments/1xryj0q/its_joever/) — US PvP server reached the tipping point after a few days lmao. Soon it will be horde only. Thanks Blizzard Edit: Source submitted by /u/Decent-Meaning-5594 [link] [comments]
 - **16:00 · Wowhead (noticias de Forever)** (en, Web especializada): [Level Faster with your Cozy Sleeping Bag in WoW: Forever](https://www.wowhead.com/news=383801/level-faster-with-your-cozy-sleeping-bag-in-wow-forever) — The Cozy Sleeping Bag in WoW: Forever gives you a 3% experience buff and is worth going out of your way for, even though it does take a while to get. Continue reading »
@@ -442,4 +446,3 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 
 - **23:50 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [WoW Game Time added from Skyborne epic pack.](https://www.reddit.com/r/wowforever/comments/1xmc5n5/wow_game_time_added_from_skyborne_epic_pack/) — Blizzard just added my game time to my account. Added 32 days instead of 30! 48 hours y'all! submitted by /u/vascrypt [link] [comments]
 - **23:45 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [For all the 40yr old about to stay up for days.](https://www.reddit.com/r/wowforever/comments/1xmc1oe/for_all_the_40yr_old_about_to_stay_up_for_days/) — submitted by /u/FaceThruster8919 [link] [comments]
-- **22:57 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I crafted a Dark Portal surround for my monitor. Forever hype.](https://www.reddit.com/r/wowforever/comments/1xmau35/i_crafted_a_dark_portal_surround_for_my_monitor/) — Didn't even see there was a WoWForever subreddit, so this is a doublepost as I couldn't repost from #ClassicWoW Handmade out of EVA foam floor mats, foam clay, popsicle sticks, superglue and 2x little LED tealights. This is what I've been doing with my time while waiting for the Forever launch…
