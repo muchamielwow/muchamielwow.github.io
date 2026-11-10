@@ -1,13 +1,20 @@
-# Radar de WoW Forever · actualizado el 10-11-2026 00:40 (hora de España)
+# Radar de WoW Forever · actualizado el 10-11-2026 01:59 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
+## 10-11-2026
+
+- **01:36 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [Prepare for Forever, Try Midnight’s Talebound, and Discover Sweet Treats in WoW Weekly](https://us.forums.blizzard.com/en/wow/t/prepare-for-forever-try-midnight%E2%80%99s-talebound-and-discover-sweet-treats-in-wow-weekly/2408677/1) — [Prepare for Forever, Try Midnight’s Talebound, and Discover Sweet Treats in WoW Weekly] From the global launch of World of Warcraft: Forever on November 4 to the eerie adventures of Midnight’s Talebound demo and November’s sweet-themed Trading Post, this week’s news is packed with helpful guides,…
+- **01:26 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [Prepare for Forever, Try Midnight’s Talebound, and Discover Sweet Treats in WoW Weekly](https://us.forums.blizzard.com/en/wow/t/prepare-for-forever-try-midnight%E2%80%99s-talebound-and-discover-sweet-treats-in-wow-weekly/2408668/1) — [Prepare for Forever, Try Midnight’s Talebound, and Discover Sweet Treats in WoW Weekly] From the global launch of World of Warcraft: Forever on November 4 to the eerie adventures of Midnight’s Talebound demo and November’s sweet-themed Trading Post, this week’s news is packed with helpful guides,…
+
 ## 09-11-2026
 
+- **23:16 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I met a true ascetic, Bridge Sitter of the Bridge Sitters while he sat on a bridge](https://www.reddit.com/r/wowforever/comments/1xs5jxs/i_met_a_true_ascetic_bridge_sitter_of_the_bridge/) — submitted by /u/UndeadDinosaur [link] [comments]
 - **23:16 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [crying rn.](https://www.reddit.com/r/wowforever/comments/1xs5joy/crying_rn/) — just finished my 21hr shift as a sign spinner for dominos. came home to my 12 children as a single dad and the last one just dozed off as I planned to play Wow: Forever with my free time of 9 minutes and 29 seconds but the servers are down. I gave out a huge murloc scream and woke up half the…
 - **22:55 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [The game only crashed for you and no one else.](https://www.reddit.com/r/wowforever/comments/1xs50yv/the_game_only_crashed_for_you_and_no_one_else/) — We are all in game having a much better time now that the game specifically kicked you out. submitted by /u/TetraNotTetris [link] [comments]
 - **22:55 · Wowhead (noticias de Forever)** (en, Web especializada): [Blizzard Taking Down WoW: Forever Servers Shortly](https://www.wowhead.com/news=383815/blizzard-taking-down-wow-forever-servers-shortly) — Blizzard has announced via in-game server messages that they are taking down the WoW: Forever servers briefly. Continue reading »
+- **22:37 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Feels similar](https://www.reddit.com/r/wowforever/comments/1xs4khk/feels_similar/) — submitted by /u/Blussi [link] [comments]
 - **22:31 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [EU down brothers](https://www.reddit.com/r/wowforever/comments/1xs4els/eu_down_brothers/) — submitted by /u/breach7 [link] [comments]
 - **22:29 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Which color should I go for on my mount?](https://www.reddit.com/r/wowforever/comments/1xs4df9/which_color_should_i_go_for_on_my_mount/) — submitted by /u/dawgxyo [link] [comments]
 - **21:00 · AlterTime (web)** (es, Web especializada): [La reputación con una facción afecta al precio de las habilidades de nuestra clase en WoW Forever](https://altertime.es/article/la-reputacion-con-una-faccion-afecta-al-precio-de-las-habilidades-de-nuestra-clase-en-wo-w-forever) — ¡Ahorra oro gracias a esto!
@@ -441,8 +448,6 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **02:49 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Hunter Class Buffs on WoW: Forever](https://www.reddit.com/r/wowforever/comments/1xmg70j/hunter_class_buffs_on_wow_forever/) — ￼Trueshot Aura now increases Ranged Attack Power of the Party or Raid by: Rank 1: 20 (was 15) Rank 2: 35 (was 22) Rank 3: 50 (was 30) Rank 4: 75 (was 40) Rank 5: 100 (was 50) ￼ Aspect of the Hawk now increases Ranged Attack Power by: Rank 1: 20 (was 15) Rank 2: 35 (was 22) Rank 3: 50 (was 30) Rank…
 - **02:44 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Just dropped my wife off at the airport](https://www.reddit.com/r/wowforever/comments/1xmg3ch/just_dropped_my_wife_off_at_the_airport/) — When I told her I’ll miss you she responded with ‘Don’t pretend like you’re not excited to play your new Diablo game.’ I let her know ‘it’s Wow Forever… just like us!’ Needless to say, that didn’t land well but either way, I’ve got Wednesday to Saturday to fit 10+ hour days in! submitted by…
 - **02:33 · Wowhead (noticias de Forever)** (en, Web especializada): [Hunter Class Buffs on WoW: Forever](https://www.wowhead.com/news=383702/hunter-buffs-on-wow-forever) — Hunters have been buffed in WoW: Forever, increasing the power of various abilities and passives! Continue reading »
-- **01:42 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [The night before Launch](https://www.reddit.com/r/wowforever/comments/1xmeqx8/the_night_before_launch/) — Source: WOW Facebook page submitted by /u/Puwn [link] [comments]
-- **01:05 · Wowhead (noticias de Forever)** (en, Web especializada): [Planet Azeroth with Bill Bailey: Plaguelands, Winterspring, and More](https://www.wowhead.com/news=383698/planet-azeroth-with-bill-bailey-plaguelands-winterspring-and-more) — The third episode of Planet Azeroth has been released, and it covers the extremes of Azeroth: the highs, the lows, the heat, the cold, and the murlocs. Continue reading »
 
 ## Fuentes que han fallado esta vez
 
@@ -451,5 +456,5 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
-- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
+- AlterTime WoW Forever (YouTube): HTTP Error 500: Internal Server Error
 - Kodda (lore): HTTP Error 404: Not Found
