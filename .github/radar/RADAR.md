@@ -1,10 +1,12 @@
-# Radar de WoW Forever · actualizado el 10-11-2026 03:03 (hora de España)
+# Radar de WoW Forever · actualizado el 10-11-2026 03:51 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
 
 ## 10-11-2026
 
+- **03:08 · Wowhead (noticias de Forever)** (en, Web especializada): [Blizzard Made Character Creation on Higher Population Faction Increasingly Difficult](https://www.wowhead.com/news=383817/blizzard-made-character-creation-on-higher-population-faction-increasingly) — To maintain faction balance on PvP servers, Blizzard has adjusted their character creation system and it will become increasingly more difficult to create a character on the more populated faction. Continue reading »
+- **03:05 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [PvP Faction Balance Updates - November 10](https://us.forums.blizzard.com/en/wow/t/pvp-faction-balance-updates-november-10/2408781/1) — It’s vitally important that the PvP rulesets in WoW: Forever have balanced factions where both factions vie for supremacy, creating memories of epic victories and stunning defeats that we all remember for years to come. While even the most extreme case in a region is currently at roughly a 55/45…
 - **01:36 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [Prepare for Forever, Try Midnight’s Talebound, and Discover Sweet Treats in WoW Weekly](https://us.forums.blizzard.com/en/wow/t/prepare-for-forever-try-midnight%E2%80%99s-talebound-and-discover-sweet-treats-in-wow-weekly/2408677/1) — [Prepare for Forever, Try Midnight’s Talebound, and Discover Sweet Treats in WoW Weekly] From the global launch of World of Warcraft: Forever on November 4 to the eerie adventures of Midnight’s Talebound demo and November’s sweet-themed Trading Post, this week’s news is packed with helpful guides,…
 - **01:26 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [Prepare for Forever, Try Midnight’s Talebound, and Discover Sweet Treats in WoW Weekly](https://us.forums.blizzard.com/en/wow/t/prepare-for-forever-try-midnight%E2%80%99s-talebound-and-discover-sweet-treats-in-wow-weekly/2408668/1) — [Prepare for Forever, Try Midnight’s Talebound, and Discover Sweet Treats in WoW Weekly] From the global launch of World of Warcraft: Forever on November 4 to the eerie adventures of Midnight’s Talebound demo and November’s sweet-themed Trading Post, this week’s news is packed with helpful guides,…
 
@@ -445,7 +447,6 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **04:33 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Pro Tip - Don't go overboard for launch.](https://www.reddit.com/r/wowforever/comments/1xmieg7/pro_tip_dont_go_overboard_for_launch/) — I see a lot of posts of people with carbs, candy, energy drinks, and other trash food. Do yourself a favor and eat healthy and light. Maybe a slice or two of pizza and some water or something normal. Back in MoP launch I remember overstuffing myself with Beef Jerky and Monster Energy only to find…
 - **04:24 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [WoW Forever Beta Development Notes – Updated November 2](https://www.reddit.com/r/wowforever/comments/1xmi79k/wow_forever_beta_development_notes_updated/) — Please note: issue with the link. Need to scroll all the way down to the last post for 2 NOV (today). submitted by /u/orcofmordor [link] [comments]
 - **04:20 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [WoW Forever Beta Development Notes – Updated November 2](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-november-2/2360696/9) — Since the last full update to the Beta on October 15, we’ve continued to work to solve issues, refine classes, improve gameplay in all areas, and address feedback we received from Beta testers. What follows are the updates and changes that have been developed over those last 2.5 weeks. We’ve includ…
-- **03:50 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Fun Fact!: Trolls don't have last names in their culture/language!](https://www.reddit.com/r/wowforever/comments/1xmhh6r/fun_fact_trolls_dont_have_last_names_in_their/) — Trying to think up a name for my troll mage im running on the RPPVP server and found this set of events humorous so I had to draw it lol. submitted by /u/TheCrab27 [link] [comments]
 
 ## Fuentes que han fallado esta vez
 
@@ -454,5 +455,5 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
-- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
+- AlterTime WoW Forever (YouTube): HTTP Error 500: Internal Server Error
 - Kodda (lore): HTTP Error 404: Not Found
