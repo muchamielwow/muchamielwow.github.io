@@ -57,11 +57,11 @@
   },
   {
    "id": 2403040,
-   "titulo": "WoW: Forever Hotfixes - November 6, 2026",
-   "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-6-2026/2403040",
+   "titulo": "WoW: Forever Hotfixes - November 9, 2026",
+   "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-9-2026/2403040",
    "autor": "Kaivax",
    "fecha": "2026-11-06T02:34:10.279Z",
-   "resumen": "Hotfixes November 6, 2026 Classes Fixed an issue with the Quick and the Dead Legacy Talent where it sometimes did not work as intended. Cooldown Manager The Cooldown Manager will now correctly display the duration of…",
+   "resumen": "Hotfixes November 9, 2026 Classes Druid The Cooldown Manager no longer shows Berserk, and now correctly shows Lacerate when learned. Idol of Ferocity no longer lists Mangle as an ability it discounts. Feral Fixed an…",
    "foro": "Noticias"
   },
   {
