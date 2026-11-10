@@ -1,5 +1,23 @@
 [
  {
+  "url": "https://www.wowhead.com/news=383819/drowned-city-nerfs-and-reduced-population-in-zones-wow-forever-hotfixes-for",
+  "titulo": "Drowned City Nerfs & Reduced Population in Zones - WoW: Forever Hotfixes for November 9th",
+  "resumen": "Blizzard has posted hotfixes for today, which includes many class bug fixes, a nerf to The Drowned City, and reducing the population in zones with significant population. Continue reading »",
+  "fecha": "2026-11-10T04:30:43+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-9-2026/2403040/5",
+  "titulo": "WoW: Forever Hotfixes - November 9, 2026",
+  "resumen": "November 9, 2026 Classes Druid The Cooldown Manager no longer shows Berserk, and now correctly shows Lacerate when learned. Idol of Ferocity no longer lists Mangle as an ability it discounts. Feral Fixed an issue where Feral Charge (Cat) was not putting the Druid in combat right away. Fixed an …",
+  "fecha": "2026-11-10T04:23:46.156000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
   "url": "https://us.forums.blizzard.com/en/wow/t/pvp-faction-balance-updates-november-10/2408781/174",
   "titulo": "PvP Faction Balance Updates - November 10",
   "resumen": "It’s worth adding that earlier today, we implemented this change: Lowered the population of players in various zones where there was significant congestion. Developers’ notes: We’ve made this an even bigger change on the PvP ruleset, following feedback from players that they felt overcrowded in s…",
@@ -1404,6 +1422,15 @@
   "fiabilidad": "oficial"
  },
  {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-9-2026/2403040/4",
+  "titulo": "WoW: Forever Hotfixes - November 9, 2026",
+  "resumen": "November 6, 2026 Classes Fixed an issue with the Quick and the Dead Legacy Talent where it sometimes did not work as intended. Cooldown Manager The Cooldown Manager will now correctly display the duration of crowd control spells at all times, even when diminishing returns or mechanic reductions…",
+  "fecha": "2026-11-07T01:07:59.018000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
   "url": "https://www.wowhead.com/news=383794/many-class-dungeon-and-quest-fixes-wow-forever-hotfixes-for-november-6th",
   "titulo": "Many Class, Dungeon and Quest Fixes - WoW: Forever Hotfixes for November 6th",
   "resumen": "Blizzard has posted WoW: Forever hotfixes for today, which includes a lot of class, dungeon, and questing fixes! Continue reading »",
@@ -2001,6 +2028,15 @@
   "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-6-2026/2403040/1",
   "titulo": "WoW: Forever Hotfixes - November 6, 2026",
   "resumen": "Hotfixes November 6, 2026 Classes Fixed an issue with the Quick and the Dead Legacy Talent where it sometimes did not work as intended. Cooldown Manager The Cooldown Manager will now correctly display the duration of crowd control spells at all times, even when diminishing returns or mechanic r…",
+  "fecha": "2026-11-06T02:34:10.279000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-9-2026/2403040/1",
+  "titulo": "WoW: Forever Hotfixes - November 9, 2026",
+  "resumen": "Hotfixes November 9, 2026 Classes Druid The Cooldown Manager no longer shows Berserk, and now correctly shows Lacerate when learned. Idol of Ferocity no longer lists Mangle as an ability it discounts. Feral Fixed an issue where Feral Charge (Cat) was not putting the Druid in combat right away. …",
   "fecha": "2026-11-06T02:34:10.279000+00:00",
   "fuente": "Blizzard (mensajes del equipo)",
   "idioma": "en",
@@ -3769,23 +3805,5 @@
   "fuente": "Reddit r/wowforever (lo más votado del día)",
   "idioma": "en",
   "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xmj27o/we_are_so_back/",
-  "titulo": "We are so back",
-  "resumen": "submitted by /u/DuggerX [link] [comments]",
-  "fecha": "2026-11-03T04:07:26+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.wowhead.com/news=383704/wow-forever-official-development-notes-and-class-tuning",
-  "titulo": "WoW: Forever Official Development Notes and Class Tuning",
-  "resumen": "Blizzard has posted the official development notes and class tuning changes for the WoW: Forever launch! Continue reading »",
-  "fecha": "2026-11-03T03:51:28+00:00",
-  "fuente": "Wowhead (noticias de Forever)",
-  "idioma": "en",
-  "fiabilidad": "web"
  }
 ]
