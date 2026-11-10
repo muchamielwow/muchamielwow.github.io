@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 10-11-2026 01:59 (hora de España)
+# Radar de WoW Forever · actualizado el 10-11-2026 03:03 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -12,6 +12,7 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 
 - **23:16 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [I met a true ascetic, Bridge Sitter of the Bridge Sitters while he sat on a bridge](https://www.reddit.com/r/wowforever/comments/1xs5jxs/i_met_a_true_ascetic_bridge_sitter_of_the_bridge/) — submitted by /u/UndeadDinosaur [link] [comments]
 - **23:16 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [crying rn.](https://www.reddit.com/r/wowforever/comments/1xs5joy/crying_rn/) — just finished my 21hr shift as a sign spinner for dominos. came home to my 12 children as a single dad and the last one just dozed off as I planned to play Wow: Forever with my free time of 9 minutes and 29 seconds but the servers are down. I gave out a huge murloc scream and woke up half the…
+- **23:08 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [What did you expect? Sunshine and rainbows?](https://www.reddit.com/r/wowforever/comments/1xs5czq/what_did_you_expect_sunshine_and_rainbows/) — submitted by /u/OfficiallyExtinct [link] [comments]
 - **22:55 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [The game only crashed for you and no one else.](https://www.reddit.com/r/wowforever/comments/1xs50yv/the_game_only_crashed_for_you_and_no_one_else/) — We are all in game having a much better time now that the game specifically kicked you out. submitted by /u/TetraNotTetris [link] [comments]
 - **22:55 · Wowhead (noticias de Forever)** (en, Web especializada): [Blizzard Taking Down WoW: Forever Servers Shortly](https://www.wowhead.com/news=383815/blizzard-taking-down-wow-forever-servers-shortly) — Blizzard has announced via in-game server messages that they are taking down the WoW: Forever servers briefly. Continue reading »
 - **22:37 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Feels similar](https://www.reddit.com/r/wowforever/comments/1xs4khk/feels_similar/) — submitted by /u/Blussi [link] [comments]
@@ -445,9 +446,6 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **04:24 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [WoW Forever Beta Development Notes – Updated November 2](https://www.reddit.com/r/wowforever/comments/1xmi79k/wow_forever_beta_development_notes_updated/) — Please note: issue with the link. Need to scroll all the way down to the last post for 2 NOV (today). submitted by /u/orcofmordor [link] [comments]
 - **04:20 · Blizzard (mensajes del equipo)** (en, Oficial de Blizzard): [WoW Forever Beta Development Notes – Updated November 2](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-november-2/2360696/9) — Since the last full update to the Beta on October 15, we’ve continued to work to solve issues, refine classes, improve gameplay in all areas, and address feedback we received from Beta testers. What follows are the updates and changes that have been developed over those last 2.5 weeks. We’ve includ…
 - **03:50 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Fun Fact!: Trolls don't have last names in their culture/language!](https://www.reddit.com/r/wowforever/comments/1xmhh6r/fun_fact_trolls_dont_have_last_names_in_their/) — Trying to think up a name for my troll mage im running on the RPPVP server and found this set of events humorous so I had to draw it lol. submitted by /u/TheCrab27 [link] [comments]
-- **02:49 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Hunter Class Buffs on WoW: Forever](https://www.reddit.com/r/wowforever/comments/1xmg70j/hunter_class_buffs_on_wow_forever/) — ￼Trueshot Aura now increases Ranged Attack Power of the Party or Raid by: Rank 1: 20 (was 15) Rank 2: 35 (was 22) Rank 3: 50 (was 30) Rank 4: 75 (was 40) Rank 5: 100 (was 50) ￼ Aspect of the Hawk now increases Ranged Attack Power by: Rank 1: 20 (was 15) Rank 2: 35 (was 22) Rank 3: 50 (was 30) Rank…
-- **02:44 · Reddit r/wowforever (lo más votado del día)** (en, Comunidad (sin confirmar)): [Just dropped my wife off at the airport](https://www.reddit.com/r/wowforever/comments/1xmg3ch/just_dropped_my_wife_off_at_the_airport/) — When I told her I’ll miss you she responded with ‘Don’t pretend like you’re not excited to play your new Diablo game.’ I let her know ‘it’s Wow Forever… just like us!’ Needless to say, that didn’t land well but either way, I’ve got Wednesday to Saturday to fit 10+ hour days in! submitted by…
-- **02:33 · Wowhead (noticias de Forever)** (en, Web especializada): [Hunter Class Buffs on WoW: Forever](https://www.wowhead.com/news=383702/hunter-buffs-on-wow-forever) — Hunters have been buffed in WoW: Forever, increasing the power of various abilities and passives! Continue reading »
 
 ## Fuentes que han fallado esta vez
 
@@ -456,5 +454,5 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - MrGM: HTTP Error 404: Not Found
 - Quissy: HTTP Error 404: Not Found
 - Jokerd: HTTP Error 404: Not Found
-- AlterTime WoW Forever (YouTube): HTTP Error 500: Internal Server Error
+- AlterTime WoW Forever (YouTube): HTTP Error 404: Not Found
 - Kodda (lore): HTTP Error 404: Not Found
