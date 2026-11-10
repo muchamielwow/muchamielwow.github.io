@@ -1,5 +1,23 @@
 [
  {
+  "url": "https://us.forums.blizzard.com/en/wow/t/pvp-faction-balance-updates-november-10/2408781/174",
+  "titulo": "PvP Faction Balance Updates - November 10",
+  "resumen": "It’s worth adding that earlier today, we implemented this change: Lowered the population of players in various zones where there was significant congestion. Developers’ notes: We’ve made this an even bigger change on the PvP ruleset, following feedback from players that they felt overcrowded in s…",
+  "fecha": "2026-11-10T03:11:34.974000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
+  "url": "https://us.forums.blizzard.com/en/wow/t/pvp-faction-balance-updates-november-10/2408781/158",
+  "titulo": "PvP Faction Balance Updates - November 10",
+  "resumen": "We did significant investigation into that, and there is no evidence that trial characters had any impact at all. When we say 55/45, we’re looking at the active logged-in population across all levels over a specific period of time.",
+  "fecha": "2026-11-10T03:04:13.020000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
   "url": "https://www.wowhead.com/news=383817/blizzard-made-character-creation-on-higher-population-faction-increasingly",
   "titulo": "Blizzard Made Character Creation on Higher Population Faction Increasingly Difficult",
   "resumen": "To maintain faction balance on PvP servers, Blizzard has adjusted their character creation system and it will become increasingly more difficult to create a character on the more populated faction. Continue reading »",
@@ -34,6 +52,15 @@
   "fuente": "Blizzard (mensajes del equipo)",
   "idioma": "en",
   "fiabilidad": "oficial"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xs5k7m/while_the_servers_are_down_i_would_like_to/",
+  "titulo": "While the servers are down, I would like to introduce... a new Profession",
+  "resumen": "Expedition The idea is to allow players to offer ground transportation to other players. You could organize a caravan, invite up to 4 passengers, and take them along for a ride to their desired destination. Each passenger would pay a small fee to join the journey. Imagine being in a dungeon group…",
+  "fecha": "2026-11-09T22:16:36+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
  },
  {
   "url": "https://www.reddit.com/r/wowforever/comments/1xs5jxs/i_met_a_true_ascetic_bridge_sitter_of_the_bridge/",
@@ -3760,32 +3787,5 @@
   "fuente": "Wowhead (noticias de Forever)",
   "idioma": "en",
   "fiabilidad": "web"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xmieg7/pro_tip_dont_go_overboard_for_launch/",
-  "titulo": "Pro Tip - Don't go overboard for launch.",
-  "resumen": "I see a lot of posts of people with carbs, candy, energy drinks, and other trash food. Do yourself a favor and eat healthy and light. Maybe a slice or two of pizza and some water or something normal. Back in MoP launch I remember overstuffing myself with Beef Jerky and Monster Energy only to find…",
-  "fecha": "2026-11-03T03:33:53+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xmi79k/wow_forever_beta_development_notes_updated/",
-  "titulo": "WoW Forever Beta Development Notes – Updated November 2",
-  "resumen": "Please note: issue with the link. Need to scroll all the way down to the last post for 2 NOV (today). submitted by /u/orcofmordor [link] [comments]",
-  "fecha": "2026-11-03T03:24:03+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-november-2/2360696/9",
-  "titulo": "WoW Forever Beta Development Notes – Updated November 2",
-  "resumen": "Since the last full update to the Beta on October 15, we’ve continued to work to solve issues, refine classes, improve gameplay in all areas, and address feedback we received from Beta testers. What follows are the updates and changes that have been developed over those last 2.5 weeks. We’ve includ…",
-  "fecha": "2026-11-03T03:20:33.210000+00:00",
-  "fuente": "Blizzard (mensajes del equipo)",
-  "idioma": "en",
-  "fiabilidad": "oficial"
  }
 ]
