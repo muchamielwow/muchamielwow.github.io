@@ -1,5 +1,77 @@
 [
  {
+  "url": "https://www.wowhead.com/news=383837/hunter-pet-nerf-and-enhancement-shaman-changes-wow-forever-hotfixes-for-november",
+  "titulo": "Hunter Pet Nerf and Enhancement Shaman Changes - WoW: Forever Hotfixes for November 10, 2026",
+  "resumen": "Blizzard has posted hotfixes for today, which includes a pet nerf for Hunters, a pet buff for Warlocks, Enhancement Shaman changes and more! Continue reading »",
+  "fecha": "2026-11-11T03:30:15+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-10-2026/2403040/6",
+  "titulo": "WoW: Forever Hotfixes - November 10, 2026",
+  "resumen": "November 10, 2026 Auction House With realm restarts: Adjusted the minimum deposit amount to 1 copper (was 1 silver). Fixed a bug causing unread mail to incorrectly read as from ‘Stormwind Auction House’ for all players. Fixed a bug that was causing some mail to be delivered in about 2 minutes, r…",
+  "fecha": "2026-11-11T03:27:33.720000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xt6y59/blizzard_cant_we_keep_the_purple_campfire_as/",
+  "titulo": "Blizzard, Can't we keep the purple campfire as purely cosmetic? Please don't remove this.",
+  "resumen": "Can't we keep it as purely a cosmetic? I think it adds a lot of atmosphere in some places. You can remove the buff from it but why make people earn such a pretty cosmetic watching a stream for 4 hours just to RIP it away from us in a few weeks? Surely the entire code doesn't have to be reworked…",
+  "fecha": "2026-11-11T03:12:25+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
+ },
+ {
+  "url": "https://www.wowhead.com/news=383833/blizzard-addressing-missing-shaman-totems-due-to-mondays-server-issue-in-wow",
+  "titulo": "Blizzard Addressing Missing Shaman Totems Due to Monday's Server Issue in WoW: Forever",
+  "resumen": "Blizzard has fixed an issue with missing Shaman totems due to server issues on Monday. Continue reading »",
+  "fecha": "2026-11-11T01:13:27+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xt3if2/needing_on_boes_in_dungeons_should_bind_them_to/",
+  "titulo": "Needing on BoEs in dungeons should bind them to your character.",
+  "resumen": "Greed roll = stays BoE and you can sell on AH Need roll = Instantly binds it to your character Such a simple solution to prevent most cases of ninja looting, especially in high-level dungeons where epics can drop. It's always a shame to see an epic go to someone who clearly intends to sell it on…",
+  "fecha": "2026-11-11T00:28:49+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xt2ria/watermill_in_riverglades_turns_the_wrong_way/",
+  "titulo": "Watermill in Riverglades turns the wrong way",
+  "resumen": "Hey guys, just went to Riverglades, love it so far, but the watermill isn't supposed to turn against the riverstream. I hope i'm stupid and don't know how watermills work or this will be fixed :) submitted by /u/TaylorSwiftiee [link] [comments]",
+  "fecha": "2026-11-10T23:56:58+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xt27ng/uhhh_new_wow_player_i_hit_the_support_button_to/",
+  "titulo": "Uhhh, new WoW player. I hit the support button to get unstuck and now I'm here? How do I get back to the ice place?",
+  "resumen": "Any help is appreciated, kind of scared to walk past the red lady thing there... I'll only level 11... submitted by /u/DontTakeMeSeriousli [link] [comments]",
+  "fecha": "2026-11-10T23:32:40+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xt03fb/hotfix_coming_soon_level_48_quests_will_give_more/",
+  "titulo": "Hotfix Coming Soon: Level 48+ Quests Will Give More Gold",
+  "resumen": "Kaivax just posted an update about gold from quests in WoW: Forever . As many have heard, max level quests no longer give gold instead of experience (a change implemented at the end of Vanilla). Kaivax confirms this was a conscious choice, \"as it created an incentive for players to hold a full…",
+  "fecha": "2026-11-10T22:02:16+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
+ },
+ {
   "url": "https://www.wowhead.com/news=383832/blizzard-adding-gold-to-many-quests-near-max-level-in-next-24-hours",
   "titulo": "Blizzard Adding Gold to Many Quests Near Max Level in WoW: Forever",
   "resumen": "Blizzard is adding gold to most quests above level 48, including ones that never previously rewarded gold at all! Continue reading »",
@@ -27,6 +99,15 @@
   "fiabilidad": "web"
  },
  {
+  "url": "https://us.forums.blizzard.com/en/wow/t/the-majority-wants-increased-dungeon-xp/2406555/254",
+  "titulo": "The majority WANTS increased dungeon XP",
+  "resumen": "We’ve tracked this very carefully, and the hotfix that we deployed on Sunday, November 8 took dungeon kill XP from 40% of the values in Classic Era to 60% of the values in Classic Era. We have subsequently felt that the adjustment is working well to produce dungeon leveling speeds that fit with the…",
+  "fecha": "2026-11-10T21:35:22.464000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
   "url": "https://www.wowhead.com/news=383828/vendor-price-changes-on-wow-forever-iron-grenade-shuffle-nerfed",
   "titulo": "Vendor Price Changes on WoW: Forever - Iron Grenade Shuffle Dead",
   "resumen": "With the weekly reset, many items had their Vendor Prices changed on WoW: Forever, likely targeting Vendor Shuffles. Continue reading »",
@@ -40,6 +121,15 @@
   "titulo": "Guess i dont have to worry about Mount money anymore.",
   "resumen": "Dropped from a lvl 42 buccaneer in Riverglades.. am 4 bars away from 40, and was short gold for my mount. not no more lol submitted by /u/Critizin [link] [comments]",
   "fecha": "2026-11-10T20:49:32+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xsxs27/i_wish_to_keep_my_own_gold_one_day/",
+  "titulo": "I wish to keep my own gold one day",
+  "resumen": "submitted by /u/Xantre [link] [comments]",
+  "fecha": "2026-11-10T20:30:10+00:00",
   "fuente": "Reddit r/wowforever (lo más votado del día)",
   "idioma": "en",
   "fiabilidad": "comunidad"
@@ -76,6 +166,15 @@
   "titulo": "Me, chilling on the RP ruleset, seeing the dozens of threads about faction balance and dungeon xp...",
   "resumen": "submitted by /u/The_Noremac42 [link] [comments]",
   "fecha": "2026-11-10T18:26:09+00:00",
+  "fuente": "Reddit r/wowforever (lo más votado del día)",
+  "idioma": "en",
+  "fiabilidad": "comunidad"
+ },
+ {
+  "url": "https://www.reddit.com/r/wowforever/comments/1xstic1/appreciation_post_for_people_giving_drive_by_buffs/",
+  "titulo": "Appreciation post for people giving drive by buffs",
+  "resumen": "Just wanted to say what I never get to; thank you <3 submitted by /u/packetdr0p [link] [comments]",
+  "fecha": "2026-11-10T17:48:33+00:00",
   "fuente": "Reddit r/wowforever (lo más votado del día)",
   "idioma": "en",
   "fiabilidad": "comunidad"
@@ -335,6 +434,15 @@
  {
   "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-9-2026/2403040/5",
   "titulo": "WoW: Forever Hotfixes - November 9, 2026",
+  "resumen": "November 9, 2026 Classes Druid The Cooldown Manager no longer shows Berserk, and now correctly shows Lacerate when learned. Idol of Ferocity no longer lists Mangle as an ability it discounts. Feral Fixed an issue where Feral Charge (Cat) was not putting the Druid in combat right away. Fixed an …",
+  "fecha": "2026-11-10T04:23:46.156000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-10-2026/2403040/5",
+  "titulo": "WoW: Forever Hotfixes - November 10, 2026",
   "resumen": "November 9, 2026 Classes Druid The Cooldown Manager no longer shows Berserk, and now correctly shows Lacerate when learned. Idol of Ferocity no longer lists Mangle as an ability it discounts. Feral Fixed an issue where Feral Charge (Cat) was not putting the Druid in combat right away. Fixed an …",
   "fecha": "2026-11-10T04:23:46.156000+00:00",
   "fuente": "Blizzard (mensajes del equipo)",
@@ -1890,6 +1998,15 @@
   "fiabilidad": "oficial"
  },
  {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-10-2026/2403040/4",
+  "titulo": "WoW: Forever Hotfixes - November 10, 2026",
+  "resumen": "November 6, 2026 Classes Fixed an issue with the Quick and the Dead Legacy Talent where it sometimes did not work as intended. Cooldown Manager The Cooldown Manager will now correctly display the duration of crowd control spells at all times, even when diminishing returns or mechanic reductions…",
+  "fecha": "2026-11-07T01:07:59.018000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
   "url": "https://www.wowhead.com/news=383794/many-class-dungeon-and-quest-fixes-wow-forever-hotfixes-for-november-6th",
   "titulo": "Many Class, Dungeon and Quest Fixes - WoW: Forever Hotfixes for November 6th",
   "resumen": "Blizzard has posted WoW: Forever hotfixes for today, which includes a lot of class, dungeon, and questing fixes! Continue reading »",
@@ -2496,6 +2613,15 @@
   "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-9-2026/2403040/1",
   "titulo": "WoW: Forever Hotfixes - November 9, 2026",
   "resumen": "Hotfixes November 9, 2026 Classes Druid The Cooldown Manager no longer shows Berserk, and now correctly shows Lacerate when learned. Idol of Ferocity no longer lists Mangle as an ability it discounts. Feral Fixed an issue where Feral Charge (Cat) was not putting the Druid in combat right away. …",
+  "fecha": "2026-11-06T02:34:10.279000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-10-2026/2403040/1",
+  "titulo": "WoW: Forever Hotfixes - November 10, 2026",
+  "resumen": "Hotfixes November 10, 2026 Auction House With realm restarts: Adjusted the minimum deposit amount to 1 copper (was 1 silver). Fixed a bug causing unread mail to incorrectly read as from ‘Stormwind Auction House’ for all players. Fixed a bug that was causing some mail to be delivered in about 2 …",
   "fecha": "2026-11-06T02:34:10.279000+00:00",
   "fuente": "Blizzard (mensajes del equipo)",
   "idioma": "en",
@@ -3748,69 +3874,6 @@
   "titulo": "Anyone else prefer Horde's races, but prefer Alliance's cities?",
   "resumen": "TB is probably the best city in the game, but the overall standard of Alliance cities, outside that, just feels higher to me. That said, I much prefer the Horde races aesthetics and vibes. Anyone else feel the same? Which is more important? submitted by /u/JowyJoJoJrShabadoo [link] [comments]",
   "fecha": "2026-11-04T06:59:03+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xnf6q9/wow_forever_tomorrow/",
-  "titulo": "Wow forever tomorrow",
-  "resumen": "In bed rn kicking my feet and shit submitted by /u/_memelorddotjpeg_ [link] [comments]",
-  "fecha": "2026-11-04T04:42:56+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xndgnn/getting_old/",
-  "titulo": "Getting old...",
-  "resumen": "submitted by /u/4plyLuxuriousTissue [link] [comments]",
-  "fecha": "2026-11-04T03:14:05+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xncmys/me_m_31_going_to_sleep_tonight/",
-  "titulo": "Me (M 31) going to sleep tonight",
-  "resumen": "submitted by /u/domZ1026 [link] [comments]",
-  "fecha": "2026-11-04T02:32:44+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xnc2k6/nobody_is_taking_the_launch_as_serious_as_me/",
-  "titulo": "Nobody is taking the launch as serious as me.",
-  "resumen": "submitted by /u/zyyklon [link] [comments]",
-  "fecha": "2026-11-04T02:05:20+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.youtube.com/shorts/YNCIM5GQ4kI",
-  "titulo": "Ready to start building those Legacy Points tomorrow?",
-  "resumen": "Watch the full WoW: Forever Launch Overview to get ready!",
-  "fecha": "2026-11-04T01:55:51+00:00",
-  "fuente": "World of Warcraft (YouTube oficial)",
-  "idioma": "en",
-  "fiabilidad": "oficial"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xnb0ya/clock_is_ticking/",
-  "titulo": "Clock is ticking...",
-  "resumen": "submitted by /u/Poonjesticle [link] [comments]",
-  "fecha": "2026-11-04T01:14:43+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xn9omz/opinion_trying_to_be_metaeverything_has_really/",
-  "titulo": "Opinion: Trying to be meta-everything has really taken the joy out of modern gaming. seeing the shaman outcry makes me really miss classic gaming where we just went in blind and picked what we liked…",
-  "resumen": "I remember before trying to be meta everything that people just played what they liked and they didnt know better if it was meta or not and to me at least everyone had more fun not knowing what was \"best in slot\" or S tier. be in games like elder scrolls where you played what you thought was fun or…",
-  "fecha": "2026-11-04T00:12:51+00:00",
   "fuente": "Reddit r/wowforever (lo más votado del día)",
   "idioma": "en",
   "fiabilidad": "comunidad"
