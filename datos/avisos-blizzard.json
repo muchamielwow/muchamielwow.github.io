@@ -2,6 +2,15 @@
  "fuente": "https://us.forums.blizzard.com/en/wow/groups/blizzard-tracker/posts",
  "avisos": [
   {
+   "id": 2412856,
+   "titulo": "The WoW Forever Podcast: Episode 7 - Turbo Nerds Lore-ing Out ft. @Nobbel87 & Platinum WoW",
+   "url": "https://us.forums.blizzard.com/en/wow/t/the-wow-forever-podcast-episode-7-turbo-nerds-lore-ing-out-ft-nobbel87-platinum-wow/2412856",
+   "autor": "Kaivax",
+   "fecha": "2026-11-12T17:46:04.799Z",
+   "resumen": "[Turbo Nerds Lore-ing Out | Episode 7 - The WoW: Forever Podcast]",
+   "foro": "Forever"
+  },
+  {
    "id": 2408781,
    "titulo": "PvP Faction Balance Updates - November 10",
    "url": "https://us.forums.blizzard.com/en/wow/t/pvp-faction-balance-updates-november-10/2408781",
@@ -99,15 +108,6 @@
    "fecha": "2026-11-05T15:22:45.960Z",
    "resumen": "Welcome! Please read this before posting in this forum. What follows are guidelines for how this forum should and shouldn’t be used. WoW Forever Bug Report Forum Guidelines: Please do not post off-topic banter or…",
    "foro": "Noticias"
-  },
-  {
-   "id": 2401646,
-   "titulo": "Issues Resolved for Invite-a-Friend Players",
-   "url": "https://us.forums.blizzard.com/en/wow/t/issues-resolved-for-invite-a-friend-players/2401646",
-   "autor": "Kaivax",
-   "fecha": "2026-11-05T02:43:58.499Z",
-   "resumen": "With a hotfix that is now live, we’ve fixed an issue where players who joined WoW Forever by using an Invite-a-Friend Code were unexpectedly restricted from using certain chat channels, leveling past 10, participating…",
-   "foro": "Forever"
   }
  ]
 }
