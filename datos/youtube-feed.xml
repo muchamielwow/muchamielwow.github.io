@@ -20,8 +20,8 @@
    <name>Muchamiel</name>
    <uri>https://www.youtube.com/channel/UCLKDtwQj4YDatBOQPkOlDlA</uri>
   </author>
-  <published>2026-11-15T14:34:20+00:00</published>
-  <updated>2026-11-15T14:35:31+00:00</updated>
+  <published>2026-11-15T19:49:33+00:00</published>
+  <updated>2026-11-15T20:03:46+00:00</updated>
   <media:group>
    <media:title>[LIVE🔴] SE ACABARON LOS BOOSTEOS EN FOREVER HUNTER LVL 53 LA MEJOR GUÍA DE LEVEO RESTEDXP |MUCHAMIEL</media:title>
    <media:content url="https://www.youtube.com/v/HoGLQzFZd4s?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
@@ -43,8 +43,80 @@ INSTAGRAM: https://www.instagram.com/muchamiel_/
 
 #wow #classic #worldofwarcraft</media:description>
    <media:community>
-    <media:starRating count="9" average="5.00" min="1" max="5"/>
-    <media:statistics views="283"/>
+    <media:starRating count="41" average="5.00" min="1" max="5"/>
+    <media:statistics views="10197"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:fkhm7TNosPU</id>
+  <yt:videoId>fkhm7TNosPU</yt:videoId>
+  <yt:channelId>UCLKDtwQj4YDatBOQPkOlDlA</yt:channelId>
+  <title>LA MONTURA TE CUESTA MÁS SI ERES DE ESTA RAZA | MUCHAMIEL #shorts #wow #worldofwarcraft</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/fkhm7TNosPU"/>
+  <author>
+   <name>Muchamiel</name>
+   <uri>https://www.youtube.com/channel/UCLKDtwQj4YDatBOQPkOlDlA</uri>
+  </author>
+  <published>2026-11-15T17:32:41+00:00</published>
+  <updated>2026-11-15T17:32:46+00:00</updated>
+  <media:group>
+   <media:title>LA MONTURA TE CUESTA MÁS SI ERES DE ESTA RAZA | MUCHAMIEL #shorts #wow #worldofwarcraft</media:title>
+   <media:content url="https://www.youtube.com/v/fkhm7TNosPU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/fkhm7TNosPU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>📘 Guías de WoW Forever (clases, macros, calculadora): https://muchamielwow.github.io
+
+➡️ SÍGUEME EN MIS DIRECTOS:
+TWITCH: https://www.twitch.tv/muchamiel
+KICK: https://kick.com/muchamiel
+
+➡️SÍGUEME EN MIS OTRAS REDES
+TIKTOK: https://www.tiktok.com/@muchamielwow
+TWITTER: https://twitter.com/Muchamiel_
+INSTAGRAM: https://www.instagram.com/muchamiel_/
+
+➡️Y EL SERVIDOR DE DISCORD: https://discord.gg/U8VkN5yXJ8
+
+#wow #classic #worldofwarcraft</media:description>
+   <media:community>
+    <media:starRating count="100" average="5.00" min="1" max="5"/>
+    <media:statistics views="3448"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:BYwcIrwH4bY</id>
+  <yt:videoId>BYwcIrwH4bY</yt:videoId>
+  <yt:channelId>UCLKDtwQj4YDatBOQPkOlDlA</yt:channelId>
+  <title>EL ENCLAVE ESCARLATA LLEGA A WOW FOREVER | MUCHAMIEL #shorts #wow #worldofwarcraft</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/BYwcIrwH4bY"/>
+  <author>
+   <name>Muchamiel</name>
+   <uri>https://www.youtube.com/channel/UCLKDtwQj4YDatBOQPkOlDlA</uri>
+  </author>
+  <published>2026-11-15T17:32:28+00:00</published>
+  <updated>2026-11-15T17:32:31+00:00</updated>
+  <media:group>
+   <media:title>EL ENCLAVE ESCARLATA LLEGA A WOW FOREVER | MUCHAMIEL #shorts #wow #worldofwarcraft</media:title>
+   <media:content url="https://www.youtube.com/v/BYwcIrwH4bY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/BYwcIrwH4bY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>📘 Guías de WoW Forever (clases, macros, calculadora): https://muchamielwow.github.io
+
+➡️ SÍGUEME EN MIS DIRECTOS:
+TWITCH: https://www.twitch.tv/muchamiel
+KICK: https://kick.com/muchamiel
+
+➡️SÍGUEME EN MIS OTRAS REDES
+TIKTOK: https://www.tiktok.com/@muchamielwow
+TWITTER: https://twitter.com/Muchamiel_
+INSTAGRAM: https://www.instagram.com/muchamiel_/
+
+➡️Y EL SERVIDOR DE DISCORD: https://discord.gg/U8VkN5yXJ8
+
+#wow #classic #worldofwarcraft</media:description>
+   <media:community>
+    <media:starRating count="80" average="5.00" min="1" max="5"/>
+    <media:statistics views="1878"/>
    </media:community>
   </media:group>
  </entry>
@@ -83,8 +155,8 @@ INSTAGRAM: https://www.instagram.com/muchamiel_/
 
 #wow #classic #worldofwarcraft</media:description>
    <media:community>
-    <media:starRating count="245" average="5.00" min="1" max="5"/>
-    <media:statistics views="6070"/>
+    <media:starRating count="493" average="5.00" min="1" max="5"/>
+    <media:statistics views="29496"/>
    </media:community>
   </media:group>
  </entry>
@@ -122,7 +194,7 @@ INSTAGRAM: https://www.instagram.com/muchamiel_/
 #wow #classic #worldofwarcraft</media:description>
    <media:community>
     <media:starRating count="60" average="5.00" min="1" max="5"/>
-    <media:statistics views="27475"/>
+    <media:statistics views="27595"/>
    </media:community>
   </media:group>
  </entry>
@@ -157,8 +229,8 @@ INSTAGRAM: https://www.instagram.com/muchamiel_/
 
 #wow #classic #worldofwarcraft</media:description>
    <media:community>
-    <media:starRating count="220" average="5.00" min="1" max="5"/>
-    <media:statistics views="16630"/>
+    <media:starRating count="234" average="5.00" min="1" max="5"/>
+    <media:statistics views="18413"/>
    </media:community>
   </media:group>
  </entry>
@@ -193,8 +265,8 @@ INSTAGRAM: https://www.instagram.com/muchamiel_/
 
 #wow #classic #worldofwarcraft</media:description>
    <media:community>
-    <media:starRating count="117" average="5.00" min="1" max="5"/>
-    <media:statistics views="7511"/>
+    <media:starRating count="135" average="5.00" min="1" max="5"/>
+    <media:statistics views="8815"/>
    </media:community>
   </media:group>
  </entry>
@@ -233,8 +305,8 @@ INSTAGRAM: https://www.instagram.com/muchamiel_/
 
 #wow #classic #worldofwarcraft</media:description>
    <media:community>
-    <media:starRating count="128" average="5.00" min="1" max="5"/>
-    <media:statistics views="16005"/>
+    <media:starRating count="130" average="5.00" min="1" max="5"/>
+    <media:statistics views="16668"/>
    </media:community>
   </media:group>
  </entry>
@@ -272,7 +344,7 @@ INSTAGRAM: https://www.instagram.com/muchamiel_/
 #wow #classic #worldofwarcraft</media:description>
    <media:community>
     <media:starRating count="81" average="5.00" min="1" max="5"/>
-    <media:statistics views="28604"/>
+    <media:statistics views="28625"/>
    </media:community>
   </media:group>
  </entry>
@@ -311,8 +383,8 @@ INSTAGRAM: https://www.instagram.com/muchamiel_/
 
 #wow #classic #worldofwarcraft</media:description>
    <media:community>
-    <media:starRating count="286" average="5.00" min="1" max="5"/>
-    <media:statistics views="22377"/>
+    <media:starRating count="291" average="5.00" min="1" max="5"/>
+    <media:statistics views="23026"/>
    </media:community>
   </media:group>
  </entry>
@@ -350,7 +422,7 @@ INSTAGRAM: https://www.instagram.com/muchamiel_/
 #wow #classic #worldofwarcraft</media:description>
    <media:community>
     <media:starRating count="77" average="5.00" min="1" max="5"/>
-    <media:statistics views="31057"/>
+    <media:statistics views="31058"/>
    </media:community>
   </media:group>
  </entry>
@@ -385,8 +457,8 @@ INSTAGRAM: https://www.instagram.com/muchamiel_/
 
 #wow #classic #worldofwarcraft</media:description>
    <media:community>
-    <media:starRating count="427" average="5.00" min="1" max="5"/>
-    <media:statistics views="20209"/>
+    <media:starRating count="455" average="5.00" min="1" max="5"/>
+    <media:statistics views="21224"/>
    </media:community>
   </media:group>
  </entry>
@@ -421,8 +493,8 @@ INSTAGRAM: https://www.instagram.com/muchamiel_/
 
 #wow #classic #worldofwarcraft</media:description>
    <media:community>
-    <media:starRating count="759" average="5.00" min="1" max="5"/>
-    <media:statistics views="38020"/>
+    <media:starRating count="764" average="5.00" min="1" max="5"/>
+    <media:statistics views="38231"/>
    </media:community>
   </media:group>
  </entry>
@@ -461,8 +533,8 @@ INSTAGRAM: https://www.instagram.com/muchamiel_/
 
 #wow #classic #worldofwarcraft</media:description>
    <media:community>
-    <media:starRating count="609" average="5.00" min="1" max="5"/>
-    <media:statistics views="41847"/>
+    <media:starRating count="610" average="5.00" min="1" max="5"/>
+    <media:statistics views="41983"/>
    </media:community>
   </media:group>
  </entry>
@@ -499,80 +571,8 @@ INSTAGRAM: https://www.instagram.com/muchamiel_/
 
 #wow #classic #worldofwarcraft</media:description>
    <media:community>
-    <media:starRating count="88" average="5.00" min="1" max="5"/>
-    <media:statistics views="35307"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:dggwrpVFjbk</id>
-  <yt:videoId>dggwrpVFjbk</yt:videoId>
-  <yt:channelId>UCLKDtwQj4YDatBOQPkOlDlA</yt:channelId>
-  <title>LA NUEVA MONTURA DE RETAIL NO MUEVE LAS RUEDAS | MUCHAMIEL #shorts #wow #worldofwarcraft</title>
-  <link rel="alternate" href="https://www.youtube.com/shorts/dggwrpVFjbk"/>
-  <author>
-   <name>Muchamiel</name>
-   <uri>https://www.youtube.com/channel/UCLKDtwQj4YDatBOQPkOlDlA</uri>
-  </author>
-  <published>2026-11-11T20:21:50+00:00</published>
-  <updated>2026-11-11T20:21:55+00:00</updated>
-  <media:group>
-   <media:title>LA NUEVA MONTURA DE RETAIL NO MUEVE LAS RUEDAS | MUCHAMIEL #shorts #wow #worldofwarcraft</media:title>
-   <media:content url="https://www.youtube.com/v/dggwrpVFjbk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i1.ytimg.com/vi/dggwrpVFjbk/hqdefault.jpg" width="480" height="360"/>
-   <media:description>📘 Guías de WoW Forever (clases, macros, calculadora): https://muchamielwow.github.io
-
-➡️ SÍGUEME EN MIS DIRECTOS:
-TWITCH: https://www.twitch.tv/muchamiel
-KICK: https://kick.com/muchamiel
-
-➡️SÍGUEME EN MIS OTRAS REDES
-TIKTOK: https://www.tiktok.com/@muchamielwow
-TWITTER: https://twitter.com/Muchamiel_
-INSTAGRAM: https://www.instagram.com/muchamiel_/
-
-➡️Y EL SERVIDOR DE DISCORD: https://discord.gg/U8VkN5yXJ8
-
-#wow #classic #worldofwarcraft</media:description>
-   <media:community>
-    <media:starRating count="491" average="5.00" min="1" max="5"/>
-    <media:statistics views="38621"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:AGm5RcRaOgM</id>
-  <yt:videoId>AGm5RcRaOgM</yt:videoId>
-  <yt:channelId>UCLKDtwQj4YDatBOQPkOlDlA</yt:channelId>
-  <title>TODA UNA GUILD CONTRA XOKAS EN WOW FOREVER | MUCHAMIEL #shorts #wow #worldofwarcraft</title>
-  <link rel="alternate" href="https://www.youtube.com/shorts/AGm5RcRaOgM"/>
-  <author>
-   <name>Muchamiel</name>
-   <uri>https://www.youtube.com/channel/UCLKDtwQj4YDatBOQPkOlDlA</uri>
-  </author>
-  <published>2026-11-11T20:21:39+00:00</published>
-  <updated>2026-11-11T20:21:45+00:00</updated>
-  <media:group>
-   <media:title>TODA UNA GUILD CONTRA XOKAS EN WOW FOREVER | MUCHAMIEL #shorts #wow #worldofwarcraft</media:title>
-   <media:content url="https://www.youtube.com/v/AGm5RcRaOgM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i2.ytimg.com/vi/AGm5RcRaOgM/hqdefault.jpg" width="480" height="360"/>
-   <media:description>📘 Guías de WoW Forever (clases, macros, calculadora): https://muchamielwow.github.io
-
-➡️ SÍGUEME EN MIS DIRECTOS:
-TWITCH: https://www.twitch.tv/muchamiel
-KICK: https://kick.com/muchamiel
-
-➡️SÍGUEME EN MIS OTRAS REDES
-TIKTOK: https://www.tiktok.com/@muchamielwow
-TWITTER: https://twitter.com/Muchamiel_
-INSTAGRAM: https://www.instagram.com/muchamiel_/
-
-➡️Y EL SERVIDOR DE DISCORD: https://discord.gg/U8VkN5yXJ8
-
-#wow #classic #worldofwarcraft</media:description>
-   <media:community>
-    <media:starRating count="2249" average="5.00" min="1" max="5"/>
-    <media:statistics views="125197"/>
+    <media:starRating count="89" average="5.00" min="1" max="5"/>
+    <media:statistics views="35317"/>
    </media:community>
   </media:group>
  </entry>
