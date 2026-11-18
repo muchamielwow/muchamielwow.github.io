@@ -1,5 +1,41 @@
 [
  {
+  "url": "https://www.wowhead.com/news=383914/ubrs-damage-and-health-increases-and-shendralas-improvements-wow-forever",
+  "titulo": "UBRS Damage and Health Increases & Shen'dralas Improvements - WoW: Forever Hotfixes for November 17, 2026",
+  "resumen": "Blizzard has posted hotfixes for today, which includes damage and health increases to UBRS and improvements to quest pain points in the Shen'dralas zone. Continue reading »",
+  "fecha": "2026-11-18T03:43:47+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-17-2026/2403040/12",
+  "titulo": "WoW: Forever Hotfixes - November 17, 2026",
+  "resumen": "November 17, 2026 Camping Mounted Players will no longer be permitted to sleep while saddled up atop the Cozy Sleeping Bag. Cozy Sleeping Bag can now be placed in specific locations, like hunter traps. Cozy Sleeping Bag will now provide a Resting aura indicating when you are within its area of ef…",
+  "fecha": "2026-11-18T03:24:08.117000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
+  "url": "https://www.wowhead.com/news=383912/wow-forever-continuing-to-break-records-with-over-15-million-characters-created",
+  "titulo": "WoW: Forever Continuing to Break Records With Over 15 Million Characters Created",
+  "resumen": "WoW: Forever continues to break records with over 15 million characters created and almost 1.5 billion quests completed. Continue reading »",
+  "fecha": "2026-11-18T00:04:50+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=KvrykOWYXio",
+  "titulo": "BLIZZARD HA BANEADO POR EL EXPLOIT DE ORO EN WOW FOREVER",
+  "resumen": "Conoce todos los detalles sobre el ban que se ha realizado sobre los jugadores de WoW Forever que se han aprovechado de la mecánica de una de sus mazmorras. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato…",
+  "fecha": "2026-11-17T22:27:37+00:00",
+  "fuente": "AlterTime WoW Forever (YouTube)",
+  "idioma": "es",
+  "fiabilidad": "creador"
+ },
+ {
   "url": "https://altertime.es/article/rextroy-consigue-eliminar-enemigos-de-nivel-60-con-su-paladin-a-nivel-30-en-wo-w-forever",
   "titulo": "Rextroy consigue eliminar enemigos de nivel 60 con su Paladín a nivel 30 en WoW Forever",
   "resumen": "¡No te lo pierdas!",
@@ -182,6 +218,15 @@
  {
   "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-16-2026/2403040/11",
   "titulo": "WoW: Forever Hotfixes - November 16, 2026",
+  "resumen": "November 16, 2026 Camping The Fishing Rack now provides lures for everyone. Bloated Fish caught from the Fishing Rack effect have had their drop chance increased and their loot tables adjusted accordingly. Classes Druid Fixed an issue where ranks of Wild Growth were not going on cooldown. Bal…",
+  "fecha": "2026-11-17T02:17:43.460000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-17-2026/2403040/11",
+  "titulo": "WoW: Forever Hotfixes - November 17, 2026",
   "resumen": "November 16, 2026 Camping The Fishing Rack now provides lures for everyone. Bloated Fish caught from the Fishing Rack effect have had their drop chance increased and their loot tables adjusted accordingly. Classes Druid Fixed an issue where ranks of Wild Growth were not going on cooldown. Bal…",
   "fecha": "2026-11-17T02:17:43.460000+00:00",
   "fuente": "Blizzard (mensajes del equipo)",
@@ -1467,6 +1512,15 @@
   "fiabilidad": "oficial"
  },
  {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-17-2026/2403040/10",
+  "titulo": "WoW: Forever Hotfixes - November 17, 2026",
+  "resumen": "November 13, 2026 Classes Fixed a bug causing players to have no diminishing returns against creature stuns. Fixed a bug causing players to have no diminishing returns when using stuns against creatures. Druid Restoration Fixed a bug incorrectly allowing Wild Growth to be cast while moving. Wil…",
+  "fecha": "2026-11-14T01:54:07.244000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
   "url": "https://www.wowhead.com/news=383875/blizzard-refunding-gold-for-players-who-purchased-skills-during-monday-server",
   "titulo": "Blizzard Refunding Gold for Players Who Purchased Skills During Monday Server Issues",
   "resumen": "Blizzard is refunding gold to players who purchased skills during the server issues on Monday. Continue reading »",
@@ -2160,6 +2214,15 @@
   "fiabilidad": "oficial"
  },
  {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-17-2026/2403040/9",
+  "titulo": "WoW: Forever Hotfixes - November 17, 2026",
+  "resumen": "Please note: Due to an unexpected delay in deployment, the following changes went live to all regions at 10:45 a.m. PST today. Classes Shaman Weapon imbues and Weapon totems can now be used at the same time. Enhancement Stormstrike damage reduced to 100% weapon damage (was 150%), and cooldown i…",
+  "fecha": "2026-11-12T19:10:52.697000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
   "url": "https://www.reddit.com/r/wowforever/comments/1xulp1b/pvp_isnt_ruining_your_experience_you_just_chose/",
   "titulo": "PvP isn't \"ruining your experience\". You just chose the wrong experience.",
   "resumen": "I don't know why I'm willingly entering the salt mines with this post, but here I am. A lot people will say stuff like \"pvp is ruining the experience.\" Which is odd to me, because it frames pvp as somehow being different and separate from the rest of the game. Pvp and 'the experience' are not two…",
@@ -2619,6 +2682,15 @@
   "fiabilidad": "oficial"
  },
  {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-17-2026/2403040/8",
+  "titulo": "WoW: Forever Hotfixes - November 17, 2026",
+  "resumen": "November 11, 2026 Classes Druid Feral Rend and Tear now works on Pounce Bleed. Hunter Fixed an issue where Volley was activating procs. Fixed an issue where Volley would continue to channel even when the Hunter had started moving. Paladin Judgement changed to now be considered a Ranged …",
+  "fecha": "2026-11-12T00:48:47.076000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
   "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-11-2026/2403040/7",
   "titulo": "WoW: Forever Hotfixes - November 11, 2026",
   "resumen": "We’ve temporarily removed Auction House changes from yesterday’s update, as they will go live with scheduled weekly maintenance on November 17. They will appear again in the hotfixes update thereafter.",
@@ -2639,6 +2711,15 @@
  {
   "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-16-2026/2403040/7",
   "titulo": "WoW: Forever Hotfixes - November 16, 2026",
+  "resumen": "We’ve temporarily removed Auction House changes from yesterday’s update, as they will go live with scheduled weekly maintenance on November 17. They will appear again in the hotfixes update thereafter.",
+  "fecha": "2026-11-12T00:48:41.201000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-17-2026/2403040/7",
+  "titulo": "WoW: Forever Hotfixes - November 17, 2026",
   "resumen": "We’ve temporarily removed Auction House changes from yesterday’s update, as they will go live with scheduled weekly maintenance on November 17. They will appear again in the hotfixes update thereafter.",
   "fecha": "2026-11-12T00:48:41.201000+00:00",
   "fuente": "Blizzard (mensajes del equipo)",
@@ -3004,149 +3085,5 @@
   "fuente": "Reddit r/wowforever (lo más votado del día)",
   "idioma": "en",
   "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xt7c2l/wow_forever_hotfixes_november_10_2026/",
-  "titulo": "WoW: Forever Hotfixes - November 10, 2026",
-  "resumen": "November 10, 2026 Auction House With realm restarts: Adjusted the minimum deposit amount to 1 copper (was 1 silver). Fixed a bug causing unread mail to incorrectly read as from ‘Stormwind Auction House’ for all players. Fixed a bug that was causing some mail to be delivered in about 2 minutes,…",
-  "fecha": "2026-11-11T03:31:53+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.wowhead.com/news=383837/hunter-pet-nerf-and-enhancement-shaman-changes-wow-forever-hotfixes-for-november",
-  "titulo": "Hunter Pet Nerf and Enhancement Shaman Changes - WoW: Forever Hotfixes for November 10, 2026",
-  "resumen": "Blizzard has posted hotfixes for today, which includes a pet nerf for Hunters, a pet buff for Warlocks, Enhancement Shaman changes and more! Continue reading »",
-  "fecha": "2026-11-11T03:30:15+00:00",
-  "fuente": "Wowhead (noticias de Forever)",
-  "idioma": "en",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-10-2026/2403040/6",
-  "titulo": "WoW: Forever Hotfixes - November 10, 2026",
-  "resumen": "November 10, 2026 Auction House With realm restarts: Adjusted the minimum deposit amount to 1 copper (was 1 silver). Fixed a bug causing unread mail to incorrectly read as from ‘Stormwind Auction House’ for all players. Fixed a bug that was causing some mail to be delivered in about 2 minutes, r…",
-  "fecha": "2026-11-11T03:27:33.720000+00:00",
-  "fuente": "Blizzard (mensajes del equipo)",
-  "idioma": "en",
-  "fiabilidad": "oficial"
- },
- {
-  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-11-2026/2403040/6",
-  "titulo": "WoW: Forever Hotfixes - November 11, 2026",
-  "resumen": "November 10, 2026 Classes Druid Fixed an issue where Omen of Clarity could not activate after swapping specializations. Restoration Nature’s Swiftness now also makes Wild Growth instant. Hunter Fixed a bug where Pets erroneously had 150% of their normal health. This is now corrected to…",
-  "fecha": "2026-11-11T03:27:33.720000+00:00",
-  "fuente": "Blizzard (mensajes del equipo)",
-  "idioma": "en",
-  "fiabilidad": "oficial"
- },
- {
-  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-13-2026/2403040/6",
-  "titulo": "WoW: Forever Hotfixes - November 13, 2026",
-  "resumen": "November 10, 2026 Classes Druid Fixed an issue where Omen of Clarity could not activate after swapping specializations. Restoration Nature’s Swiftness now also makes Wild Growth instant. Hunter Fixed a bug where Pets erroneously had 150% of their normal health. This is now corrected to…",
-  "fecha": "2026-11-11T03:27:33.720000+00:00",
-  "fuente": "Blizzard (mensajes del equipo)",
-  "idioma": "en",
-  "fiabilidad": "oficial"
- },
- {
-  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-16-2026/2403040/6",
-  "titulo": "WoW: Forever Hotfixes - November 16, 2026",
-  "resumen": "November 10, 2026 Classes Druid Fixed an issue where Omen of Clarity could not activate after swapping specializations. Restoration Nature’s Swiftness now also makes Wild Growth instant. Hunter Fixed a bug where Pets erroneously had 150% of their normal health. This is now corrected to…",
-  "fecha": "2026-11-11T03:27:33.720000+00:00",
-  "fuente": "Blizzard (mensajes del equipo)",
-  "idioma": "en",
-  "fiabilidad": "oficial"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xt6y59/blizzard_cant_we_keep_the_purple_campfire_as/",
-  "titulo": "Blizzard, Can't we keep the purple campfire as purely cosmetic? Please don't remove this.",
-  "resumen": "Can't we keep it as purely a cosmetic? I think it adds a lot of atmosphere in some places. You can remove the buff from it but why make people earn such a pretty cosmetic watching a stream for 4 hours just to RIP it away from us in a few weeks? Surely the entire code doesn't have to be reworked…",
-  "fecha": "2026-11-11T03:12:25+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.wowhead.com/news=383833/blizzard-addressing-missing-shaman-totems-due-to-mondays-server-issue-in-wow",
-  "titulo": "Blizzard Addressing Missing Shaman Totems Due to Monday's Server Issue in WoW: Forever",
-  "resumen": "Blizzard has fixed an issue with missing Shaman totems due to server issues on Monday. Continue reading »",
-  "fecha": "2026-11-11T01:13:27+00:00",
-  "fuente": "Wowhead (noticias de Forever)",
-  "idioma": "en",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xt4fxg/normalize_not_joining_a_dungeon_group_until_youre/",
-  "titulo": "Normalize not joining a dungeon group until you're AT the dungeon",
-  "resumen": "I get it, you're like a 2-3 min walk from the dungeon itself, I don't mind waiting! Oops, you forgot water--shit happens. But...my god. Why are so many people making or joining groups and having to take Zeps/Boats from cities, take a flight path, and still walk 5+ minutes joining groups? There's…",
-  "fecha": "2026-11-11T01:11:32+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xt48h8/im_7_bars_into_level_34_and_heres_why_im_quitting/",
-  "titulo": "I'm 7 bars into level 34 and here's why im quitting..",
-  "resumen": "Honestly every single day since launch I have enjoyed WoW Forever tremendously. I have been so excited to get home from the grind and play after spending time with the fam and putting the kids to bed. I've even been waking up at 4am to grind a couple hours before work. With that being said I would…",
-  "fecha": "2026-11-11T01:01:54+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xt3if2/needing_on_boes_in_dungeons_should_bind_them_to/",
-  "titulo": "Needing on BoEs in dungeons should bind them to your character.",
-  "resumen": "Greed roll = stays BoE and you can sell on AH Need roll = Instantly binds it to your character Such a simple solution to prevent most cases of ninja looting, especially in high-level dungeons where epics can drop. It's always a shame to see an epic go to someone who clearly intends to sell it on…",
-  "fecha": "2026-11-11T00:28:49+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.youtube.com/watch?v=dYfylYbvi24",
-  "titulo": "BLIZZARD EXPLICA EL CAMBIO AL ORO DE LA MISIONES AL MÁXIMO NIVEL EN WOW FOREVER",
-  "resumen": "Blizzard comenta la polémica con el oro de World of Warcraft en Forever a través de las misiones del juego. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…",
-  "fecha": "2026-11-11T00:00:16+00:00",
-  "fuente": "AlterTime WoW Forever (YouTube)",
-  "idioma": "es",
-  "fiabilidad": "creador"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xt2ria/watermill_in_riverglades_turns_the_wrong_way/",
-  "titulo": "Watermill in Riverglades turns the wrong way",
-  "resumen": "Hey guys, just went to Riverglades, love it so far, but the watermill isn't supposed to turn against the riverstream. I hope i'm stupid and don't know how watermills work or this will be fixed :) submitted by /u/TaylorSwiftiee [link] [comments]",
-  "fecha": "2026-11-10T23:56:58+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xt27ng/uhhh_new_wow_player_i_hit_the_support_button_to/",
-  "titulo": "Uhhh, new WoW player. I hit the support button to get unstuck and now I'm here? How do I get back to the ice place?",
-  "resumen": "Any help is appreciated, kind of scared to walk past the red lady thing there... I'll only level 11... submitted by /u/DontTakeMeSeriousli [link] [comments]",
-  "fecha": "2026-11-10T23:32:40+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xt1dzj/wetlands_at_630_in_the_morning/",
-  "titulo": "Wetlands at 6:30 in the morning",
-  "resumen": "Makes you forget any wrong blizzard has ever done submitted by /u/Ok-Commercial607 [link] [comments]",
-  "fecha": "2026-11-10T22:56:56+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://altertime.es/article/blizzard-aumentara-la-cantidad-de-oro-conseguido-en-wo-w-forever-con-las-misiones-a-partir-de-nivel-48",
-  "titulo": "Blizzard aumentará la cantidad de oro conseguido en WoW Forever con las misiones a partir de nivel 48",
-  "resumen": "¡No te pierdas todos los detalles y la aclaración realizada por el equipo de desarrollo!",
-  "fecha": "2026-11-10T22:54:00+00:00",
-  "fuente": "AlterTime (web)",
-  "idioma": "es",
-  "fiabilidad": "web"
  }
 ]
