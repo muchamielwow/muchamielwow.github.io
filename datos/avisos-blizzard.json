@@ -2,6 +2,15 @@
  "fuente": "https://us.forums.blizzard.com/en/wow/groups/blizzard-tracker/posts",
  "avisos": [
   {
+   "id": 2419757,
+   "titulo": "Actions For Blackmaw Hold Abuse - November 17",
+   "url": "https://us.forums.blizzard.com/en/wow/t/actions-for-blackmaw-hold-abuse-november-17/2419757",
+   "autor": "Kaivax",
+   "fecha": "2026-11-17T18:38:11.984Z",
+   "resumen": "As players continue their journey into WoW Forever’s higher-level content, we are closely monitoring the game economy to ensure that gold sources and costs are well balanced. Finding efficient farming spots has always…",
+   "foro": "Forever"
+  },
+  {
    "id": 2416343,
    "titulo": "Player-Level Dungeon XP Adjustment - November 14",
    "url": "https://us.forums.blizzard.com/en/wow/t/player-level-dungeon-xp-adjustment-november-14/2416343",
@@ -99,15 +108,6 @@
    "fecha": "2026-11-06T02:34:10.279Z",
    "resumen": "Hotfixes November 11, 2026 Classes Druid Feral Rend and Tear now works on Pounce Bleed. Hunter Fixed an issue where Volley was activating procs. Fixed an issue where Volley would continue to channel even when the Hunter…",
    "foro": "Noticias"
-  },
-  {
-   "id": 2402802,
-   "titulo": "WoW: Forever– Watch Forging Forever",
-   "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever%E2%80%93-watch-forging-forever/2402802",
-   "autor": "BlizzardEntertainment",
-   "fecha": "2026-11-05T22:00:07.091Z",
-   "resumen": "[WoW: Forever– Watch Forging Forever] Witness the creation of World of Warcraft: Forever's first legendary: Taldramir, the Whispering Wood. View Full Article",
-   "foro": "Forever"
   }
  ]
 }
