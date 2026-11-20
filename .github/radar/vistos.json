@@ -1,5 +1,77 @@
 [
  {
+  "url": "https://www.wowhead.com/news=383943/layer-swap-and-other-targeted-layering-addons-will-be-disabled-soon-in-wow",
+  "titulo": "Layer Swap and Other Targeted Layering Addons Will Be Disabled Soon in WoW: Forever",
+  "resumen": "Targeted Layering Addons will no longer work in an upcoming hotfix for WoW: Forever, as various API calls that show a realm ID will be obfuscated soon. Continue reading »",
+  "fecha": "2026-11-20T19:00:55+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://www.wowhead.com/news=383944/wow-forever-class-design-patch-12-1-7-wow-anniversary-wow-weekly",
+  "titulo": "WoW: Forever Class Design, Patch 12.1.7, WoW Anniversary - WoW Weekly",
+  "resumen": "Blizzard has recapped some of the biggest events in WoW this week, which includes a podcast on WoW: Forever class design, details on Patch 12.1.7, the WoW Anniversary event, and more! Continue reading »",
+  "fecha": "2026-11-20T18:02:14+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-class-design-echoes-of-the-worldcore-and-more-in-wow-weekly/2423714/1",
+  "titulo": "WoW: Forever Class Design, Echoes of the Worldcore, and More in WoW Weekly",
+  "resumen": "[WoW: Forever Class Design, Echoes of the Worldcore, and More in WoW Weekly] From the WoW: Forever Podcast's focus on class design to the December 1 arrival of Midnight: Echoes of the Worldcore, Talebound's macabre rewards, Mythic 2/6 gear in the Labyrinth of Kino'jan, and the World of Warcraft…",
+  "fecha": "2026-11-20T18:00:10.493000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=NI_80-4fas8",
+  "titulo": "TODOS los ELFOS de Warcraft Eran TROLS",
+  "resumen": "Un sátiro, una naga y un elfo del Vacío no se parecen en nada, pero salieron de la misma cueva. ¿Cuántas transformaciones separan a una tribu de trols oscuros de todos los elfos de World of Warcraft, y por qué tantos lo niegan? El árbol genealógico entero, rama por rama: de los trols oscuros y el…",
+  "fecha": "2026-11-20T17:42:06+00:00",
+  "fuente": "Kodda (lore)",
+  "idioma": "es",
+  "fiabilidad": "creador"
+ },
+ {
+  "url": "https://www.wowhead.com/news=383890/unlock-a-dungeon-shortcut-in-wow-forever-with-the-compound-key",
+  "titulo": "Unlock a Dungeon Shortcut in WoW: Forever with the Compound Key",
+  "resumen": "Completing a quest in one of the new WoW: Forever dungeons will make future runs go a bit smoother: you'll gain a key to unlock doors leading to a final boss shortcut! Continue reading »",
+  "fecha": "2026-11-20T16:00:00+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=I_CBS8_Gndg",
+  "titulo": "APRENDE QUÉ DEBES HACER CON LAS LIBRANZAS Y LOS CAJONES DE SUMINISTROS EN WOW FOREVER",
+  "resumen": "Conoce qué debes hacer sobre las Libranzas de Artesano y los cajones de suministros en WoW Forever con todo lujo de detalles. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…",
+  "fecha": "2026-11-20T15:05:41+00:00",
+  "fuente": "AlterTime WoW Forever (YouTube)",
+  "idioma": "es",
+  "fiabilidad": "creador"
+ },
+ {
+  "url": "https://www.wowhead.com/news=383933/every-quest-for-level-30-to-40-dungeons-in-wow-forever",
+  "titulo": "Every Quest for Level 30 to 40 Dungeons in WoW: Forever",
+  "resumen": "Here are all the quests for the level 30 to 40 dungeons to help you level faster in WoW: Forever! Continue reading »",
+  "fecha": "2026-11-20T15:00:00+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://www.youtube.com/shorts/CWtN9mIFopQ",
+  "titulo": "EL TRUCO PARA PASAR LIBREMENTE SIN LLAVE EN WOW FOREVER",
+  "resumen": "Conoce todos los detalles sobre el truco para que puedas pasar libremente en la Garganta de Fuego y Loch Modan sin necesitar la Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…",
+  "fecha": "2026-11-20T12:30:28+00:00",
+  "fuente": "AlterTime WoW Forever (YouTube)",
+  "idioma": "es",
+  "fiabilidad": "creador"
+ },
+ {
   "url": "https://www.wowhead.com/news=383940/skyborne-now-get-reputation-discount-for-mounts-in-wow-forever-but-youll-need-a",
   "titulo": "Skyborne Now Get Reputation Discount for Mounts in WoW: Forever But You'll Need A Lot of Runecloth",
   "resumen": "Skyborne now get a 10% reputation discount for mounts in WoW: Forever when they hit Honored. Get your Runecloth turn-ins ready! Continue reading »",
@@ -1915,302 +1987,5 @@
   "fuente": "AlterTime (web)",
   "idioma": "es",
   "fiabilidad": "web"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xvgsem/add_undead_customizations_to_look_more_human_like/",
-  "titulo": "Add Undead customizations to look more Human like Garek in Forsaken Kingdom",
-  "resumen": "Would be badass, I like the way undead look but it'd be cool to see them look more human/swole as an option at barbershop or something. submitted by /u/soupcrack [link] [comments]",
-  "fecha": "2026-11-13T19:11:37+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://altertime.es/article/guia-para-invocar-a-gahz-rilla-en-classic-marra-de-zul-farrak",
-  "titulo": "Guía para Invocar a Gahz'rilla en Classic y Forever: Marra de Zul'Farrak",
-  "resumen": "¡Consigue este objeto!",
-  "fecha": "2026-11-13T19:00:00+00:00",
-  "fuente": "AlterTime (web)",
-  "idioma": "es",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xvggo8/gotta_give_the_thunder_bluff_fishing_community/",
-  "titulo": "Gotta give the Thunder Bluff fishing community entertainment",
-  "resumen": "To the other sea lion with me performing and dancing, thank you for giving such a good show. We were the SeaWorld of TB and got much applause, despite our handler refusing to let us to be free afterwards submitted by /u/Yoshicool1 [link] [comments]",
-  "fecha": "2026-11-13T18:59:39+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.wowhead.com/news=383870/blizzard-taking-down-wow-forever-realms-in-30-minutes-to-fix-urgent-server-crash",
-  "titulo": "Blizzard Taking Down WoW: Forever Realms in 30 Minutes to Fix Urgent Server Crash",
-  "resumen": "Blizzard has announced emergency realm maintenance in 30 minutes to fix an urgent server crash for WoW: Forever realms. Continue reading »",
-  "fecha": "2026-11-13T18:33:36+00:00",
-  "fuente": "Wowhead (noticias de Forever)",
-  "idioma": "en",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xvfnto/first_time_wow_player_here_is_the_chat_in_tauren/",
-  "titulo": "First time wow player here, is the chat in tauren starting zone always like this too in classic and retail?",
-  "resumen": "submitted by /u/Felixpandam [link] [comments]",
-  "fecha": "2026-11-13T18:29:15+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.wowhead.com/news=383869/the-wow-forever-podcast-a-new-short-story-this-week-s-videos-and-more-wow-weekly",
-  "titulo": "The WoW: Forever Podcast, a New Short Story, This Week’s Videos, and More! — WoW Weekly",
-  "resumen": "Blizzard has posted a recap of this week in WoW, highlighting the continuation of the WoW: Forever podcast, a new short story, and more! Continue reading »",
-  "fecha": "2026-11-13T18:12:25+00:00",
-  "fuente": "Wowhead (noticias de Forever)",
-  "idioma": "en",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://altertime.es/article/no-te-pierdas-el-relato-corto-el-coste-del-honor-de-wow-forever",
-  "titulo": "No te pierdas el relato corto «El coste del honor» de WoW: Forever",
-  "resumen": "Acompaña a Demar Brant en un nuevo relato corto junto a la hoguera en el que, a través de relatos de guerra, sacrificio y decisiones complicadas, descubrimos que la verdadera fuerza de un pueblo no solo reside en la victoria, sino también en el valor para protegerse mutuamente.",
-  "fecha": "2026-11-13T18:04:03+00:00",
-  "fuente": "AlterTime (web)",
-  "idioma": "es",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://us.forums.blizzard.com/en/wow/t/wow-weekly-highlights-the-wow-forever-podcast-a-new-short-story-this-week%E2%80%99s-videos-and-more/2414430/1",
-  "titulo": "WoW Weekly Highlights the WoW: Forever Podcast, a New Short Story, This Week’s Videos, and More!",
-  "resumen": "[WoW Weekly Highlights the WoW: Forever Podcast, a New Short Story, This Week’s Videos, and More!] This week’s WoW Weekly is packed with lore, stories, and more! Join Sean Copeland as we dive deeper into the lore on the World of Warcraft: Forever Podcast, gather around the campfire for legendary…",
-  "fecha": "2026-11-13T18:03:52.527000+00:00",
-  "fuente": "Blizzard (mensajes del equipo)",
-  "idioma": "en",
-  "fiabilidad": "oficial"
- },
- {
-  "url": "https://www.wowhead.com/news=383868/new-short-story-cost-of-honor-for-wow-forever",
-  "titulo": "New Short Story “Cost of Honor” for WoW: Forever",
-  "resumen": "Blizzard has released a new short story for WoW: Forever called \"The Cost of Honor\"! Continue reading »",
-  "fecha": "2026-11-13T18:03:42+00:00",
-  "fuente": "Wowhead (noticias de Forever)",
-  "idioma": "en",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://us.forums.blizzard.com/en/wow/t/watch-the-wow-forever-short-story-%E2%80%9Ccost-of-honor%E2%80%9D/2414424/1",
-  "titulo": "Watch the WoW: Forever Short Story, “Cost of Honor”",
-  "resumen": "[Watch the WoW: Forever Short Story, “Cost of Honor”] Join Demar Brant for a special fireside telling of our newest short story to learn through tales of war, sacrifice, and hard choices, that the true strength of a people lies not in victory alone, but in the courage to protect one another. View F…",
-  "fecha": "2026-11-13T18:02:13.897000+00:00",
-  "fuente": "Blizzard (mensajes del equipo)",
-  "idioma": "en",
-  "fiabilidad": "oficial"
- },
- {
-  "url": "https://www.youtube.com/watch?v=T7PpOTST2ds",
-  "titulo": "“Cost of Honor” | World of Warcraft: Forever",
-  "resumen": "As a storm rages in the skies above, the young people of the Riverglades gather around a campfire to hear the stories behind their history’s legends from the great Demar Brant. Through tales of war, sacrifice, and hard choices, they learn that the true strength of a people lies not in victory…",
-  "fecha": "2026-11-13T18:00:02+00:00",
-  "fuente": "World of Warcraft (YouTube oficial)",
-  "idioma": "en",
-  "fiabilidad": "oficial"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xvdti7/you_can_level_almost_exclusively_through_dungeons/",
-  "titulo": "You can level almost exclusively through dungeons",
-  "resumen": "I am a lvl 44 priest right now, and I wanted to talk about my journey leveling. I have the sleeping bag and I try and use the Tent every hour. I do every single pre requisite quest to a dungeon before I do that dungeon. I have gone from 38-44 only doing dungeons (SM, RFD, the drowned city, krol’dok…",
-  "fecha": "2026-11-13T17:21:11+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xvds6w/please_dont_take_a_node_when_someone_is_fighting/",
-  "titulo": "Please don’t take a node when someone is fighting nearby & don’t attack a beast when a hunter is taming it.",
-  "resumen": "This is directed at new players because I’ll give them the benefit of the doubt. If you know not to do this but do anyway, give us your character name so we can avoid you. For new players this is basic etiquette: taking an herb or mining a node close to someone fighting off a mob is unsportsmanlike…",
-  "fecha": "2026-11-13T17:19:56+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xvdg8m/to_all_the_healers_who_group_with_tanks_that_dont/",
-  "titulo": "To all the healers who group with tanks that don't let you drink - here is a tip",
-  "resumen": "READ EDIT FIRST: Edit:this is intended if you have said you need to drink but the tank insists on wasting your water pulling while you're not ready If you end the pull and heal the tank to full HP Tanks that don't monitor your mana will likely think they are ready to pull, which wastes your water…",
-  "fecha": "2026-11-13T17:08:04+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.youtube.com/watch?v=NHx7TVgRijc",
-  "titulo": "Toda la HISTORIA de Warlords of Draenor EXPLICADA de PRINCIPIO a FIN",
-  "resumen": "Garrosh escapó de su juicio y apareció en Draenor treinta y cinco años antes, en un mundo donde nunca había llegado a nacer. Lo que le contó a su padre convirtió a los orcos en la Horda de Hierro… y acabó trayendo a Azeroth algo mucho peor. Toda la historia de Warlords of Draenor en World of…",
-  "fecha": "2026-11-13T17:00:01+00:00",
-  "fuente": "Kodda (lore)",
-  "idioma": "es",
-  "fiabilidad": "creador"
- },
- {
-  "url": "https://www.wowhead.com/news=383857/might-of-stormwind-world-buff-returns-in-wow-forever",
-  "titulo": "Might of Stormwind World Buff Returns in WoW: Forever",
-  "resumen": "First introduced in Season of Discovery, the Might of Stormwind World Buff has returned for Alliance players in WoW: Forever. Continue reading »",
-  "fecha": "2026-11-13T17:00:00+00:00",
-  "fuente": "Wowhead (noticias de Forever)",
-  "idioma": "en",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xvd582/2_hours_and_still_didnt_finish_half_the_quests/",
-  "titulo": "2 hours and still didn't finish half the quests",
-  "resumen": "submitted by /u/darkstar1689 [link] [comments]",
-  "fecha": "2026-11-13T16:56:54+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xvcjjn/wow_forever_is_what_ive_always_wanted_my/",
-  "titulo": "WoW Forever is what I've always wanted - My EXTENSIVE review as a 36 yo dad with a fulltime job",
-  "resumen": "THIS IS NOT AI WRITTEN AND TOOK QUITE SOME TIME TO WRITE. I wanted to take the time because I am very excited about the game and have nowhere else to discuss it. I'm not a content creator and not a gaming site journalist so this is where I wanted to share my thoughts and my review of the current…",
-  "fecha": "2026-11-13T16:34:32+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xvch9b/being_slow_is_fun/",
-  "titulo": "Being slow is FUN",
-  "resumen": "submitted by /u/MaxSnicka [link] [comments]",
-  "fecha": "2026-11-13T16:32:09+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://altertime.es/article/consigue-facilmente-una-bolsa-con-tu-personaje-horda-en-world-of-warcraft-forever",
-  "titulo": "Consigue fácilmente una bolsa con tu personaje Horda en World of Warcraft Forever",
-  "resumen": "¡Hazte con ella!",
-  "fecha": "2026-11-13T16:00:00+00:00",
-  "fuente": "AlterTime (web)",
-  "idioma": "es",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xvaseo/an_unexpected_letter/",
-  "titulo": "An Unexpected Letter...",
-  "resumen": "Travelling through Wetlands late last night, just to hand in a couple of quests. Came across 2 gentlemen travelling to Menethil Harbour who had fallen foul of the vile Nightveiled Rotheap. These folks being only in the low level 20s were struggling and in a fair amount of danger. Not on my watch! I…",
-  "fecha": "2026-11-13T15:28:02+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xvaixe/dear_blizz_please_keep_loading_screen_artwork/",
-  "titulo": "Dear Blizz: Please keep loading screen artwork",
-  "resumen": "I genuinely think it’s the right balance of the new game and the classic world. submitted by /u/missing_Palantir [link] [comments]",
-  "fecha": "2026-11-13T15:17:25+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.wowhead.com/news=383859/secret-disguise-toy-found-wow-forever",
-  "titulo": "Secret Disguise Toy Found WoW: Forever",
-  "resumen": "A new secret toy, the Alcaz Operative Disguise, has been found in WoW Forever, starting in the new dungeon: Alcaz Prison. Continue reading »",
-  "fecha": "2026-11-13T15:00:00+00:00",
-  "fuente": "Wowhead (noticias de Forever)",
-  "idioma": "en",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xva2ra/intellect_should_give_spell_power/",
-  "titulo": "Intellect should give spell power.",
-  "resumen": "There, I said it. Make it 1 to 1 like agility in most cases. I'm tired of my optimal gear being straight +to (magic type) damage gear with 0 intellect, 0 stamina, 0 spirit. All so that I can keep up with the spell power requirement just so that I'm as good as I was with no gear on in original…",
-  "fecha": "2026-11-13T14:59:37+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xv9b33/prot_warrior_leveling_is_amazing/",
-  "titulo": "Prot WARRIOR leveling is AMAZING",
-  "resumen": "Level 40. I can solo pretty much anything,even all the elite quests. Tanking 3-4 mobs a pull is like a breeze. And with all the regen there is little downtime. Shield slam crit for 800 damage is a big boost of damage. Never felt so happy about warrior leveling. Interested in knowing how the…",
-  "fecha": "2026-11-13T14:28:09+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xv99q0/the_friction_you_are_experiencing_is_intentional/",
-  "titulo": "The friction you are experiencing is intentional game design",
-  "resumen": "Reading through a lot of the posts and comments here, it genuinely baffles me that a lot of people don't seem to understand that a lot of the friction they're experiencing is entirely intentional. It's not \"bad design\". A lot of the changes being demanded are precisely the same design decisions…",
-  "fecha": "2026-11-13T14:26:42+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://altertime.es/article/nuevas-localizaciones-de-instructores-de-clase-en-world-of-warcraft-forever",
-  "titulo": "Nuevas localizaciones de instructores de clase en World of Warcraft Forever",
-  "resumen": "¡Te contamos donde encontrarlos!",
-  "fecha": "2026-11-13T14:00:00+00:00",
-  "fuente": "AlterTime (web)",
-  "idioma": "es",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xv7vxh/a_message_to_the_ah_undercutters/",
-  "titulo": "A message to the AH undercutters",
-  "resumen": "submitted by /u/Khaneur [link] [comments]",
-  "fecha": "2026-11-13T13:28:47+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xv70o9/found_boots_that_allow_you_to_walk_underwater/",
-  "titulo": "Found boots that allow you to walk underwater!",
-  "resumen": "I posted about them yesterday, but decided to upload a video. They're from a rare in the Drowned City :) Edit: Apparently they drop from multiple bosses not just the rare. Now imagine a team of undead walking underwater invading Menethil Harbor or something, pirates of the caribbean rp here we…",
-  "fecha": "2026-11-13T12:49:26+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xv6pgf/how_do_i_get_gaming_time_without_making_my/",
-  "titulo": "How do I get gaming time without making my girlfriend feel ignored",
-  "resumen": "I love my girlfriend, and I want to say that upfront. We play Fortnite together and that's fun, but right now I'm just not in the mood for it. I've been wanting to play WoW forever ever since it was announced, and I can't seem to get even an hour or two at home without feeling guilty. If I sit down…",
-  "fecha": "2026-11-13T12:34:13+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.youtube.com/shorts/WrbPwZ9WdZU",
-  "titulo": "LA RAREZA DE LOS CIELONATOS EN WORLD OF WARCRAFT",
-  "resumen": "Conoce y no te pierdas una curiosidad sobre la nueva raza de World of Warcraft Forever. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas: https://instant-gaming.com/es/?igr=altertime Web:…",
-  "fecha": "2026-11-13T12:30:26+00:00",
-  "fuente": "AlterTime WoW Forever (YouTube)",
-  "idioma": "es",
-  "fiabilidad": "creador"
- },
- {
-  "url": "https://altertime.es/article/las-botas-de-hierro-de-linken-el-nuevo-guino-a-the-legend-of-zelda-en-wo-w-forever",
-  "titulo": "Las Botas de Hierro de Linken: el nuevo guiño a The Legend of Zelda en WoW Forever",
-  "resumen": "¡Te contamos toda la información!",
-  "fecha": "2026-11-13T12:00:00+00:00",
-  "fuente": "AlterTime (web)",
-  "idioma": "es",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xv5hm7/this_guys_been_roasting_me_for_2_days/",
-  "titulo": "This Guy’s Been Roasting Me For 2 Days",
-  "resumen": "The images were taken almost 24h apart from one another. I told him I’ll get a hat, so he came later just to rub in some salt. Also, my character’s first name is “Balding”. I love this game ❤️ submitted by /u/Lee_NR [link] [comments]",
-  "fecha": "2026-11-13T11:31:06+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
  }
 ]
