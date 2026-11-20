@@ -1,5 +1,32 @@
 [
  {
+  "url": "https://www.wowhead.com/news=383940/skyborne-now-get-reputation-discount-for-mounts-in-wow-forever-but-youll-need-a",
+  "titulo": "Skyborne Now Get Reputation Discount for Mounts in WoW: Forever But You'll Need A Lot of Runecloth",
+  "resumen": "Skyborne now get a 10% reputation discount for mounts in WoW: Forever when they hit Honored. Get your Runecloth turn-ins ready! Continue reading »",
+  "fecha": "2026-11-20T04:35:14+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://www.wowhead.com/news=383939/ret-paladin-bug-fix-and-seed-hybridizer-available-again-wow-forever-hotfixes-for",
+  "titulo": "Ret Paladin Bug Fix and Seed Hybridizer Available Again - WoW: Forever Hotfixes for November 19th",
+  "resumen": "Blizzard has posted hotfixes for today, which includes a Ret Paladin bug fix and making the Seed Hybridizer available again! Continue reading »",
+  "fecha": "2026-11-20T04:03:00+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-19-2026/2403040/13",
+  "titulo": "WoW: Forever Hotfixes - November 19, 2026",
+  "resumen": "November 19, 2026 Camping Seed Hybridizer has been re-enabled. Seed Hybridization now has adjusted values, as well as a chance of failure when combining seeds. Scarce Herb Seeds are no longer able to be used in the Seed Hybridizer. Classes Paladin Retribution Two-Handed Weapon Specialization…",
+  "fecha": "2026-11-20T04:00:55.888000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
   "url": "https://www.wowhead.com/news=383938/blizzard-investigating-several-bugged-quests-in-wow-forever",
   "titulo": "Blizzard Investigating Several Bugged Quests in WoW: Forever",
   "resumen": "The official BlizzardCS account has commented on several quests in Wowhead's database, letting players know they are investigating bugs. Continue reading »",
@@ -234,6 +261,15 @@
   "fiabilidad": "oficial"
  },
  {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-19-2026/2403040/12",
+  "titulo": "WoW: Forever Hotfixes - November 19, 2026",
+  "resumen": "November 17, 2026 Camping Mounted Players will no longer be permitted to sleep while saddled up atop the Cozy Sleeping Bag. Cozy Sleeping Bag can now be placed in specific locations, like hunter traps. Cozy Sleeping Bag will now provide a Resting aura indicating when you are within its area of ef…",
+  "fecha": "2026-11-18T03:24:08.117000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
   "url": "https://www.wowhead.com/news=383912/wow-forever-continuing-to-break-records-with-over-15-million-characters-created",
   "titulo": "WoW: Forever Continuing to Break Records With Over 15 Million Characters Created",
   "resumen": "WoW: Forever continues to break records with over 15 million characters created and almost 1.5 billion quests completed. Continue reading »",
@@ -443,6 +479,15 @@
  {
   "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-17-2026/2403040/11",
   "titulo": "WoW: Forever Hotfixes - November 17, 2026",
+  "resumen": "November 16, 2026 Camping The Fishing Rack now provides lures for everyone. Bloated Fish caught from the Fishing Rack effect have had their drop chance increased and their loot tables adjusted accordingly. Classes Druid Fixed an issue where ranks of Wild Growth were not going on cooldown. Bal…",
+  "fecha": "2026-11-17T02:17:43.460000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-19-2026/2403040/11",
+  "titulo": "WoW: Forever Hotfixes - November 19, 2026",
   "resumen": "November 16, 2026 Camping The Fishing Rack now provides lures for everyone. Bloated Fish caught from the Fishing Rack effect have had their drop chance increased and their loot tables adjusted accordingly. Classes Druid Fixed an issue where ranks of Wild Growth were not going on cooldown. Bal…",
   "fecha": "2026-11-17T02:17:43.460000+00:00",
   "fuente": "Blizzard (mensajes del equipo)",
@@ -1737,6 +1782,15 @@
   "fiabilidad": "oficial"
  },
  {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-19-2026/2403040/10",
+  "titulo": "WoW: Forever Hotfixes - November 19, 2026",
+  "resumen": "November 13, 2026 Classes Fixed a bug causing players to have no diminishing returns against creature stuns. Fixed a bug causing players to have no diminishing returns when using stuns against creatures. Druid Restoration Fixed a bug incorrectly allowing Wild Growth to be cast while moving. Wil…",
+  "fecha": "2026-11-14T01:54:07.244000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
   "url": "https://www.wowhead.com/news=383875/blizzard-refunding-gold-for-players-who-purchased-skills-during-monday-server",
   "titulo": "Blizzard Refunding Gold for Players Who Purchased Skills During Monday Server Issues",
   "resumen": "Blizzard is refunding gold to players who purchased skills during the server issues on Monday. Continue reading »",
@@ -2155,51 +2209,6 @@
   "titulo": "This Guy’s Been Roasting Me For 2 Days",
   "resumen": "The images were taken almost 24h apart from one another. I told him I’ll get a hat, so he came later just to rub in some salt. Also, my character’s first name is “Balding”. I love this game ❤️ submitted by /u/Lee_NR [link] [comments]",
   "fecha": "2026-11-13T11:31:06+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xv4tco/the_first_mount_item_is_free/",
-  "titulo": "The first mount (item) is free.",
-  "resumen": "Hi everyone, Just wanted to bring up a point I haven't seen discussed. My friends and I were warry of shop mounts being P2W as they would allow you to save gold by allowing to not buy the race specific mount at 40, and only taking the mount skill. Well, last night I have reached 40 and can confirm…",
-  "fecha": "2026-11-13T10:53:12+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xv4di0/dear_blizzard_let_us_add_firewood_to_existing/",
-  "titulo": "Dear Blizzard - let us add firewood to existing camps to extend their duration.",
-  "resumen": "I really love the cam system, but the camps disappear so quickly that most conversations just stop way before any conclusions. People who originally put them in place often long gone while the rest are sitting or sleeping by the fire talking and getting buffed. Why not just let us throw in more…",
-  "fecha": "2026-11-13T10:26:11+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xv1o9s/wow_forever_is_the_best_version_of_wow_ive_ever/",
-  "titulo": "WOW Forever is the best version of WOW I've ever played.",
-  "resumen": "TLDR: Game great. Immersion great. Improvements Great. For the Alliance. I've played WOW for nearly 15 years or so now. However, I've mainly played on WOTLK Private Servers because I've been an Arthas stan my entire life (my Warcraft journey started with him and Warcraft 3). I've dabbled in newer…",
-  "fecha": "2026-11-13T07:35:59+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xuyrn5/why_is_no_one_talking_about_how_camp_fires_dont/",
-  "titulo": "Why is no one talking about how camp fires don't work properly?",
-  "resumen": "So many times I've sat by a camp fire with several items around it and am not able to get the buffs (ones I've placed and other peoples). I have the buff showing there is a camp fire nearby and it just doesnt work. The violet dust too will sometimes last for ages or sometimes it will revert to a…",
-  "fecha": "2026-11-13T04:48:25+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xuxnmy/no_spell_power/",
-  "titulo": "No spell power?",
-  "resumen": "that was a lot of work for a robe that's worse than like every option for its level range. submitted by /u/AmbassadorGreen2950 [link] [comments]",
-  "fecha": "2026-11-13T03:49:06+00:00",
   "fuente": "Reddit r/wowforever (lo más votado del día)",
   "idioma": "en",
   "fiabilidad": "comunidad"
