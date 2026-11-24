@@ -1,5 +1,41 @@
 [
  {
+  "url": "https://www.wowhead.com/news=383972/class-and-profession-bug-fixes-wow-forever-hotfixes-for-november-23-2026",
+  "titulo": "Class and Profession Bug Fixes - WoW: Forever Hotfixes for November 23, 2026",
+  "resumen": "Blizzard has announced hotfixes for today, which includes more class and profession bug fixes! Continue reading »",
+  "fecha": "2026-11-24T02:10:52+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-23-2026/2403040/15",
+  "titulo": "WoW: Forever Hotfixes - November 23, 2026",
+  "resumen": "November 23, 2026 Classes Druid The 4-piece Feralheart set for Druids now correctly grants 4 Energy regeneration every 1 second for 5 seconds. Priest Mind Vision should no longer proc effects. Shadow Fixed an issue where Dark Inspiration was not granting the correct amount of %Spirit increas…",
+  "fecha": "2026-11-24T02:06:52.713000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
+  "url": "https://www.wowhead.com/news=383969/players-reporting-that-sunder-armor-effects-dont-work-in-wow-forever-dungeons",
+  "titulo": "Players Reporting that Sunder Armor Effects Don't Work in WoW: Forever Dungeons",
+  "resumen": "According to the Classic WoW community Github, Sunder Armor effects don't work in WoW: Forever dungeons. Continue reading »",
+  "fecha": "2026-11-23T23:00:58+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
+  "url": "https://www.wowhead.com/news=383968/uldaman-boss-drops-loot-again-but-item-vendor-price-nerfed",
+  "titulo": "Uldaman Boss Drops Loot Again But Item Vendor Price Nerfed",
+  "resumen": "The Obsidian Golem boss in Uldaman drops loot again, but the vendor cost of the items has been nerfed. Continue reading »",
+  "fecha": "2026-11-23T21:20:40+00:00",
+  "fuente": "Wowhead (noticias de Forever)",
+  "idioma": "en",
+  "fiabilidad": "web"
+ },
+ {
   "url": "https://www.wowhead.com/news=383967/world-buffs-now-persist-through-loading-screen-and-nerf-to-dire-maul-tribute",
   "titulo": "World Buffs Now Persist Through Loading Screen & Nerf to Dire Maul Tribute Buff - World Buff Hotfixes in WoW: Forever",
   "resumen": "World Buffs now persist through loading screens in WoW: Forever, but one of the Dire Maul Tribute buffs has been nerfed. Continue reading »",
@@ -225,6 +261,15 @@
   "fiabilidad": "oficial"
  },
  {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-23-2026/2403040/14",
+  "titulo": "WoW: Forever Hotfixes - November 23, 2026",
+  "resumen": "November 20, 2026 Classes Rogue Combat Blade Flurry will now correctly cause Shank’s damage to hit an additional target. Warlock Demonology Fixed a bug where the effects of the Demonic Aegis talent could be snapshotted into your Demon Armor or Demon Skin and then untalented to retain the …",
+  "fecha": "2026-11-21T00:18:29.701000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
   "url": "https://www.wowhead.com/news=383946/itemization-of-crafted-tier-sets-revealed-in-wow-forevers-first-raid-tier",
   "titulo": "Itemization of Crafted Tier Sets Revealed in WoW: Forever's First Raid Tier",
   "resumen": "The stats for the crafted versions of Tier Set gear from the first raid tier have been revealed in a hotfix to Forever! Continue reading »",
@@ -335,6 +380,15 @@
  {
   "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-20-2026/2403040/13",
   "titulo": "WoW: Forever Hotfixes - November 20, 2026",
+  "resumen": "November 19, 2026 Camping Seed Hybridizer has been re-enabled. Seed Hybridization now has adjusted values, as well as a chance of failure when combining seeds. Scarce Herb Seeds are no longer able to be used in the Seed Hybridizer. Classes Paladin Retribution Two-Handed Weapon Specialization…",
+  "fecha": "2026-11-20T04:00:55.888000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-23-2026/2403040/13",
+  "titulo": "WoW: Forever Hotfixes - November 23, 2026",
   "resumen": "November 19, 2026 Camping Seed Hybridizer has been re-enabled. Seed Hybridization now has adjusted values, as well as a chance of failure when combining seeds. Scarce Herb Seeds are no longer able to be used in the Seed Hybridizer. Classes Paladin Retribution Two-Handed Weapon Specialization…",
   "fecha": "2026-11-20T04:00:55.888000+00:00",
   "fuente": "Blizzard (mensajes del equipo)",
@@ -594,6 +648,15 @@
   "fiabilidad": "oficial"
  },
  {
+  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-23-2026/2403040/12",
+  "titulo": "WoW: Forever Hotfixes - November 23, 2026",
+  "resumen": "November 17, 2026 Camping Mounted Players will no longer be permitted to sleep while saddled up atop the Cozy Sleeping Bag. Cozy Sleeping Bag can now be placed in specific locations, like hunter traps. Cozy Sleeping Bag will now provide a Resting aura indicating when you are within its area of ef…",
+  "fecha": "2026-11-18T03:24:08.117000+00:00",
+  "fuente": "Blizzard (mensajes del equipo)",
+  "idioma": "en",
+  "fiabilidad": "oficial"
+ },
+ {
   "url": "https://www.wowhead.com/news=383912/wow-forever-continuing-to-break-records-with-over-15-million-characters-created",
   "titulo": "WoW: Forever Continuing to Break Records With Over 15 Million Characters Created",
   "resumen": "WoW: Forever continues to break records with over 15 million characters created and almost 1.5 billion quests completed. Continue reading »",
@@ -760,150 +823,6 @@
   "titulo": "Blackmaw Hold Farm Megathread",
   "resumen": "Please use this Megathread to discuss the nerfed Blackmaw Hold farm, the consequences for the AH economy and anything in between. New posts will be removed unless they contain new information relevant to the news story, at which point the post will be linked here and new posts on the subject will…",
   "fecha": "2026-11-17T07:04:34+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xyavlh/idea_for_the_blackmaw_hold_exploiters_dont_ban/",
-  "titulo": "Idea for the Blackmaw Hold exploiters, don't ban them, just wipe them",
-  "resumen": "I'm a brand new player coming from OSRS. This Blackmaw Hold thing took the wind out of my sails. I spent 6 hours grinding gold for my mount and selling stuff on the AH. Then I see people made thousands in a few runs off an exploit. This started as me raging, but a good idea came out of it. So give…",
-  "fecha": "2026-11-17T04:17:49+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xy8rvm/time_to_see_if_blizzard_actually_cares_about_the/",
-  "titulo": "Time to see if Blizzard actually cares about the economy",
-  "resumen": "If these people are not suspended and all gold/items bought removed then the precedent will be set. submitted by /u/PM_Me_Elf_Porn [link] [comments]",
-  "fecha": "2026-11-17T02:33:05+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.wowhead.com/news=383900/more-classes-quest-and-item-changes-wow-forever-hotfixes-for-november-16-2026",
-  "titulo": "More Classes, Quest, and Item Changes - WoW: Forever Hotfixes for November 16, 2026",
-  "resumen": "Blizzard has announced hotfixes for today, which includes a lot of changes for classes, quests, items and dungeons! Continue reading »",
-  "fecha": "2026-11-17T02:23:22+00:00",
-  "fuente": "Wowhead (noticias de Forever)",
-  "idioma": "en",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-16-2026/2403040/11",
-  "titulo": "WoW: Forever Hotfixes - November 16, 2026",
-  "resumen": "November 16, 2026 Camping The Fishing Rack now provides lures for everyone. Bloated Fish caught from the Fishing Rack effect have had their drop chance increased and their loot tables adjusted accordingly. Classes Druid Fixed an issue where ranks of Wild Growth were not going on cooldown. Bal…",
-  "fecha": "2026-11-17T02:17:43.460000+00:00",
-  "fuente": "Blizzard (mensajes del equipo)",
-  "idioma": "en",
-  "fiabilidad": "oficial"
- },
- {
-  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-17-2026/2403040/11",
-  "titulo": "WoW: Forever Hotfixes - November 17, 2026",
-  "resumen": "November 16, 2026 Camping The Fishing Rack now provides lures for everyone. Bloated Fish caught from the Fishing Rack effect have had their drop chance increased and their loot tables adjusted accordingly. Classes Druid Fixed an issue where ranks of Wild Growth were not going on cooldown. Bal…",
-  "fecha": "2026-11-17T02:17:43.460000+00:00",
-  "fuente": "Blizzard (mensajes del equipo)",
-  "idioma": "en",
-  "fiabilidad": "oficial"
- },
- {
-  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-19-2026/2403040/11",
-  "titulo": "WoW: Forever Hotfixes - November 19, 2026",
-  "resumen": "November 16, 2026 Camping The Fishing Rack now provides lures for everyone. Bloated Fish caught from the Fishing Rack effect have had their drop chance increased and their loot tables adjusted accordingly. Classes Druid Fixed an issue where ranks of Wild Growth were not going on cooldown. Bal…",
-  "fecha": "2026-11-17T02:17:43.460000+00:00",
-  "fuente": "Blizzard (mensajes del equipo)",
-  "idioma": "en",
-  "fiabilidad": "oficial"
- },
- {
-  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-20-2026/2403040/11",
-  "titulo": "WoW: Forever Hotfixes - November 20, 2026",
-  "resumen": "November 16, 2026 Camping The Fishing Rack now provides lures for everyone. Bloated Fish caught from the Fishing Rack effect have had their drop chance increased and their loot tables adjusted accordingly. Classes Druid Fixed an issue where ranks of Wild Growth were not going on cooldown. Bal…",
-  "fecha": "2026-11-17T02:17:43.460000+00:00",
-  "fuente": "Blizzard (mensajes del equipo)",
-  "idioma": "en",
-  "fiabilidad": "oficial"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xy8d84/so_the_nerfed_aoe_farm_did_crazy_damage_to_the/",
-  "titulo": "So the nerfed AOE farm did crazy damage to the server economy.",
-  "resumen": "And now people that did abuse it are even trying to manipulate the AH on a mega server... So what are we going to do? Does the casual gamer now get fucked over? They should remove the gold... I also know about a couple ppl from my guild swimming in gold atm; they could clear all their purples from…",
-  "fecha": "2026-11-17T02:13:36+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xy7zbs/a_question_of_etiquette/",
-  "titulo": "A question of etiquette.",
-  "resumen": "I was in the Riverlands and Ghostmaw spawns near me. I ask if anyone else needed to kill him for the quest. At this point a made comes up and starts the fight. I attempt to invite him so we can do it and he declines the invitation. A few moments into the fight he says “Heal”. I don't. I invite him…",
-  "fecha": "2026-11-17T01:55:22+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xy6qey/following_on_from_the_exploit_earlyexploit_often/",
-  "titulo": "Following on from the 'exploit early...exploit often post' - Streamer Ziqo already starting to manipulate AH prices",
-  "resumen": "Pretty sad if you ask me. It's hard enough to even acquire gold, and people like him have 4k+.... Initial post: https://www.reddit.com/r/wowforever/comments/1xy5ncr/exploit_early_exploit_often_almost_5k_gold/ Edit:…",
-  "fecha": "2026-11-17T00:56:23+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xy6bb8/the_sleeping_bag_is_way_better_than_most_people/",
-  "titulo": "The sleeping bag is way better than most people realize.",
-  "resumen": "I see people complaining about the “1% XP buff” from the sleeping bag in this sub, but I want to inform you guys about the benefits of the sleeping bag. 1) The 3% (2 hour buff) XP increase - also counts towards the XP gained from quest turn ins. If you are about to turn in a whole bunch of quests,…",
-  "fecha": "2026-11-17T00:36:51+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xy5ncr/exploit_early_exploit_often_almost_5k_gold/",
-  "titulo": "Exploit early, exploit often ... almost 5k gold",
-  "resumen": "Not sure what to say. The fact that he did this all offstream says enough that he (and others) knew, that this is not intended and 100% considered an exploit. Personally, I think there should be some kind of punishment and definitely all the gold revoked. Ziqo is not the only one who did this of…",
-  "fecha": "2026-11-17T00:06:22+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.wowhead.com/news=383893/new-scarlet-monastery-hearthstone-in-wow-forever",
-  "titulo": "New Scarlet Monastery Hearthstone in WoW: Forever",
-  "resumen": "A new cosmetic Hearthstone has been found in WoW: Forever! Continue reading »",
-  "fecha": "2026-11-17T00:00:20+00:00",
-  "fuente": "Wowhead (noticias de Forever)",
-  "idioma": "en",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xy4qu5/100_gold_per_hour_farm_nerfed_in_wow_forever/",
-  "titulo": "100+ Gold Per Hour Farm Nerfed in WoW: Forever",
-  "resumen": "submitted by /u/Beginning-Injury1484 [link] [comments]",
-  "fecha": "2026-11-16T23:28:09+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xy38yh/the_new_alcaz_prison_dungeon_has_a_quest_that/",
-  "titulo": "The new Alcaz Prison dungeon has a quest that gives 25g.",
-  "resumen": "submitted by /u/sideflanker [link] [comments]",
-  "fecha": "2026-11-16T22:24:49+00:00",
-  "fuente": "Reddit r/wowforever (lo más votado del día)",
-  "idioma": "en",
-  "fiabilidad": "comunidad"
- },
- {
-  "url": "https://www.reddit.com/r/wowforever/comments/1xy1qd5/new_player_is_this_the_only_black_lion/",
-  "titulo": "(New Player) Is this the only black lion?",
-  "resumen": "I tamed this super cool black lion on my way back from wailing caverns since i have been using just a regular cat from the night elf area for a while, a couple other hunters showed up not too long after i tamed him and i got some quite angry messages. I assume he’s rare from the responses they…",
-  "fecha": "2026-11-16T21:24:02+00:00",
   "fuente": "Reddit r/wowforever (lo más votado del día)",
   "idioma": "en",
   "fiabilidad": "comunidad"
