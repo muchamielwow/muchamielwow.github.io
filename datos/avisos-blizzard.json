@@ -2,6 +2,33 @@
  "fuente": "https://us.forums.blizzard.com/en/wow/groups/blizzard-tracker/posts",
  "avisos": [
   {
+   "id": 2429074,
+   "titulo": "Alterac Valley Adjustments - November 25",
+   "url": "https://us.forums.blizzard.com/en/wow/t/alterac-valley-adjustments-november-25/2429074",
+   "autor": "Kaivax",
+   "fecha": "2026-11-25T19:42:28.736Z",
+   "resumen": "We’ve seen that players in Alterac Valley were frequently completing the battleground without capturing the objectives, so we’ve made some adjustments to incentivize a focus on the objectives rather than rushing to kill…",
+   "foro": "Forever"
+  },
+  {
+   "id": 2429017,
+   "titulo": "WoW Celebration Pass, WoW Forever's \"Al'Aketh Rising\" Comic, December Trading Post, and More in WoW…",
+   "url": "https://us.forums.blizzard.com/en/wow/t/wow-celebration-pass-wow-forevers-alaketh-rising-comic-december-trading-post-and-more-in-wow%E2%80%A6/2429017",
+   "autor": "BlizzardEntertainment",
+   "fecha": "2026-11-25T18:40:39.509Z",
+   "resumen": "[WoW Celebration Pass, WoW Forever's \"Al'Aketh Rising\" Comic, December Trading Post, and More in WoW…] Celebrate World of Warcraft: Forever with 365 days of WoW Game Time at a special price. This week also brings the…",
+   "foro": "Noticias"
+  },
+  {
+   "id": 2429007,
+   "titulo": "Balance Druid Adjustments - November 25",
+   "url": "https://us.forums.blizzard.com/en/wow/t/balance-druid-adjustments-november-25/2429007",
+   "autor": "Kaivax",
+   "fecha": "2026-11-25T18:32:04.328Z",
+   "resumen": "With changes that are now live, we’ve adjusted Druid talents to improve the talent flow and experience for players as they’re leveling up Balance. Classes Druid Improved Wrath is now renamed Starlight Wrath. Starlight…",
+   "foro": "Forever"
+  },
+  {
    "id": 2427978,
    "titulo": "Don’t Miss the World of Warcraft: Forever Comic, “Al'Aketh Rising”",
    "url": "https://us.forums.blizzard.com/en/wow/t/don%E2%80%99t-miss-the-world-of-warcraft-forever-comic-%E2%80%9Calaketh-rising%E2%80%9D/2427978",
@@ -80,33 +107,6 @@
    "autor": "Kaivax",
    "fecha": "2026-11-10T02:05:13.558Z",
    "resumen": "It’s vitally important that the PvP rulesets in WoW: Forever have balanced factions where both factions vie for supremacy, creating memories of epic victories and stunning defeats that we all remember for years to come.…",
-   "foro": "Forever"
-  },
-  {
-   "id": 2408677,
-   "titulo": "Prepare for Forever, Try Midnight’s Talebound, and Discover Sweet Treats in WoW Weekly",
-   "url": "https://us.forums.blizzard.com/en/wow/t/prepare-for-forever-try-midnight%E2%80%99s-talebound-and-discover-sweet-treats-in-wow-weekly/2408677",
-   "autor": "BlizzardEntertainment",
-   "fecha": "2026-11-10T00:36:27.237Z",
-   "resumen": "[Prepare for Forever, Try Midnight’s Talebound, and Discover Sweet Treats in WoW Weekly] From the global launch of World of Warcraft: Forever on November 4 to the eerie adventures of Midnight’s Talebound demo and…",
-   "foro": "Noticias"
-  },
-  {
-   "id": 2408668,
-   "titulo": "Prepare for Forever, Try Midnight’s Talebound, and Discover Sweet Treats in WoW Weekly",
-   "url": "https://us.forums.blizzard.com/en/wow/t/prepare-for-forever-try-midnight%E2%80%99s-talebound-and-discover-sweet-treats-in-wow-weekly/2408668",
-   "autor": "BlizzardEntertainment",
-   "fecha": "2026-11-10T00:26:57.074Z",
-   "resumen": "[Prepare for Forever, Try Midnight’s Talebound, and Discover Sweet Treats in WoW Weekly] From the global launch of World of Warcraft: Forever on November 4 to the eerie adventures of Midnight’s Talebound demo and…",
-   "foro": "Noticias"
-  },
-  {
-   "id": 2406595,
-   "titulo": "Dungeon Enemy XP Increased - November 8",
-   "url": "https://us.forums.blizzard.com/en/wow/t/dungeon-enemy-xp-increased-november-8/2406595",
-   "autor": "Kaivax",
-   "fecha": "2026-11-08T19:47:33.475Z",
-   "resumen": "At about 11:05 PST today, we deployed a hotfix that increased kill experience in dungeons by 50%, so it feels better to go back in for more runs. Happy dungeon crawling, and good luck with those Deviate Hides!",
    "foro": "Forever"
   }
  ]
