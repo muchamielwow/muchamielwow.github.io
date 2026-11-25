@@ -2,6 +2,15 @@
  "fuente": "https://us.forums.blizzard.com/en/wow/groups/blizzard-tracker/posts",
  "avisos": [
   {
+   "id": 2427978,
+   "titulo": "Don’t Miss the World of Warcraft: Forever Comic, “Al'Aketh Rising”",
+   "url": "https://us.forums.blizzard.com/en/wow/t/don%E2%80%99t-miss-the-world-of-warcraft-forever-comic-%E2%80%9Calaketh-rising%E2%80%9D/2427978",
+   "autor": "BlizzardEntertainment",
+   "fecha": "2026-11-24T18:03:28.309Z",
+   "resumen": "[Don’t Miss the World of Warcraft: Forever Comic, “Al'Aketh Rising”] Join Constable Aonda of the Skyborne as she travels into a remote settlement in the shadow of a growing threat. To find out why, she plays along, but…",
+   "foro": "Noticias"
+  },
+  {
    "id": 2423714,
    "titulo": "WoW: Forever Class Design, Echoes of the Worldcore, and More in WoW Weekly",
    "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-class-design-echoes-of-the-worldcore-and-more-in-wow-weekly/2423714",
@@ -98,15 +107,6 @@
    "autor": "Kaivax",
    "fecha": "2026-11-08T19:47:33.475Z",
    "resumen": "At about 11:05 PST today, we deployed a hotfix that increased kill experience in dungeons by 50%, so it feels better to go back in for more runs. Happy dungeon crawling, and good luck with those Deviate Hides!",
-   "foro": "Forever"
-  },
-  {
-   "id": 2404092,
-   "titulo": "Class Tuning Incoming - November 10",
-   "url": "https://us.forums.blizzard.com/en/wow/t/class-tuning-incoming-november-10/2404092",
-   "autor": "Kaivax",
-   "fecha": "2026-11-06T21:11:39.116Z",
-   "resumen": "Now that players around the world are leveling up in WoW: Forever, we’ve identified a few class issues that we feel need some immediate changes. Today, we’re still investigating these issues and working through them…",
    "foro": "Forever"
   }
  ]
