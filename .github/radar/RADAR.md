@@ -1,4 +1,4 @@
-# Radar de WoW Forever · actualizado el 26-11-2026 05:56 (hora de España)
+# Radar de WoW Forever · actualizado el 26-11-2026 15:59 (hora de España)
 
 Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial de Blizzard» es seguro; lo demás hay que comprobarlo antes de darlo por hecho. Las fuentes se cambian en .github/radar/fuentes.json.
 
@@ -112,8 +112,6 @@ Novedades de los últimos 7 días, la más nueva arriba. Fiabilidad: «Oficial d
 - **18:24 · Wowhead (noticias de Forever)** (en, Web especializada): [WoW: Forever Podcast Episode 8: Classes, Itemization, and BiS](https://www.wowhead.com/news=383926/wow-forever-podcast-episode-8-classes-itemization-and-bis) — The latest episode of the WoW: Forever podcast has been released, and this week it covers classes, itemization, BiS, and more! Continue reading »
 - **18:15 · World of Warcraft (YouTube oficial)** (en, Oficial de Blizzard): [Catching Up On Classes | Episode 8 - The WoW: Forever Podcast](https://www.youtube.com/watch?v=67dDe3QgJtM) — Join Host ‪@countdowntoclassic, Senior Game Designer Aidan Moon, and Principal Designer Kris Zierhut for a wide-ranging conversation on Class design, itemization, and more! Learn more at: https://worldofwarcraft.blizzard.com/forever ► Latest WoW news: http://worldofwarcraft.com/news ► Subscribe to…
 - **16:00 · Wowhead (noticias de Forever)** (en, Web especializada): [Earn a Free 16-Slot Bag from a Former SoD Questline in WoW: Forever](https://www.wowhead.com/news=383896/earn-a-free-16-slot-bag-from-a-former-sod-questline-in-wow-forever) — Another Season of Discovery questline has made its way to WoW: Forever, and among other things, it rewards a 16-slot bag! Continue reading »
-- **15:00 · Wowhead (noticias de Forever)** (en, Web especializada): [Tame a Secret Hunter Pet in WoW: Forever](https://www.wowhead.com/news=383902/tame-a-secret-hunter-pet-in-wow-forever) — A secret Hunter pet has been discovered in WoW: Forever, and players can finally tame a Winna's Kitten lookalike, which wasn't available in the original Classic! Continue reading »
-- **14:41 · AlterTime WoW Forever (YouTube)** (es, Creador de contenido): [CONSIGUE HASTA CIEN MONEDAS DE ORO EN WOW FOREVER CON ESTA SEMANAL](https://www.youtube.com/shorts/dMWCDHsJPvY) — Conoce la misión semanal que te puede recompensar con hasta cien monedas de oro en WoW Forever. Recuerda que puedes seguirnos en nuestras redes sociales y en su página oficial: ALTERTIME, FANSITE DE BLIZZARD Tiempo de juego más barato para WoW y ofertazas:…
 
 ## Fuentes que han fallado esta vez
 
