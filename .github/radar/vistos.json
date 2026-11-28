@@ -565,59 +565,5 @@
   "fuente": "AlterTime WoW Forever (YouTube)",
   "idioma": "es",
   "fiabilidad": "creador"
- },
- {
-  "url": "https://www.wowhead.com/news=383949/lfg-bug-fix-causes-players-to-see-more-groups-wow-forever-hotfixes-for-november",
-  "titulo": "LFG Bug Fix Causes Players to See More Groups - WoW: Forever Hotfixes for November 20, 2026",
-  "resumen": "Blizzard has posted hotfixes for today, which contains a bug fix for players seeing fewer groups than intended in LFG. Continue reading »",
-  "fecha": "2026-11-21T00:23:36+00:00",
-  "fuente": "Wowhead (noticias de Forever)",
-  "idioma": "en",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-20-2026/2403040/14",
-  "titulo": "WoW: Forever Hotfixes - November 20, 2026",
-  "resumen": "November 20, 2026 Classes Rogue Combat Blade Flurry will now correctly cause Shank’s damage to hit an additional target. Warlock Demonology Fixed a bug where the effects of the Demonic Aegis talent could be snapshotted into your Demon Armor or Demon Skin and then untalented to retain the …",
-  "fecha": "2026-11-21T00:18:29.701000+00:00",
-  "fuente": "Blizzard (mensajes del equipo)",
-  "idioma": "en",
-  "fiabilidad": "oficial"
- },
- {
-  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-23-2026/2403040/14",
-  "titulo": "WoW: Forever Hotfixes - November 23, 2026",
-  "resumen": "November 20, 2026 Classes Rogue Combat Blade Flurry will now correctly cause Shank’s damage to hit an additional target. Warlock Demonology Fixed a bug where the effects of the Demonic Aegis talent could be snapshotted into your Demon Armor or Demon Skin and then untalented to retain the …",
-  "fecha": "2026-11-21T00:18:29.701000+00:00",
-  "fuente": "Blizzard (mensajes del equipo)",
-  "idioma": "en",
-  "fiabilidad": "oficial"
- },
- {
-  "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-25-2026/2403040/14",
-  "titulo": "WoW: Forever Hotfixes - November 25, 2026",
-  "resumen": "November 20, 2026 Classes Rogue Combat Blade Flurry will now correctly cause Shank’s damage to hit an additional target. Warlock Demonology Fixed a bug where the effects of the Demonic Aegis talent could be snapshotted into your Demon Armor or Demon Skin and then untalented to retain the …",
-  "fecha": "2026-11-21T00:18:29.701000+00:00",
-  "fuente": "Blizzard (mensajes del equipo)",
-  "idioma": "en",
-  "fiabilidad": "oficial"
- },
- {
-  "url": "https://www.wowhead.com/news=383946/itemization-of-crafted-tier-sets-revealed-in-wow-forevers-first-raid-tier",
-  "titulo": "Itemization of Crafted Tier Sets Revealed in WoW: Forever's First Raid Tier",
-  "resumen": "The stats for the crafted versions of Tier Set gear from the first raid tier have been revealed in a hotfix to Forever! Continue reading »",
-  "fecha": "2026-11-20T20:51:19+00:00",
-  "fuente": "Wowhead (noticias de Forever)",
-  "idioma": "en",
-  "fiabilidad": "web"
- },
- {
-  "url": "https://www.wowhead.com/news=383943/layer-swap-and-other-targeted-layering-addons-will-be-disabled-soon-in-wow",
-  "titulo": "Layer Swap and Other Targeted Layering Addons Will Be Disabled Soon in WoW: Forever",
-  "resumen": "Targeted Layering Addons will no longer work in an upcoming hotfix for WoW: Forever, as various API calls that show a realm ID will be obfuscated soon. Continue reading »",
-  "fecha": "2026-11-20T19:00:55+00:00",
-  "fuente": "Wowhead (noticias de Forever)",
-  "idioma": "en",
-  "fiabilidad": "web"
  }
 ]
